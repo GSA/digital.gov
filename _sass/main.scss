@@ -1,8 +1,5 @@
----
-# assets/main.scss
----
 
-$font-path: 'uswds/fonts';
+$font-path: '../fonts';
 $img-path: 'uswds/img';
 
 @import "dg/fonts";
@@ -12,7 +9,7 @@ $img-path: 'uswds/img';
 @import 'uswds/all';
 
 // Externals
-@import 'font-awesome/css/font-awesome.min.css';
+@import '../assets/font-awesome/css/font-awesome.min.css';
 
 // Site Styles
 @import "dg/mixins/grid";
