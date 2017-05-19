@@ -23,6 +23,7 @@ var supportedBrowsers = [
 var paths = {
   scss: '_sass/main.scss',
   scssDestination: 'assets/css',
+  scssSiteDestination: '_site/assets/css',
   js: 'assets/js/main.js',
 };
 
@@ -112,6 +113,7 @@ gulp.task('sass', function(){
     }))
     .pipe(rename('main.css'))
     .pipe(gulp.dest(paths.scssDestination))
+    .pipe(gulp.dest(paths.scssSiteDestination))
     .pipe(size())
     .pipe(browserSync.stream())
     .pipe(notify({
@@ -130,11 +132,12 @@ gulp.task('sass', function(){
 // })
 
 gulp.task('watch', function () {
-    gulp.watch('_sass/**.*', ['sass']);
+    gulp.watch('_sass/**/*', ['sass']);
     gulp.watch([
       '_includes/**/*',
       '_layouts/**/*',
       '_posts/**/*',
+      'assets/img/**/*',
       'content/**/*'
     ], ['jekyll-rebuild']);
     gulp.watch([
@@ -142,4 +145,4 @@ gulp.task('watch', function () {
     ], ['jekyll-rebuild-complete']);
 });
 
-gulp.task('default', ['sass', 'jekyll-first-build', 'watch']);
+gulp.task('default', ['jekyll-first-build', 'sass', 'watch']);
