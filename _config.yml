@@ -46,7 +46,7 @@ exclude:
 
 picture:
   source: "assets/img/_fullsize"
-  output: "assets/img/output"
+  output: "output"
   markup: "picture"
   presets:
     default:
