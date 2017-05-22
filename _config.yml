@@ -51,10 +51,25 @@ picture:
   presets:
     default:
       attr:
-        class: "foo"
+        class: "default"
       ppi: [1, 1.5, 2.0]
-      source_medium:
-        media: "(min-width: 80em)"
+      source_default:
         width: "400"
+    full:
+      attr:
+        class: "full"
+      ppi: [1, 1.5, 2.0]
+      source_xl:
+        media: "(min-width: 1200px)"
+        width: "1200"
+      source_lg:
+        media: "(min-width: 800px)"
+        width: "1000"
+      source_md:
+        media: "(min-width: 600px)"
+        width: "700"
+      source_sm:
+        media: "(min-width: 400px)"
+        width: "500"
       source_default:
         width: "400"
