@@ -40,3 +40,21 @@ exclude:
   - content/pages/_x/
   - content/un-sorted/
   - content/pages/_x/
+
+# jekyll-picture-tag setup
+# https://github.com/robwierzbowski/jekyll-picture-tag
+
+picture:
+  source: "assets/img/_fullsize"
+  output: "assets/img/output"
+  markup: "picture"
+  presets:
+    default:
+      attr:
+        class: "foo"
+      ppi: [1, 1.5, 2.0]
+      source_medium:
+        media: "(min-width: 80em)"
+        width: "400"
+      source_default:
+        width: "400"
