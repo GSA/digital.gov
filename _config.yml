@@ -40,3 +40,4 @@ exclude:
   - content/pages/_x/
   - content/un-sorted/
   - content/pages/_x/
+  - _posts
