@@ -39,13 +39,13 @@ const siteRoot = '_site';
 
 gulp.task('jekyll-build', function (done) {
     browserSync.notify(messages.jekyllBuild);
-    return child.spawn( jekyll , ['build', '--incremental', '--drafts'], {stdio: 'inherit'})
+    return child.spawn( jekyll , ['build', '--incremental', '--drafts', '--config=_config.yml,_config-local.yml'], {stdio: 'inherit'})
         .on('close', done);
 });
 
 gulp.task('jekyll-build-complete', function (done) {
     browserSync.notify(messages.jekyllBuildComplete);
-    return child.spawn( jekyll , ['build', '--drafts'], {stdio: 'inherit'})
+    return child.spawn( jekyll , ['build', '--drafts', '--config=_config.yml,_config-local.yml'], {stdio: 'inherit'})
         .on('close', done);
 });
 
@@ -61,7 +61,7 @@ gulp.task('copy-uswds-js', function () {
 
 gulp.task('jekyll-build-startup', ['copy-uswds-img', 'copy-uswds-img'], function (done) {
     browserSync.notify(messages.jekyllBuildComplete);
-    return child.spawn( jekyll , ['build', '--drafts'], {stdio: 'inherit'})
+    return child.spawn( jekyll , ['build', '--drafts', '--config=_config.yml,_config-local.yml'], {stdio: 'inherit'})
         .on('close', done);
 });
 
@@ -156,6 +156,11 @@ gulp.task('watch', function () {
       '_includes/**/*',
       '_layouts/**/*',
       '_posts/**/*',
+      '_docs/**/*',
+      '_events/**/*',
+      '_guides/**/*',
+      '_people/**/*',
+      '_promos/**/*',
       'assets/img/**/*',
       'content/**/*'
     ], ['jekyll-rebuild']);

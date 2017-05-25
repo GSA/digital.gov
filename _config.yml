@@ -44,7 +44,18 @@ exclude:
   - content/pages/_x/
 
 collections:
-  - events
-  - guides
-  - people
-  - promos
+  events:
+    output: false
+  guides:
+    output: false
+  people:
+    output: false
+  docs:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: docs

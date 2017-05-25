@@ -2,7 +2,7 @@
 title: My cool event
 event-id: my-cool-event
 author-id: thisisdano
-date:
+event-date:
   start:
   end:
 time:

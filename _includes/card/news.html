@@ -1,0 +1,8 @@
+{% assign promo = site.data.promos[include.promo] %}
+
+<div class="card-news">
+    <h3 class="card-title">{{ promo.heading }}</h3>
+    <div class="card-summary">{{ promo.body.summary | markdownify }}</div>
+    {% if promo.featured-image %}
+    {% endif %}
+</div>

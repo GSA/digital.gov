@@ -1,0 +1,13 @@
+collections:
+  events:
+    output: false
+  guides:
+    output: false
+  people:
+    output: false
+  promos:
+    output: false
+  docs:
+    output: true
+
+environment: local

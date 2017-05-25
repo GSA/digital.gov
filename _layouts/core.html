@@ -1,0 +1,19 @@
+---
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+  <head>
+    {% include meta.html %}
+    <!-- Le CSS -->
+    <!-- {% include styles.html %} -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" media="screen">
+    <!-- Robot Flag -->
+    <meta name='robots' content='noindex,follow' />
+  </head>
+  <!-- All good things start here -->
+  <body class="{{ layout.class }} {{ page.class }}">
+
+    {{ content }}
+
+  </body>
+</html>
