@@ -1,7 +1,7 @@
 ---
 permalink: /services/electronic-capital-planning-and-investment-control-ecpic/
 title: Electronic Capital Planning and Investment Control eCPIC
-layout: docs
+
 ---
 
 [www.eCPIC.gov](http://www.eCPIC.gov){.button}

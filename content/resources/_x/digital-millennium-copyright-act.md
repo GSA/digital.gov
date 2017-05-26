@@ -1,7 +1,7 @@
 ---
 permalink: /resources/digital-millennium-copyright-act/
 title: Digital Millennium Copyright Act
-layout: docs
+
 ---
 
 The Digital Millennium Copyright Act (DMCA) is a United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). Passed on October 12, 1998, the DMCA amended Title 17 of the United States Code to extend the reach of copyright, while limiting the liability of the providers of online services for copyright infringement by their users.

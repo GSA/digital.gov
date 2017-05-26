@@ -1,6 +1,6 @@
 ---
 permalink: /services/mobile-application-testing-program/
-layout: docs
+
 
 title: Federal CrowdSource Mobile Testing Program
 summary: Does your mobile application function properly on all devices your users have? Are you able to test your mobile site on all devices that access it? Do you have the time and money to maintain a mobile test lab?

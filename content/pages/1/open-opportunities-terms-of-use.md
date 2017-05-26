@@ -1,7 +1,7 @@
 ---
 permalink: /join-digitalgov/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/
 title: Open Opportunities Terms of Use
-layout: docs
+
 ---
 
 We don’t like lengthy and complicated Terms of Use, so here’s our attempt to make this simple and easy for you.

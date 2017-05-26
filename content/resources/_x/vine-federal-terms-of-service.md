@@ -1,7 +1,7 @@
 ---
 permalink: /resources/vine-federal-terms-of-service/
 title: Vine Federal Terms of Service
-layout: docs
+
 ---
 
 [Vine](https://vine.co/) is a short form video sharing service where users can share six second-long looping video clips. Users&#8217; videos are published through Vine&#8217;s social network and can be shared on other services such as Facebook and Twitter.

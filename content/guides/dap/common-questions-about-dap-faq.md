@@ -1,7 +1,7 @@
 ---
 permalink: /services/dap/common-questions-about-dap-faq/
 title: Common Questions about DAP (FAQ)
-layout: docs
+
 ---
 
 <img class="aligncenter size-full wp-image-1852" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/digitaltunnel.jpg" alt="Tunnel made from blue digital bits" width="640" height="265" />

@@ -1,7 +1,7 @@
 ---
 permalink: /resources/slideshare-federal-terms-of-service/
 title: Slideshare Federal Terms of Service
-layout: docs
+
 ---
 
 [Slideshare](http://www.slideshare.net/), part of the LinkedIn family, makes knowledge sharing easy by providing an online platform for the uploading and sharing of PowerPoint presentations, Word documents and Adobe PDF portfolios.

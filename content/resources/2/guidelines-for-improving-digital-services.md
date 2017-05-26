@@ -2,7 +2,7 @@
 permalink: /resources/guidelines-for-improving-digital-services/
 
 title: Guidelines for Improving Digital Services
-layout: docs
+
 ---
 
 The [Digital Services Advisory Group](https://obamawhitehouse.archives.gov/digitalgov/advisory-group) and the Federal Web Managers Council have developed the following guidelines to meet the 6.1 milestone of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). These recommendations apply to all digital services, including Web, mobile, apps, APIs, and online forms.

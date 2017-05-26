@@ -1,7 +1,7 @@
 ---
 permalink: /resources/nara-guidance-on-managing-social-media-records/
 title: NARA guidance on Managing Social Media Records
-layout: docs
+
 ---
 
 This Bulletin provides high-level record keeping requirements and best practices for capturing records created when federal agencies use social media.

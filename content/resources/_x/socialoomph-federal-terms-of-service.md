@@ -1,7 +1,7 @@
 ---
 permalink: /resources/socialoomph-federal-terms-of-service/
 title: SocialOomph Federal Terms of Service
-layout: docs
+
 ---
 
 [SocialOomph](https://www.socialoomph.com/) is a cloud based application that offers tools for using Twitter and Facebook more productively.

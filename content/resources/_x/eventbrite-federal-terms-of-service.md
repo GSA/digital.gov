@@ -1,7 +1,7 @@
 ---
 permalink: /resources/eventbrite-federal-terms-of-service/
 title: Eventbrite Federal Terms of Service
-layout: docs
+
 ---
 
 [Eventbrite](http://www.eventbrite.com) is a self-service event tool to help you organize better events and reach more people online.

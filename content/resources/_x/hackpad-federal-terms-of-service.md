@@ -1,7 +1,7 @@
 ---
 permalink: /resources/hackpad-federal-terms-of-service/
 title: Hackpad Federal Terms of Service
-layout: docs
+
 ---
 
 <span class="author-p-12705"><a href="https://hackpad.com/">Hackpad</a> is s a collaborative editing tool similar to Google Docs. Create and Organize. Take collaborative notes, share data and files, and use comments to share your thoughts in real-time or asynchronously.</span>

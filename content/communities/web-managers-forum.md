@@ -1,7 +1,7 @@
 ---
 permalink: /communities/web-managers-forum/
 title: Web Content Managers Forum
-layout: docs
+
 
 redirect_from:
   - /communities/web-managers-forum/member-spotlight-karen-higa-state-of-hawaii/

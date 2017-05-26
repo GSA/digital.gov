@@ -1,7 +1,7 @@
 ---
 permalink: /communities/video-production-pros-community-of-practice/
 title: Video Production Pros Community of Practice
-layout: docs
+
 ---
 
 ## Who Are We?

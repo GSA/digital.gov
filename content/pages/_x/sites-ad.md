@@ -1,7 +1,7 @@
 ---
 permalink: /sites-ad/
 title: Sites Ad
-layout: docs
+
 ---
 
 [<img class="aligncenter wp-image-107152" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo.png" alt="DigitalGov logo 792 x 125" width="678" height="107" />]({{ site.baseurl }}/index.html)

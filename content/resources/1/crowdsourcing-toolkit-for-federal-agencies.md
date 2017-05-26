@@ -1,7 +1,7 @@
 ---
 permalink: /resources/crowdsourcing-toolkit-for-federal-agencies/
 title: Crowdsourcing Toolkit for Federal Agencies
-layout: docs
+
 ---
 
 ## What is a Challenge?

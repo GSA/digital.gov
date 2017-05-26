@@ -1,7 +1,7 @@
 ---
 permalink: /resources/mobile-application-development-program/
 title: Mobile Application Development Program
-layout: docs
+
 ---
 
 <blockquote class="guarantee">

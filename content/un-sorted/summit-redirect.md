@@ -2,7 +2,7 @@
 permalink: /summit-redirect/
 
 title: DigitalGov Citizen Services Summit
-layout: docs
+
 
 # This page redirects to https://summit.digitalgov.gov/
 ---

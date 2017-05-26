@@ -1,7 +1,7 @@
 ---
 permalink: /resources/making-open-and-machine-readable-the-new-default-for-government-information/
 title: Making Open and Machine Readable the New Default for Government Information
-layout: docs
+
 ---
 
 Openness in government strengthens our democracy, promotes the delivery of efficient and effective services to the public, and contributes to economic growth. As one vital benefit of open government, making information resources easy to find, accessible, and usable can fuel entrepreneurship, innovation, and scientific discovery that improves Americans&#8217; lives and contributes significantly to job creation.

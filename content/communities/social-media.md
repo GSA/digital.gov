@@ -1,6 +1,6 @@
 ---
 permalink: /communities/social-media/
-layout: docs
+
 
 title: Social Media Community of Practice
 ---

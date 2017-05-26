@@ -1,7 +1,7 @@
 ---
 permalink: /quick-reference-to-web-content-accessibility-guidelines-2-0-requirements/
 title: Quick Reference to Web Content Accessibility Guidelines 2.0 requirements
-layout: docs
+
 ---
 
 This quick reference guide will help you meet Web Content Accessibility Guidelines (WCAG) 2.0. It is a customizable quick reference to the requirements, success criteria and techniques.

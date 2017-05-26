@@ -1,7 +1,7 @@
 ---
 permalink: /resources/implementation-of-the-government-paperwork-elimination-act/
 title: Implementation of the Government Paperwork Elimination Act
-layout: docs
+
 ---
 
 The Office of Management and Budget (OMB) provided this guidance to implement the Government Paperwork Elimination Act (GPEA). GPEA required Federal agencies, by October 21, 2003, to allow individuals or entities that deal with the agencies the option to submit information or transact with the agency electronically, when practicable, and to maintain records electronically, when practicable. The Act specifically states that electronic records and their related electronic signatures are not to be denied legal effect, validity, or enforceability merely because they are in electronic form, and encourages Federal government use of a range of electronic signature alternatives.

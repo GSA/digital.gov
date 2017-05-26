@@ -1,6 +1,6 @@
 ---
 permalink: /join/
-layout: docs
+
 
 title: Join Digital.gov
 

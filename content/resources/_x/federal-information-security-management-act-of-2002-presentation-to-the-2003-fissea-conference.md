@@ -1,7 +1,7 @@
 ---
 permalink: /resources/federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference/
 title: 'Federal Information Security Management Act of 2002 &#8211; Presentation to the 2003 FISSEA Conference'
-layout: docs
+
 ---
 
 The head of the agency delegates to the CIO a number of information security responsibilities. The CIO in turn designates a senior agency information security officer.

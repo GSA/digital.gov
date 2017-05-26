@@ -2,7 +2,7 @@
 permalink: /resources/open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task/
 
 title: 10 Tips for Creating the Perfect Open Opportunity Task
-layout: docs
+
 ---
 
 **Divide and conquer:** Keep projects simple: if you have a big project, consider dividing it into smaller tasks. You can also offer several tasks at the same time (rather than sequentially).

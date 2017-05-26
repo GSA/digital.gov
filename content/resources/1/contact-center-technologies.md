@@ -1,7 +1,7 @@
 ---
 permalink: /resources/contact-center-guidelines/contact-center-technologies/
 title: Contact Center Technologies
-layout: docs
+
 ---
 
 A contact center is supported by many technologies designed to enhance the customer experience, improve the operating and management efficiency, or lower the overall costs of running a contact center. These technologies are:

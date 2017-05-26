@@ -1,7 +1,7 @@
 ---
 permalink: /resources/ideascale-federal-terms-of-service/
 title: Ideascale Federal Terms of Service
-layout: docs
+
 ---
 
 [Ideascale](http://ideascale.com/) allows organizations to collect the ideas of public and private communities and gives users a platform to vote. The ideas are then evaluated, routed, and implemented, making Ideascale the engine of crowd-powered innovation.

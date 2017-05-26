@@ -1,6 +1,6 @@
 ---
 permalink: /services/u-s-digital-registry/
-layout: docs
+
 
 title: U.S. Digital Registry
 ---

@@ -1,7 +1,7 @@
 ---
 permalink: /open-government-directive/
 title: Open Government Directive
-layout: docs
+
 ---
 
 This memorandum is intended to direct executive departments and agencies to take specific actions to implement the principles of transparency, participation, and collaboration set forth in the [President’s Memorandum on Transparency and Open Government](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_fy2009/m09-12.pdf). This Directive was informed by recommendations from the Federal Chief Technology Officer, who solicited public comment through the White House Open Government Initiative.

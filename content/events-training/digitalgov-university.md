@@ -3,7 +3,7 @@ permalink: /digitalgov-university/
 
 title: DigitalGov University
 summary: DigitalGov University (DGU) is helping agencies meet the public’s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops and connect with each other.
-layout: docs
+
 ---
 
 We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://www.youtube.com/c/digitalgov). Trainings are open to anyone working in the government or for a government agency.

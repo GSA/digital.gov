@@ -1,7 +1,7 @@
 ---
 permalink: /resources/government-customer-service-policies-requirements-1993-to-present/
 title: 'Government Customer Service Policies &#038; Requirements: 1993 to Present'
-layout: docs
+
 ---
 
 May 2016—<a href="https://www.gao.gov/products/GAO-16-509" target="_blank">GAO Report GAO-16-509</a>

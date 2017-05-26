@@ -1,7 +1,7 @@
 ---
 permalink: /overview-of-the-privacy-act-of-1974-2015-edition/
 title: Overview of the Privacy Act of 1974 (2015 Edition)
-layout: docs
+
 ---
 
 This overview provides reference to and legal analysis of court decisions interpreting the Privacy Act&#8217;s provisions. The Overview is not intended to provide policy guidance, as that role statutorily rests with the Office of Management and Budget (OMB), 5 U.S.C. § 552a(v).  . The 2015 edition of the Overview was issued electronically and sent for publication in July 2015 and includes cases through May 2014. The Overview is scheduled to be revised again in 2016.

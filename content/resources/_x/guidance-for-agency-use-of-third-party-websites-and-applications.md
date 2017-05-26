@@ -1,7 +1,7 @@
 ---
 permalink: /resources/guidance-for-agency-use-of-third-party-websites-and-applications/
 title: Guidance for Agency Use of Third-Party Websites and Applications
-layout: docs
+
 ---
 
 This Memorandum requires Federal agencies to take specific steps to protect individual privacy whenever they use third-party websites and applications to engage with the public.

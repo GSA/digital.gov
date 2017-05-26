@@ -1,7 +1,7 @@
 ---
 permalink: /resources/news-genius-federal-terms-of-service/
 title: News Genius Federal Terms of Service
-layout: docs
+
 ---
 
 News Genius is dedicated to crowd-sourced annotation of the latest breaking stories, and hosts primary sources on topics like politics, tech, and science.

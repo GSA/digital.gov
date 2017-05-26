@@ -1,7 +1,7 @@
 ---
 permalink: /resources/paperwork-reduction-act-fast-track-process/
 title: Paperwork Reduction Act Fast Track Process
-layout: docs
+
 ---
 
 ## Protect Your Customer&#8217;s Privacy

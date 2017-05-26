@@ -1,6 +1,6 @@
 ---
 permalink: /about/policies/
-layout: docs
+
 
 title: Policies
 ---

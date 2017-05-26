@@ -1,7 +1,7 @@
 ---
 permalink: /resources/uservoice-federal-terms-of-service/
 title: UserVoice Federal Terms of Service
-layout: docs
+
 ---
 
 [UserVoice](https://www.uservoice.com/) is a feedback forum and in-app widget to capture the ideas your users care about most. Reporting and analytics to aggregate and prioritize ideas for your roadmap.

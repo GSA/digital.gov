@@ -1,7 +1,7 @@
 ---
 permalink: /join-digitalgov/open-opportunities-in-digitalgov/
 title: Open Opportunities in DigitalGov
-layout: docs
+
 ---
 
 _Building a 21st century workforce._ _One task at a time._

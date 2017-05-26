@@ -1,7 +1,7 @@
 ---
 permalink: /resources/contact-center-guidelines/getting-started-with-your-contact-center/
 title: Getting Started with your Contact Center
-layout: docs
+
 ---
 
 Planning and creating a successful government contact center is a complex endeavor. This section provides insight on the various aspects to help you get started:

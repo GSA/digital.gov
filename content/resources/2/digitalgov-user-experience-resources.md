@@ -2,7 +2,7 @@
 permalink: /resources/digitalgov-user-experience-resources/
 
 title: DigitalGov User Experience Resources
-layout: docs
+
 ---
 
 We want to help you make better digital products. We believe that a little user research makes government a lot better. ![Two people high fiving at a usability training](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/usajobs-hallway-test-high-five-250x244.jpeg) DigitalGov’s user experience resources provide tools for federal employees how to:

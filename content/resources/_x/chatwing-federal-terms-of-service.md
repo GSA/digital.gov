@@ -1,7 +1,7 @@
 ---
 permalink: /resources/chatwing-federal-terms-of-service/
 title: chatWING Federal Terms of Service
-layout: docs
+
 ---
 
 [chatWING](http://chatwing.com/) is a chat app that connects your Web Chat, allows you to network your chat with your friends, and connect via social meda with the controls and customization options you want.

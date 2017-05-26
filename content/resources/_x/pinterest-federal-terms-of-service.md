@@ -1,7 +1,7 @@
 ---
 permalink: /resources/pinterest-federal-terms-of-service/
 title: Pinterest Federal Terms of Service
-layout: docs
+
 ---
 
 [Pinterest](https://www.pinterest.com/) is a free website where users can upload, save, sort and manage images known as pins and other media content through collections known as pinboards. Pinterest acts as a personalized media platform.

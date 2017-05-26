@@ -2,7 +2,7 @@
 permalink: /resources/inventory-data-gov-guide/
 
 title: Inventory.data.gov Guide
-layout: docs
+
 ---
 
   * [Introduction](#introduction)

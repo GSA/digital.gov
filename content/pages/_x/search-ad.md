@@ -1,7 +1,7 @@
 ---
 permalink: /search-ad/
 title: Search Ad
-layout: docs
+
 ---
 
 # <img class=" wp-image-280002 alignnone" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/678-x-80-digitalgov_search_logo.jpg" alt="DigitalGov Search" width="441" height="52" />

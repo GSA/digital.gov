@@ -1,6 +1,6 @@
 ---
 permalink: /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
-layout: docs
+
 
 title: 'Incorporating the Digital Analytics Program Tool Into Your Agency&#039;s Metric Program'
 ---

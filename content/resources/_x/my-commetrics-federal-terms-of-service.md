@@ -1,7 +1,7 @@
 ---
 permalink: /resources/my-commetrics-federal-terms-of-service/
 title: My.ComMetrics Federal Terms of Service
-layout: docs
+
 ---
 
 [My.comMetrics](http://my.commetrics.com/) provides tracking and benchmarking as well as actionable insights for blogs.

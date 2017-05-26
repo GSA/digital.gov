@@ -1,7 +1,7 @@
 ---
 permalink: /resources/omb-memo-on-testing-and-simplifying-federal-forms/
 title: OMB Memo on Testing and Simplifying Federal Forms
-layout: docs
+
 ---
 
 This memo set forth that &#8220;To the extent feasible and appropriate, especially for complex or lengthy forms, agencies shall engage in advance testing of information collections, including Federal forms, in order (1) to ensure that they are not unnecessarily complex, burdensome, or confusing, (2) to obtain the best available information about the likely burdens on members of the public (including small businesses), and (3) to identify ways to reduce burdens and to increase simplification and ease of comprehension. Such advance testing should occur either before proposing information collections to the public or during the public comment period required by the PRA. &#8221;

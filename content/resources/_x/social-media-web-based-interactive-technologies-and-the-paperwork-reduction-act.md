@@ -1,7 +1,7 @@
 ---
 permalink: /resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act/
 title: Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act
-layout: docs
+
 ---
 
 Inspired by the goal of promoting flexible and open interactions between federal agencies and the public this memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA) applies to Federal agency use of social media and web-based interactive technologies.

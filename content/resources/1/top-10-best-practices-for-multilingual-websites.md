@@ -1,7 +1,7 @@
 ---
 permalink: /resources/top-10-best-practices-for-multilingual-websites/
 title: Top 10 Best Practices for Multilingual Websites
-layout: docs
+
 ---
 
   1. **Language**

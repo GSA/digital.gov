@@ -1,7 +1,7 @@
 ---
 permalink: /resources/surveymonkey-federal-terms-of-service/
 title: SurveyMonkey Federal Terms of Service
-layout: docs
+
 ---
 
 [SurveyMonkey](http://www.surveymonkey.com) is a online survey development cloud-based tool that provides free, customizable surveys as well as  data analysis.<sup id="cite_ref-7" class="reference"></sup>

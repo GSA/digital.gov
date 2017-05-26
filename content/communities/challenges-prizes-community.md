@@ -1,6 +1,6 @@
 ---
 permalink: /communities/challenges-prizes-community/
-layout: docs
+
 
 title: 'Challenges &#038; Prizes Community'
 ---

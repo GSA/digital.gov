@@ -1,7 +1,7 @@
 ---
 permalink: /resources/plain-language-web-writing-tips/
 title: Plain Language Web Writing Tips
-layout: docs
+
 ---
 
 On the Web, people are in a hurry. They skim and scan, looking for fast answers to their questions, so it’s important to get to the point—quickly!

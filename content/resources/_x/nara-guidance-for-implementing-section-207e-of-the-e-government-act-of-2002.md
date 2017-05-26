@@ -1,7 +1,7 @@
 ---
 permalink: /resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/
 title: NARA Guidance for Implementing Section 207(e) of the E-Government Act of 2002
-layout: docs
+
 ---
 
 This bulletin provides Federal agencies with the National Archives and Records Administration&#8217;s (NARA) approach to improve the management of electronic records, including web records, as directed by Section 207(e) of the E-Government Act of 2002. All electronic records created and received by agencies are subject to the same existing statutory and regulatory records management requirements as records in other formats and on other media.

@@ -1,7 +1,7 @@
 ---
 permalink: /resources/guidelines-on-securing-public-web-servers/
 title: Guidelines on Securing Public Web Servers
-layout: docs
+
 ---
 
 The World Wide Web (WWW) is a system for exchanging information over the Internet. At the most basic level, the Web can be divided into two principal components: Web servers, which are applications that make information available over the Internet (in essence, publish information), and Web browsers (clients), which are used to access and display the information stored on the Web servers. This document focuses on the security issues of Web servers.

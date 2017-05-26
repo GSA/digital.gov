@@ -1,7 +1,7 @@
 ---
 permalink: /communities/mobile/
 title: MobileGov Community of Practice
-layout: docs
+
 ---
 
 MobileGov Community of Practice members, a network of federal employees, work across agencies to create anytime, anywhere government resources and solutions for today and tomorrow.

@@ -1,7 +1,7 @@
 ---
 permalink: /resources/freedom-of-information-act-memo-2009/
 title: Freedom of Information Act Memo 2009
-layout: docs
+
 ---
 
 The Freedom of Information Act (FOIA) is the law that gives anyone the right to access information from the federal government. It is often described as the law that keeps citizens in the know about their government. This [2009 FOIA memo](http://www.justice.gov/sites/default/files/ag/legacy/2009/06/24/foia-memo-march2009.pdf) covers the following:

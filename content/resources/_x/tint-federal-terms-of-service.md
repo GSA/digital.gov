@@ -1,7 +1,7 @@
 ---
 permalink: /resources/tint-federal-terms-of-service/
 title: Tint Federal Terms of Service
-layout: docs
+
 ---
 
 [Tint](https://www.tintup.com/) helps organization drive deeper relationship with their customers through social media. Use Tint to aggregate, curate, and display any social media feeds anywhere.

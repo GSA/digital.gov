@@ -1,7 +1,7 @@
 ---
 permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/
 title: 'Spanish Language Style Guide &#038; Glossaries: Internet Resources'
-layout: docs
+
 ---
 
 ## 

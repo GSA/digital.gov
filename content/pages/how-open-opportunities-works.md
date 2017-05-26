@@ -2,7 +2,7 @@
 permalink: /join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/
 
 title: How Open Opportunities Works
-layout: docs
+
 
 ---
 

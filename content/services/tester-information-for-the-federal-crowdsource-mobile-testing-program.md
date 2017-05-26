@@ -1,6 +1,6 @@
 ---
 permalink: /services/mobile-application-testing-program/tester-information-for-the-federal-crowdsource-mobile-testing-program/
-layout: docs
+
 
 title: Tester Information for the Federal Crowdsource Mobile Testing Program
 ---

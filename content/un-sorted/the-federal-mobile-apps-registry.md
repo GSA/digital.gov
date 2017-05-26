@@ -1,7 +1,7 @@
 ---
 permalink: /services/the-federal-mobile-apps-registry/
 title: The Federal Mobile Products Registry
-layout: docs
+
 ---
 
 <p style="text-align: center">

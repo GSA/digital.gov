@@ -1,7 +1,7 @@
 ---
 permalink: /services/social-media-registry/
 title: Social Media Registry
-layout: docs
+
 ---
 
 <img class="aligncenter size-full wp-image-168841" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for &quot;Central Intelligence Agency&quot; on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." width="600" height="280" />

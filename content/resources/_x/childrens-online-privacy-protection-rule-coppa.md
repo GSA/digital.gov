@@ -1,7 +1,7 @@
 ---
 permalink: /resources/childrens-online-privacy-protection-rule-coppa/
 title: 'Children&#039;s Online Privacy Protection Rule (&quot;COPPA&quot;)'
-layout: docs
+
 ---
 
 The Children&#8217;s Online Privacy Protection Rule,imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age.

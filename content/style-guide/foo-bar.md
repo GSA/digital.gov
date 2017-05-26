@@ -1,7 +1,7 @@
 ---
 title: foo
 permalink: /style-guide/foo-bar/
-layout: docs
+
 
 redirect_from:
   - /style-guide/foo/

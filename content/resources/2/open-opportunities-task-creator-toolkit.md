@@ -2,7 +2,7 @@
 permalink: /resources/open-opportunities-task-creator-toolkit/
 
 title: Open Opportunities Task Creator Toolkit
-layout: docs
+
 ---
 
 [<img class="alignright wp-image-266912 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" width="250" height="323" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/Open-Opportunities-Task-Creator-Process1.pdf)Click the image to the right to download your own copy of this chart for reference.

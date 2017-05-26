@@ -1,6 +1,6 @@
 ---
 permalink: /communities/plain-language-community-of-practice/
-layout: docs
+
 
 title: Plain Language Community of Practice
 ---

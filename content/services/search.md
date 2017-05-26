@@ -1,6 +1,6 @@
 ---
 permalink: /services/search/
-layout: docs
+
 
 title: DigitalGov Search
 ---

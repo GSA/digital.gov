@@ -1,7 +1,7 @@
 ---
 permalink: /resources/mandrill-federal-terms-of-service/
 title: Mandrill Federal Terms of Service
-layout: docs
+
 ---
 
 [Mandrill](http://mandrill.com/) is a reliable, scalable, and secure delivery API for transactional emails from websites and applications. You can use it for sending data-driven transactional emails, including targeted e-commerce and personalized one-to-one messages.

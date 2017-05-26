@@ -1,7 +1,7 @@
 ---
 permalink: /communities/federal-crowdsourcing-and-citizen-science/
 title: Federal Crowdsourcing and Citizen Science
-layout: docs
+
 ---
 
 If you had 100,000 people to help you with your work, what would you do?

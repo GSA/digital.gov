@@ -1,7 +1,7 @@
 ---
 permalink: /resources/gov-domain-registration-process-final-rule/
 title: GOV Domain Registration Process Final Rule
-layout: docs
+
 ---
 
 This final rule provided a new policy for the .GOV domain that will be included in the Federal Management Regulation.

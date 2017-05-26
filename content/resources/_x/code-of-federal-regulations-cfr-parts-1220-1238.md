@@ -1,7 +1,7 @@
 ---
 permalink: /resources/code-of-federal-regulations-cfr-parts-1220-1238/
 title: Code of Federal Regulations (CFR), Parts 1220-1238
-layout: docs
+
 ---
 
 Subchapter B  of the CFR specifies polices for federal agencies records management programs relating to proper records creation and maintenance, adequate documentation, and records disposition.

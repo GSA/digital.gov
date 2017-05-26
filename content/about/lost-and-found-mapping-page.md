@@ -1,7 +1,7 @@
 ---
 permalink: /about/lost-and-found-mapping-page/
 title: 'Lost and Found &#8211; Mapping Page'
-layout: docs
+
 ---
 
 Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL.

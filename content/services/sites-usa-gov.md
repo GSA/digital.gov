@@ -1,6 +1,6 @@
 ---
 permalink: /services/sites-usa-gov/
-layout: docs
+
 
 title: Sites
 ---

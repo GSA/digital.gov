@@ -1,7 +1,7 @@
 ---
 permalink: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies/
 title: 'Fueleconomy.gov &#8211; Extended Case Study'
-layout: docs
+
 ---
 
 Like any valid business decision, [User Experience](http://www.usability.gov/what-and-why/benefits-of-ucd.html) work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our [Usability Case Studies]({{ site.baseurl }}/resources/user-experience-program/government-usability-case-studies/). Or see a more complete case study below.

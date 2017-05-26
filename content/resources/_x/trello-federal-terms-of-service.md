@@ -1,7 +1,7 @@
 ---
 permalink: /resources/trello-federal-terms-of-service/
 title: Trello Federal Terms of Service
-layout: docs
+
 ---
 
 [Trello](https://trello.com/) is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what&#8217;s being worked on, who&#8217;s working on what, and where something is in a process.

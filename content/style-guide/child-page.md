@@ -2,7 +2,7 @@
 permalink: /style-guide/child-page/
 
 title: Child Page
-layout: docs
+
 ---
 
 <div class="media w500">

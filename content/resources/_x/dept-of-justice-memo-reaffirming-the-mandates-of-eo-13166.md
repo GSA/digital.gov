@@ -1,7 +1,7 @@
 ---
 permalink: /resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/
 title: Dept. of Justice Memo Reaffirming the Mandates of EO 13166
-layout: docs
+
 ---
 
 [Executive Order 13 1661]({{ site.baseurl }}/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/) was issued in August of 2000 and this memorandum reaffirms its mandate. The Executive Order has two primary parts:

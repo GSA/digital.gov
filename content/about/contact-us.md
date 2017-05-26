@@ -1,6 +1,6 @@
 ---
 permalink: /about/contact-us/
-layout: docs
+
 
 title: Contact Us
 

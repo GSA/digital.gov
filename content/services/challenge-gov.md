@@ -1,6 +1,6 @@
 ---
 permalink: /services/challenge-gov/
-layout: docs
+
 
 title: Crowdsourcing with Challenge.gov
 ---

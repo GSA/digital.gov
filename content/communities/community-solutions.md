@@ -1,7 +1,7 @@
 ---
 permalink: /communities/community-solutions/
 title: 'Community Solutions Community of Practice'
-layout: docs
+
 ---
 
 A community for federal staff who provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships.

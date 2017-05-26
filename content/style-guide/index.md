@@ -2,7 +2,7 @@
 title: Style Guide
 permalink: /style-guide/
 
-layout: docs
+
 
 sidenav:
   - text: Apples

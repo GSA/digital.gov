@@ -1,7 +1,7 @@
 ---
 permalink: /communities/government-contact-center-council-g3c/
 title: Government Contact Center Council (G3C)
-layout: docs
+
 ---
 
 The G3C is an inter-agency group of contact center directors and managers with over 200 members across 55 federal, state and local government agencies.

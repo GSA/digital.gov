@@ -1,7 +1,7 @@
 ---
 permalink: /circular-a-130-revised/
 title: Circular A-130 Revised
-layout: docs
+
 ---
 
 Circular A-130 was first issued in December 1985 to meet information resource management requirements that were included in the [Paperwork Reduction Act](https://en.wikipedia.org/wiki/Paperwork_Reduction_Act "Paperwork Reduction Act") (PRA) of 1980. Specifically, the PRA assigned responsibility to the OMB Director to develop and maintain a comprehensive set of information resources management policies for use across the Federal government, and to promote the application of information technology to improve the use and dissemination of information in the operation of Federal programs.<span style="font-size: 13.3333px;line-height: 22.2222px">  </span>The initial release of the Circular provided a policy framework for information resources management (IRM) across the Federal government.  This is the FY 2000 revision.

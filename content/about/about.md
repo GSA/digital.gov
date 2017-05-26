@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: docs
+
 
 title: About DigitalGov
 

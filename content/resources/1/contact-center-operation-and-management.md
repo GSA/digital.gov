@@ -1,7 +1,7 @@
 ---
 permalink: /resources/contact-center-guidelines/contact-center-operation-and-management/
 title: Contact Center Operation and Management
-layout: docs
+
 ---
 
 Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance.

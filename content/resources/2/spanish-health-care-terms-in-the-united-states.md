@@ -2,7 +2,7 @@
 permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/
 
 title: Spanish Health Care Terms in the United States
-layout: docs
+
 ---
 
 **English Term and Spanish Equivalent**

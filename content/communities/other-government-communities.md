@@ -1,6 +1,6 @@
 ---
 permalink: /communities/other-government-communities/
-layout: docs
+
 
 title: Other Government Communities
 ---

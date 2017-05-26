@@ -1,7 +1,7 @@
 ---
 permalink: /resources/no-fear-act/
 title: No FEAR Act
-layout: docs
+
 ---
 
 The No FEAR Act requires a Federal agency to post on its public Web site summary statistical data pertaining to complaints of employment discrimination filed under 29 CFR part 1614 by employees, former employees and applicants for employment.

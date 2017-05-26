@@ -1,7 +1,7 @@
 ---
 permalink: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit/
 title: Usability Starter Kit
-layout: docs
+
 ---
 
 _Here are some tools and templates to help you create better user experiences. If you have resources to add, please [email us](mailto:govux@gsa.gov)._

@@ -1,7 +1,7 @@
 ---
 permalink: /resources/quora-federal-terms-of-service/
 title: Quora Federal Terms of Service
-layout: docs
+
 ---
 
 [Quora](https://www.quora.com/) is a question-and-answer website where questions are asked, answered, edited and organized by its community of users.

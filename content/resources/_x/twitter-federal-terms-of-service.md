@@ -1,7 +1,7 @@
 ---
 permalink: /resources/twitter-federal-terms-of-service/
 title: Twitter Federal Terms of Service
-layout: docs
+
 ---
 
 [Twitter](https://twitter.com/) is an online social networking service that enables users to send and read short 140-character messages called &#8220;tweets&#8221;. Registered users can read and post tweets, but unregistered users can only read them.

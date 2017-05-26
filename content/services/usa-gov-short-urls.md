@@ -1,6 +1,6 @@
 ---
 permalink: /services/usa-gov-short-urls/
-layout: docs
+
 
 title: USA.gov Short URLs
 ---

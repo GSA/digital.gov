@@ -1,7 +1,7 @@
 ---
 permalink: /communities/government-multilingual-websites-community/
 title: Multilingual Digital Group
-layout: docs
+
 ---
 
 We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.

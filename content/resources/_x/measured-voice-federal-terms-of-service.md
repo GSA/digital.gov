@@ -1,7 +1,7 @@
 ---
 permalink: /resources/measured-voice-federal-terms-of-service/
 title: Measured Voice Federal Terms of Service
-layout: docs
+
 ---
 
 [Measured Voice](http://measuredvoice.com/) helps teams measure and manage social media outreach on Facebook, Twitter, Google+, LinkedIn, Flickr and Tumblr.

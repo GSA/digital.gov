@@ -1,7 +1,7 @@
 ---
 permalink: /resources/web-accessibility-guidelines/
 title: Web Accessibility Guidelines
-layout: docs
+
 ---
 
 <p class="listintro">

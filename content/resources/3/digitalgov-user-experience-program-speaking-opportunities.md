@@ -1,7 +1,7 @@
 ---
 permalink: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities/
 title: 'DigitalGov User Experience Program: Speaking Opportunities'
-layout: docs
+
 ---
 
 The DigitalGov User Experience Program presents to federal audiences by phone, webinar and in person. We cover a variety of topics, including:

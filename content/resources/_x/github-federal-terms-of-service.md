@@ -1,7 +1,7 @@
 ---
 permalink: /resources/github-federal-terms-of-service/
 title: Github Federal Terms of Service
-layout: docs
+
 ---
 
 [Github](https://github.com/) is a Web-based Git repository (open sourced version control system) hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.

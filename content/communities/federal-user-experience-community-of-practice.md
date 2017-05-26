@@ -1,7 +1,7 @@
 ---
 permalink: /communities/federal-user-experience-community-of-practice/
 title: Federal User Experience Community
-layout: docs
+
 ---
 
 Join our community of more than 1,000 federal User Experience practitioners, and learn how to make better, User-Centered products.

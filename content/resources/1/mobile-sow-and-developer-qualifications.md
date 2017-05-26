@@ -1,7 +1,7 @@
 ---
 permalink: /resources/mobile-sow-and-developer-qualifications/
 title: Mobile SOW and Developer Qualifications
-layout: docs
+
 ---
 
 Structuring a Statement of Work (SOW) for the development or modification of mobile products should be similar to any SOW your government organization issues for IT products and services.

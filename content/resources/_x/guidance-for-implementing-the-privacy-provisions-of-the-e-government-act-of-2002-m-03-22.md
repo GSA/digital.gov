@@ -1,7 +1,7 @@
 ---
 permalink: /resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/
 title: Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002 (M-03–22)
-layout: docs
+
 ---
 
 This guidance provides information to agencies on implementing the privacy provisions of the E-Government Act of 2002.

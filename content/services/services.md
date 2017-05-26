@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-layout: docs
+
 
 title: Services
 

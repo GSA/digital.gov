@@ -1,7 +1,7 @@
 ---
 permalink: /resources/classmarker-federal-terms-of-service/
 title: ClassMarker Federal Terms of Service
-layout: docs
+
 ---
 
 [ClassMarker](http://www.classmarker.com/) is a professional web-based testing service used to create easy-to-use, customizable online tests for business, training & educational assessment.

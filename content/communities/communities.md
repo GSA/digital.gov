@@ -1,7 +1,7 @@
 ---
 title: Communities
 permalink: /communities/
-layout: docs
+
 
 ---
 

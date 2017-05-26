@@ -1,7 +1,7 @@
 ---
 permalink: /resources/thunderclap-federal-terms-of-service/
 title: Thunderclap Federal Terms of Service
-layout: docs
+
 ---
 
 [Thunderclap](https://www.thunderclap.it/) is a &#8220;crowd speaking&#8221; platform that helps people be heard by saying something together. It allows a single message to be mass-shared, flash mob-style, so it rises above the noise of your social networks.

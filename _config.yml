@@ -54,8 +54,13 @@ collections:
     output: false
 
 defaults:
-  - scope:
-      path: ""
-      type: docs
+  -
+    scope:
+      path: "docs"
     values:
       layout: docs
+  -
+    scope:
+      path: "content"
+    values:
+      layout: site

@@ -2,7 +2,7 @@
 permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/
 
 title: 'Spanish Language Style Guide and Glossaries: Grammar'
-layout: docs
+
 ---
 
   * [Abbreviations, Acronyms and Em Dash]({{ site.baseurl }}/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#abbreviations)

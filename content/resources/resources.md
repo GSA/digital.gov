@@ -2,7 +2,7 @@
 permalink: /resources/
 
 title: Resources
-layout: docs
+
 ---
 
 Whatever digital government project you’re working on, we’ve got the resources to help, including communities of practice, “getting started” guidance, policy requirements and more.

@@ -1,7 +1,7 @@
 ---
 permalink: /services/data-gov/
 title: Data.gov
-layout: docs
+
 ---
 
 [www.data.gov](http://www.data.gov/){.button}

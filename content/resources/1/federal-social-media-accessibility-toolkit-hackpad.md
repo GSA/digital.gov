@@ -1,7 +1,7 @@
 ---
 permalink: /resources/federal-social-media-accessibility-toolkit-hackpad/
 title: Federal Social Media Accessibility Toolkit Hackpad
-layout: docs
+
 ---
 
 ## Improving the Accessibility of Social Media for Public Service

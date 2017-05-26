@@ -1,7 +1,7 @@
 ---
 permalink: /resources/stack-exchange-federal-terms-of-service/
 title: Stack Exchange Federal Terms of Service
-layout: docs
+
 ---
 
 [Stack Exchange](http://stackexchange.com/) is a network of 130+ Q&A communities including Stack Overflow, the site for programmers to find, ask, and answer questions about software development. Founded in 2008, the company was built on the premise that serving the developer community at large would lead to a better, smarter Internet.

@@ -2,7 +2,7 @@
 permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/
 
 title: 'Spanish Language Style Guide &#038; Glossaries: Frequently Mistranslated English Terms'
-layout: docs
+
 ---
 
 ## Abbreviations Key
