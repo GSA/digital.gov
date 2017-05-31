@@ -6,7 +6,10 @@ layout: docs
 guid: http://localhost/wp/?p=1
 permalink: /2017/04/09/hello-world/
 categories:
-  - Uncategorized
-  - Dinner
+  - uncategorized
+  - dinner
+tags:
+  - grits
+  - bacon
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start writing!

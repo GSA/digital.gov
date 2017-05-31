@@ -7,12 +7,12 @@ guid: http://localhost/wp/?p=4
 permalink: /2017/04/09/what-i-ate-for-breakfast/
 image: DGhearts-w600.gif
 categories:
-  - Breakfast
-  - Dinner
+  - breakfast
+  - dinner
 tags:
-  - Bacon
-  - Eggs
-  - Toast
+  - bacon
+  - eggs
+  - toast
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc.
@@ -21,7 +21,7 @@ Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor ve
 
 <div class="media w600">
   <img class="img-responsive size-full wp-image-12" src="http://localhost/wp/wp-content/uploads/2017/04/DGhearts-w600.gif" alt="" />
-  
+
   <p class="caption">
     hearts
   </p>

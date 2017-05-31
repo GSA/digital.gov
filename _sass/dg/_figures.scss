@@ -29,3 +29,11 @@ figcaption {
     margin-top: 1em;
   }
 }
+
+
+.thumb-small {
+  width: 40px;
+  @include media($medium-screen) {
+    width: 80px;
+  }
+}

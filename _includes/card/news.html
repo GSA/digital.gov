@@ -3,6 +3,8 @@
 <div class="card-news">
     <h3 class="card-title">{{ promo.heading }}</h3>
     <div class="card-summary">{{ promo.body.summary | markdownify }}</div>
-    {% if promo.featured-image %}
-    {% endif %}
+      {% include image/thumb-small.html
+        img=promo.featured-image.file
+        alt=promo.featured-image.alt
+        %}
 </div>

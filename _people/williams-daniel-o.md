@@ -17,3 +17,6 @@ bio:
   long: Dan O. Williams is a designer in Portland, OR. He lives with his wife and son and dog, who are three separate individuals.
 affiliations:
 ---
+
+**THIS IS PUBLIC DATA**
+**DON'T INCLUDE ANY SENSITIVE PERSONAL INFORMATION IN THESE RECORDS**

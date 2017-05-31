@@ -1,0 +1,17 @@
+
+{% assign originalwidth = 200 %}
+{% assign thisStyle = "thumb-small" %}
+{% assign sizes = 200 | split: ',' %}
+
+{% capture img-base-url %}{{ site.baseurl }}/assets/img/raw/{{ include.img }}{% endcapture %}
+
+{% capture srcset %}{% for size in sizes %}{% if sizenum <= orignalwidth %}{{ img-base-url }}-{{ size }}w.jpg {{ size }}w,{% endif %}{% endfor %}{% endcapture %}
+
+{% assign srcset = srcset | split: ',' | join: ',' %}
+
+<figure class="{{ thisStyle }}">
+  <img  srcset="{{ srcset }}"
+        sizes="(min-width: 768px) 80px,
+              40px"
+        alt="{{ include.alt}}">
+</figure>
