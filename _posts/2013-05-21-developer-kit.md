@@ -1,8 +1,7 @@
 ---
-
 layout: post
 date: 2013-05-21 1:05:45 -0400
-title: '/Developer Kit'
+title: 'Developer Kit'
 summary: 'These are the elements that make up a well-rounded developer hub. Homepage The API efforts of any agency should all be accessible via one easy to reach developers hub. This Web page should provide a path to all public APIs and any associated resources. Once an agency has begun to publish multiple APIs, certain resources'
 authors: gray-brooks
 categories:
@@ -230,7 +229,7 @@ Depending on the audience for your developer section, it is often useful to incl
 
 ## PoC
 
-Developers still need to have the ability to contact agency staff directly and for this purpose, it is important to offer contact information for a developers’ point of contact. This is often done at the agency level by creating an email account at <developer@agency.gov>and forwarding it to one or several staff who work together to field the incoming messages. The same contact information can then be published at the developer hub level or at each API page.
+Developers still need to have the ability to contact agency staff directly and for this purpose, it is important to offer contact information for a developers’ point of contact. This is often done at the agency level by creating an email account at developer@agency.gov and forwarding it to one or several staff who work together to field the incoming messages. The same contact information can then be published at the developer hub level or at each API page.
 
 ### .Gov Examples
 

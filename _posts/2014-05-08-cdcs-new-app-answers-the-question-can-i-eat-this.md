@@ -26,8 +26,7 @@ Eewwww, right?
 [**Can I Eat This?**](http://wwwnc.cdc.gov/travel/page/apps-about), available for iOS and Android users, quickly answers everything from the age-old &#8220;Can I drink the water in &#8230; ?&#8221; to the more specific &#8220;Can I eat raw, chopped vegetables in Venezuela?&#8221;
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-510-CDC-Can-I-Eat-This-1-Travelers-Health-iTunes-App.jpg" 
- section of the Travelers' Health iTunes App" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-510-CDC-Can-I-Eat-This-1-Travelers-Health-iTunes-App.jpg" %}
 
 With prompts that guide you through a series of short questions, the app is super-easy to use, wherever you roam. Just select the country in which you are traveling from the long list, tell the app whether you are about to eat or drink, and then it drills down from there. (Plus: You don&#8217;t need a data connection to access the app&#8217;s advice.)
 
@@ -38,5 +37,4 @@ The bottom line? Don&#8217;t spend your next vacation or important business trip
 _Don’t worry: You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)_.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-510-CDC-Can-I-Eat-This-2-Travelers-Health-iTunes-App.jpg" 
- section of the Travelers' Health iTunes App" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-510-CDC-Can-I-Eat-This-2-Travelers-Health-iTunes-App.jpg" %}

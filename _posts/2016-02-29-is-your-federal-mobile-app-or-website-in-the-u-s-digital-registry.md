@@ -22,8 +22,7 @@ tags:
 We have received an amazing response to the [U.S. Digital Registry](https://www.WHATEVER/services/u-s-digital-registry/), our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg"
- on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" %}
 
 Federal digital managers have already added over 7,300 accounts and are continuously adding and updating social media and mobile app accounts in the registry. Outside of government, private and public sector organizations have been submitting feedback and offering praise. The Programmable Web said the registry is &#8220;[the single most important social media initiative](http://www.programmableweb.com/news/how-devs-benefit-new-u.s.-government-wide-digital-registry-api/how-to/2016/02/01?utm_content=bufferd570a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) across the U.S. federal government in the past four years” and highlighted five potential use cases.
 

@@ -27,24 +27,21 @@ Now Twitter is offering additional enhancements to their service to make it easi
 </li>
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-191-uscis-twitter-media-links.jpg" 
- box with the media icons and character count circled in red." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-191-uscis-twitter-media-links.jpg" %}
 
 <li style="margin-bottom: 15px">
   <b>@names will no longer count against the 140-character limit in replies</b>. Plus, Twitter has increased the “@names” field to 50, up from 10, included in your reply without being counted in your character count. The upside is now you can talk directly to 50 people instead of just 10, the downside is the greater potential exposure to spam.
 </li>
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-183-uscis-twitter-at-names.jpg" 
- box with a line of text that reads, "Have a direct conversation with up to 50 at-names - Free."" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-183-uscis-twitter-at-names.jpg" %}
 
 <li style="margin-bottom: 15px">
   <b>When you start a new Tweet with an @name, you will no longer need to put a period in front of the “@” character to have the Tweet seen by all your followers</b>.
 </li>
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-185-uscis-twitter-at-names-no-period.jpg" 
- box that reads, "period-at-name is now the same as at-name!"" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-185-uscis-twitter-at-names-no-period.jpg" %}
 
 <li style="margin-bottom: 15px">
   <b>Replying to a tweet still means simply hitting the reply button</b>. Your reply will still be visible to people who follow both you and the person you’re replying to.

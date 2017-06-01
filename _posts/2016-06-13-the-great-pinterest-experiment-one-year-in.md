@@ -23,8 +23,7 @@ tags:
 Last summer, Kids.Gov [revamped](https://blog.usa.gov/how-kids-gov-pins-down-their-audiences) its presence on [Pinterest](https://www.pinterest.com/kidsgov/) in an attempt to find new ways to connect with its followers.
 
 The Marketing Team set out to learn more about our audiences and the kind of content they like. Despite being a difficult platform to navigate, we set lofty goals for ourselves and developed a timely strategy to pin every day. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-400-I-love-pin-interest-zakokor-iStock-Thinkstock-177385623.jpg" 
- on a yellow heart." %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-400-I-love-pin-interest-zakokor-iStock-Thinkstock-177385623.jpg" %} 
 
 ## A year in…
 

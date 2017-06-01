@@ -19,8 +19,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Smithsonian-Skin-and-Bones-app-iPad-home-screen.jpg" 
- iPad app" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Smithsonian-Skin-and-Bones-app-iPad-home-screen.jpg" %}
 
 The night air is cool and crisp, the autumn leaves are falling, your costume is ready, jack-o-lanterns carved, lights dimmed, candy in the basket—what else do you need to make &#8220;All Hallows’ Eve trick or treat&#8221; complete? Some eerie music, a spine tingling, blood curdling horror movie? No, no—those are for yesteryears!
 
@@ -35,8 +34,7 @@ Categorized as educational, this app is available for downloaded from the [App S
 The app is easy to use and has a simple menu structure. The app allows you to choose any of the skeletons by simply tapping on the image. You can choose animal life and watch videos that have crystal clear quality. You are sure to snap your head backwards as you watch the eastern diamondback rattlesnake snap at you.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Smithsonian-Skin-and-Bones-app-iPad-swordfish-and-other-fish.jpg" 
- iPad app" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Smithsonian-Skin-and-Bones-app-iPad-swordfish-and-other-fish.jpg" %}
 
 Use the app from wherever you are to peer into the inner lives of animals like bats, giant sea cows, rattlesnakes and many others. Meet the people who study them, ponder big ideas about the natural world and play a game or two. Just put on your headphones and turn on WiFi for the most enjoyable audio mix. The app also has built-in accessibility features: captioned videos and animations as well as voice-overs.
 
@@ -49,7 +47,6 @@ The app features:
 This app is a must-have for anyone visiting the Smithsonian’s National Museum of Natural History.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-338-Smithsonian-Skin-and-Bones-app-Coomon-Vampire-Bat-Skeleton-screen.jpg" 
- iPhone app" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-338-Smithsonian-Skin-and-Bones-app-Coomon-Vampire-Bat-Skeleton-screen.jpg" %}
 
 _You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt](https://www.WHATEVER/2015/05/21/start-sleuthing-with-the-great-federal-mobile-product-hunt/)._

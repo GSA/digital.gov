@@ -28,8 +28,7 @@ Starting on page 10 of the summary report, you will see, through their own ratin
   * Make a positive impact on employment within their respective businesses
 
 To use an old phrase, “at the end of the day,” this is EXIM Bank’s mission. And through this survey, our customers have shared a very positive description, in the context of their own business outcomes, as to how we are meeting our mission. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" 
- seen on a small wooden cube sits on a laptop keyboard" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" %} 
 
 [Last year’s survey report](https://www.WHATEVER/2015/12/22/after-the-survey-turning-customer-feedback-into-action/) described how EXIM Bank has responded to customer feedback in the past. We will continue to incorporate customer views into our work—not just within our export credit insurance offerings, but also in our working capital guarantee and medium-term insurance and loan guarantee product lines, which are also used by many U.S. small business exporters. We know that we have work to do to improve our processes and the surrounding communication, as some of the survey scores show.
 

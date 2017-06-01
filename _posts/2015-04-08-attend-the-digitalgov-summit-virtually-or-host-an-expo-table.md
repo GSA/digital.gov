@@ -13,8 +13,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-208-Webcast-blue-squares-ileezhun-iStock-Thinkstock-ThinkstockPhotos-467395968.jpg" 
- six screens surround a globe icon." %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-208-Webcast-blue-squares-ileezhun-iStock-Thinkstock-ThinkstockPhotos-467395968.jpg" %} 
 
 Sign up now to watch the [DigitalGov Summit](https://www.WHATEVER/event/2015-digitalgov-citizen-services-summit/ "Spring 2015 DigitalGov Citizen Services Summit") from the comfort of your desk! We are excited to announce that although we’ve sold out in-person attendance for the DigitalGov Citizen Services Summit, we have just opened up [registration to attend virtually](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401).
 

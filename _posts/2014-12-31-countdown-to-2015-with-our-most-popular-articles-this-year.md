@@ -54,8 +54,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   
   <div class="one-half">
     
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/288-x-203-Think-Outside-The-Box-Concept-IvelinRadkov-iStock-Thinkstock-176221152.jpg" 
- concept photo" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/288-x-203-Think-Outside-The-Box-Concept-IvelinRadkov-iStock-Thinkstock-176221152.jpg" %}
   </div>
 </blockquote>
 

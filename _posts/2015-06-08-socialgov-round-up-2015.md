@@ -49,7 +49,7 @@ One big topic of conversation this year was security and privacy using social to
 In 2013, we published an article on how [government must respond rapidly to social media hacking](https://www.WHATEVER/2013/04/25/government-must-respond-rapidly-to-social-media-hacking/) which identifies some steps you can take to make sure you are protected. In 2014, we hosted the event [How to Recover from a Social Media Crisis](https://youtu.be/K0yy3wviTvM), and we also hosted the webinar [How to Respond to Social Media Hacks](https://youtu.be/tesgduqeyjI), talking to agencies about how they prepare and respond when there is a hack.
 
 ## Social Tools and Terms of Service 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-166-Terms-of-Service-alexskopje-iStock-Thinkstock-176024832.jpg" alt=""Terms of Service" typed out on a sheet of paper in a typewriter" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-166-Terms-of-Service-alexskopje-iStock-Thinkstock-176024832.jpg" alt="Terms of Service" %} 
 
 GSA has been working on negotiating [federal friendly terms of service agreements](https://www.WHATEVER/2014/05/13/what-is-a-terms-of-service-and-how-do-i-get-one/) since 2009, and we have a long list of [tools that are acceptable for the federal government](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) to use because of these renegotiated terms. This past year we hosted some events with the newer tools that we’ve added to the list.
 

@@ -36,6 +36,6 @@ And now that it’s up – let’s talk about all of the things you can do on th
   * **Predicting:** You’re an agency trying to implement a service currently undergoing an authorization at another agency and you want to know when that provider is predicted to have an authorization. _You can do that now._
   * **Downloading:** You want to download the marketplace data in an easy format and use it for a report or use it offline. _You can do that now._
 
-We’re thrilled to see all the ways you’ll be interacting in the new marketplace! Let us know your thoughts by reaching out to us via <info@gsa.gov>!
+We’re thrilled to see all the ways you’ll be interacting in the new marketplace! Let us know your thoughts by reaching out to us via <a href="mailto:info@gsa.gov">info@gsa.gov</a>!
 
 _This post was originally published on the [GSA blog](https://gsablogs.gsa.gov/)._

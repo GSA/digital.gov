@@ -50,8 +50,7 @@ During the interview itself, ask the interviewees to tell you stories about the 
 At the end of the interview, ask the interviewee to provide suggestions/opportunities for improvement. This is another great to get honest and valuable feedback.
 
 ## Step 4: Keep the Conversation Open for Follow-up or Future Dialogue 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/535-x-300-Web-Contact-Us-Icons-Cube-NiroDesign-iStock-Thinkstock-ThinkstockPhotos-523542891.jpg" 
- icons on green cubes" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/535-x-300-Web-Contact-Us-Icons-Cube-NiroDesign-iStock-Thinkstock-ThinkstockPhotos-523542891.jpg" %} 
 
 Always end an interview on a positive note with an open dialogue for the future. Simply asking, “Is it alright if I reach out to you again in the future with follow-up questions?” is a great way to stay in touch with your interviewee. By asking to keep this door open, you also subtly convey the importance and value of their response (you wouldn’t want to reach back out to someone if their responses were useless, would you?).
 

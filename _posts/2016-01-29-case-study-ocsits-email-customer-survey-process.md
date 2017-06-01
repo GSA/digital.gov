@@ -43,8 +43,7 @@ A benefit of keeping this process top-of-mind for staff all year long is that it
 One of our primary goals was to develop a framework to consistently measure customer satisfaction across all our programs, on an ongoing basis. Consistency is important to benchmark progress, and the index gives us a framework to do just that. By asking the same core questions for all our programs, we’ve created a baseline to help us evaluate whether we’re improving over time.
 
 ## The Questions 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" 
- seen on a small wooden cube sits on a laptop keyboard" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" %} 
 
 The email survey currently consists of six questions. Four of the questions are multiple-choice and are used to calculate a “score” for each program; this is our baseline. The last two are open-ended, and provide the most actionable data, because they give customers a platform to tell us, in their own words, what’s working and where we can improve.
 

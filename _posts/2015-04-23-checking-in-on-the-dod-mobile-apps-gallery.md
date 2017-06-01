@@ -15,8 +15,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-338-Screen-capture-of-a-design-schematic-from-the-Make-It-Fly-create-your-own-Air-Force-planes-Android-app.jpg" 
- Android app." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-338-Screen-capture-of-a-design-schematic-from-the-Make-It-Fly-create-your-own-Air-Force-planes-Android-app.jpg" %}
 
 We’re switching our style up this week in salute to our military friends across the Department of Defense.
 

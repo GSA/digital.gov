@@ -38,8 +38,7 @@ Therefore, he added that the critical issue is hiring the right agents and train
 Asked to envision the future, Snaider said he expects more face-to-face interaction between the agents and the customers using technology. “Technology affords us the chance to restore some humanity.”
 
 ## Lessons Learned 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" 
- graphic with the arrow pointing towards Customer" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" %} 
 
 Over the years, Snaider has learned many lessons and offers advice to other people working with call centers:
 

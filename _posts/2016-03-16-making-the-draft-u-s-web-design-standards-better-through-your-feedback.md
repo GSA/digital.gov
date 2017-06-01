@@ -3,7 +3,7 @@
 layout: post
 date: 2016-03-16 1:02:08 -0400
 title: 'Making the Draft U.S. Web Design Standards Better Through Your Feedback'
-summary: 'Since our launch of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through GitHub issues and via email. We&rsquo;ve received dozens of feature requests as well as over 400 contributions from the open source community. {% img=&quot;https\://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg&quot; alt=&quot;The U.S. Web Design Standards are designed to be'
+summary: 'Since our launch of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through GitHub issues and via email. We&rsquo;ve received dozens of feature requests as well as over 400 contributions from the open source community.'
 authors: melody-kramer, carolyn-dew
 categories:
   - Content
@@ -38,7 +38,7 @@ We’re excited to see government web administrators begin to use the Draft Stan
 
 In the coming days, we’ll be answering some frequently asked questions about the Draft Standards and detailing what we’ve learned and where we hope to go next.
 
-As always, if you have additional questions or are thinking about similar topics, open [an issue on GitHub](https://github.com/18F/web-design-standards/issues) or email us directly at <uswebdesignstandards@gsa.gov>. You can also contribute code and content to the project [on GitHub](https://github.com/18F/web-design-standards).
+As always, if you have additional questions or are thinking about similar topics, open [an issue on GitHub](https://github.com/18F/web-design-standards/issues) or email us directly at <a href="mailto:uswebdesignstandards@gsa.gov">uswebdesignstandards@gsa.gov</a>. You can also contribute code and content to the project [on GitHub](https://github.com/18F/web-design-standards).
 
 _This week, we released [an update](https://github.com/18F/web-design-standards/releases/tag/v0.9.0) to the Draft Standards website and upgraded the Draft Standards themselves. This version introduces several backwards-incompatibility changes that will affect usage of the Draft Standards. You can read [the release notes](https://github.com/18F/web-design-standards/releases/tag/v0.9.0). Also, we now have a standardized way to keep up to date with our standards through [the npm package](https://www.npmjs.com/package/uswds) for the Draft Standards._
 

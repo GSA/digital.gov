@@ -17,8 +17,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-410-IRSgov-mobile-jobs-site-How-to-Apply.jpg" 
- page." %}Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml).
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-410-IRSgov-mobile-jobs-site-How-to-Apply.jpg" %}Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml).
 
 Federal job hunters are no longer confined to desktop websites, so check out some of the great mobile job search apps and websites listed in the USA.gov directory. If you get hired through one of these apps, my commission is a reasonable 15 percent. (Just kidding!)
 

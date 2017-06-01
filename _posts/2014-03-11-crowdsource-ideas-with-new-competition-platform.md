@@ -58,4 +58,4 @@ _(Click on the hyperlink to be taken directly to that discussion point in the we
 
 Challenge.sites.usa.gov was built with the shared <a href="https://sites.usa.gov/" target="_blank">sites.usa.gov</a> service, which aims to offer agencies a system to provide content without having to build a site from scratch.
 
-For more information, contact the team at <challenge@gsa.gov>. Happy crowdsourcing!
+For more information, contact the team at <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a>. Happy crowdsourcing!

@@ -3,7 +3,7 @@
 layout: post
 date: 2013-05-02 1:40:29 -0400
 title: 'Internet Time Travel'
-summary: 'The first public page on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time. {% img=&quot;https\://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/first-WWW-page-3.jpg&quot; alt=&quot;Screen shot of the very first world wide webpage. A sparse page with text and links. Click image to'
+summary: 'The first public page on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time.'
 authors: tmarcoullier
 categories:
   - UX

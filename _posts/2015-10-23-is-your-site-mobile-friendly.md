@@ -18,8 +18,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-434-no-shadow-Smartphones-and-wrong-and-right-icons-frikota-iStock-Thinkstock-500886657-500886437.jpg" 
- icon on the screen, and the other with a green check mark "right" icon on the screen." %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-434-no-shadow-Smartphones-and-wrong-and-right-icons-frikota-iStock-Thinkstock-500886657-500886437.jpg" %} 
 
 What is mobile-friendly?
 

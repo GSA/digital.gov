@@ -24,7 +24,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt=""Frequently Asked Questions" displays as typed on white paper in an old typewriter." %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt="Frequently Asked Questions" %} 
 
 Users have questions. Your content and website navigation can help them find answers, or potentially cause frustration. One tool for answering questions is up for debate: are FAQ sections still relevant in 2015, or are they a relic of bygone days?
 

@@ -20,8 +20,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Eureka-Antonis-Papantoniou-iStock-Thinkstock-93816882.jpg" 
- or "Eureka!" concept graphic shows a dark field of question marks surrounding one bright, electric exclamation point." %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Eureka-Antonis-Papantoniou-iStock-Thinkstock-93816882.jpg" %} 
 
 User Experience (UX) is the comprehensive experience a person has when using a product or application, and usability is the ease of use (or lack thereof) when using it. Many of us have discovered the vast advantages of evaluating usability on our own; however, getting others to jump on board is often a different story.
 

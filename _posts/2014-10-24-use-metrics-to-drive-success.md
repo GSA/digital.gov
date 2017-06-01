@@ -52,12 +52,10 @@ With the results from our pilot year, we approached our second year (FY14) with 
 Our customer experience feedback from participants was positive in our pilot year, so we did not make any major adjustments to the program based on this metric—other than to keep a close eye on any changes. FY14 numbers were similar to our pilot year, with 93% of respondents saying they “would recommend us to a friend” and 100% willing to participate again.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-305-would-you-recommend-to-friends.jpg" 
- graph where 93 percent of respondents answered, "Yes," and 7 percent said, "No."" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-305-would-you-recommend-to-friends.jpg" %}
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-305-would-you-participate-again.jpg" 
- graph where 100 percent of respondents answered, "Yes"" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-305-would-you-participate-again.jpg" %}
 
 So, we learned through our experiments that people are willing (and excited!) about helping and delivering on cross-agency digital government efforts. This data then drove our decision to invest in technology to improve the experience of our participants and further grow the program.
 

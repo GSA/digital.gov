@@ -19,8 +19,7 @@ tags:
 Trying to measure usability can be a head scratcher. How easy something is to use depends on where you are, who you are, and a number of other factors. Luckily in the world of usability, there exists a post-test survey known as the [System Usability Scale](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), introduced in 1986 by an engineer named John Brooke, who was trying to solve this very dilemma.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-150-System-Usability-Scale-SUS-question-1.jpg" 
- and 5 being "Strongly agree," number 2 is checked for the answer." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-150-System-Usability-Scale-SUS-question-1.jpg" %}
 
 The SUS is no stranger to federal agencies. GSA and OPM are just two of the many agencies that use the SUS as a post-test assessment of how easy a product is to use. Since it was unleashed on the world, the SUS has been used in over [1,200 published tests](http://www.upassoc.org/upa_publications/jus/2013february/JUS_Brooke_February_2013.pdf), encompassing a wide range of services and products, many of which did not even exist at the time the survey was created!
 

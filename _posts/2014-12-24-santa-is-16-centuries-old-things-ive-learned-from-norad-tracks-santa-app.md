@@ -28,8 +28,7 @@ Here are five things I learned from the magical **NORAD Tracks Santa** app to ke
   5. Santa actually needs to slow down for NORAD fighter pilots to escort him while in the U.S., since per technical specs listed in the app his sleigh is “faster than starlight.”
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-327-NORAD-Santa-Tracker-YouTube-Big-Red-One-Satellite.jpg" 
- Satellite, from YouTube" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-327-NORAD-Santa-Tracker-YouTube-Big-Red-One-Satellite.jpg" %}
 
 Five things I learned about the **North American Defense Command** (**NORAD**) from the app that made my heart grow three sizes this day:
 

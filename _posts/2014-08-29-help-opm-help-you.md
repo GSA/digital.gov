@@ -22,6 +22,6 @@ The second team will explore how government agencies are using social media to r
 
 We need the most creative and hardworking among you to join us in jumping in and buckling down. These efforts will change how we use social media across government to both recruit and honor federal employees—two crucial missions.
 
-If you’re interested in either the [Recognition](https://docs.google.com/forms/d/11nI0eMjfGeo9aLiBksbA9OvSnv6Oyk54Ay1lT2q1H5s/viewform) or the [Recruitment and Hiring](https://docs.google.com/forms/d/12ThAd0Asfmju5svsSmQTriGUsKShoIbVbXSkGssmu_M/viewform) teams, be sure to sign up by Friday, September 5. Work will begin in early September. Both in-person and virtual members are welcome. Questions? Email <socialmedia@opm.gov>.
+If you’re interested in either the [Recognition](https://docs.google.com/forms/d/11nI0eMjfGeo9aLiBksbA9OvSnv6Oyk54Ay1lT2q1H5s/viewform) or the [Recruitment and Hiring](https://docs.google.com/forms/d/12ThAd0Asfmju5svsSmQTriGUsKShoIbVbXSkGssmu_M/viewform) teams, be sure to sign up by Friday, September 5. Work will begin in early September. Both in-person and virtual members are welcome. Questions? Email <a href="mailto:socialmedia@opm.gov">socialmedia@opm.gov</a>.
 
 **_Mark Anthony_** _is the Social Media Director and_** _Jennifer Dorsey_** _is a public affairs specialist__ at the Office of Personnel Management (OPM)._

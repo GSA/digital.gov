@@ -82,22 +82,22 @@ What do you think are Medium’s core strengths? What areas of opportunity are y
 
 **Gov accounts to check out on Medium**
 
-<https://medium.com/@USDOL>
+<a href="mailto:https://medium.com/@USDOL">https://medium.com/@USDOL</a>
   
-<https://medium.com/@LaborSec>
+<a href="mailto:https://medium.com/@LaborSec">https://medium.com/@LaborSec</a>
   
-<https://medium.com/@GinaEPA>
+<a href="mailto:https://medium.com/@GinaEPA">https://medium.com/@GinaEPA</a>
   
-<https://medium.com/@PeaceCorps>
+<a href="mailto:https://medium.com/@PeaceCorps">https://medium.com/@PeaceCorps</a>
   
-<https://medium.com/@HHSGov>
+<a href="mailto:https://medium.com/@HHSGov">https://medium.com/@HHSGov</a>
   
-<https://medium.com/@StateDept>
+<a href="mailto:https://medium.com/@StateDept">https://medium.com/@StateDept</a>
   
-<https://medium.com/@arneduncan>
+<a href="mailto:https://medium.com/@arneduncan">https://medium.com/@arneduncan</a>
   
-<https://medium.com/@USDigitalService>
+<a href="mailto:https://medium.com/@USDigitalService">https://medium.com/@USDigitalService</a>
   
-<https://medium.com/@PresidentObama>
+<a href="mailto:https://medium.com/@PresidentObama">https://medium.com/@PresidentObama</a>
   
-<https://medium.com/@FLOTUS>
+<a href="mailto:https://medium.com/@FLOTUS">https://medium.com/@FLOTUS</a>

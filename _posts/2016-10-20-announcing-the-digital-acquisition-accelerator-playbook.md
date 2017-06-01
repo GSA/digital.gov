@@ -3,7 +3,7 @@
 layout: post
 date: 2016-10-20 11:00:41 -0400
 title: 'Announcing the Digital Acquisition Accelerator Playbook'
-summary: 'Built on the lessons learned during the pilot phase of the Digital Acquisitions Accelerator, the accompanying playbook examines the current acquisition landscape and provides an approach to procuring custom software solutions. Our goal is to make the government a smarter and more informed buyer of digital products and services. {% img=&quot;https\://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-272-screen-capture-Digital-Acquisition-Accelerator-homepage.jpg&quot; alt=&quot;Screen capture of the'
+summary: 'Built on the lessons learned during the pilot phase of the Digital Acquisitions Accelerator, the accompanying playbook examines the current acquisition landscape and provides an approach to procuring custom software solutions. Our goal is to make the government a smarter and more informed buyer of digital products and services.'
 authors: duane-rollins
 categories:
   - Managing Digital

@@ -88,8 +88,7 @@ People employ a variety of strategies before deciding to trust a government digi
 ### Cost-benefit tradeoff
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-249-Cost-benefit-tradeoff-Confidence-and-Resilience-cube.jpg" 
- %}Before using a government service or applying for benefits, people assess the return on investment. They want to know if the time and effort spent interacting with the government will be worth the benefit. We can do more to lower the initial investment.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-249-Cost-benefit-tradeoff-Confidence-and-Resilience-cube.jpg" %}Before using a government service or applying for benefits, people assess the return on investment. They want to know if the time and effort spent interacting with the government will be worth the benefit. We can do more to lower the initial investment.
 
 If you are less confident you will get the service you need, you are less likely to apply for those services. Some people are easily discouraged and give up after one attempt, while others are resilient and willing to persevere. This can be based on past experiences with the government or lack of confidence in their ability to deal with government bureaucracy.
 

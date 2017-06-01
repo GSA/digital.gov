@@ -30,8 +30,7 @@ We’ve recently added a few new features to <a href="https://analytics.usa.gov/
 We’ve created two new location charts on the dashboard: one showing the cities providing the most visitors and one showing U.S. vs. international traffic, including a breakdown of the countries with the most visitors outside the U.S. Both of the visualizations reflect data in real-time (updating every minute), so you can wake-up to see which countries are visiting U.S. government websites while you are asleep! Additionally, while most of the time you’ll see U.S. cities on that particular chart, it is not limited to the United States. If there is a world event and for some reason a large proportion of people in Mumbai, India (for example), are visiting U.S. government websites, the chart will reflect that.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-548-Visitor-Locations-Right-Now-by-city-Screen-Shot-2015-11-25-at-12.23.jpg" 
- %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-548-Visitor-Locations-Right-Now-by-city-Screen-Shot-2015-11-25-at-12.23.jpg" %}
 
 One thing to keep in mind about location information is that since we anonymize IP addresses of visitors at the earliest possible point, the location data is not accurate enough to pinpoint exact locations of visitors. With IP addresses anonymized, we rely on the network domain and service provider to determine a relative location. As a result, people visiting from a suburb may appear as visiting from the closest city.
 
@@ -47,8 +46,7 @@ Two important things to understand about downloads:
 PDF files seem to dominate the list, but other extensions in the category include .doc, .xls, and .mp3, among others. The data reflect the number of times the file was accessed in the past seven days.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/587-x-161-USCIS-Top-Downloads.jpg" 
- section shows the total file downloads over the last week on government sites. This example shows that the application for Naturalization PDF from the United States Citizenship and Immigration Services (USCIS) had 48,909 downloads." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/587-x-161-USCIS-Top-Downloads.jpg" %}
 
 You can click on the page title, “<a href="http://www.uscis.gov/n-400" target="_blank">Application for Naturalization | USCIS</a>,” to go to the page where the file is located, or you can click on the file name, “<a href="http://www.uscis.gov/sites/default/files/files/form/n-400.pdf" target="_blank">n-400.pdf</a>”, to download (or open) the file right from <a href="https://analytics.usa.gov/" target="_blank">analytics.usa.gov</a>!
 

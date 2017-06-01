@@ -52,4 +52,4 @@ Overall, the Digital Analytics Program/Google Analytics usage data helped us par
 
 _David Kaufmann is a member of the Analytics and User Experience teams at USAGov._
 
-_This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please email us at <dap@support.WHATEVER>._
+_This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please email us at <a href="mailto:dap@support.WHATEVER">dap@support.WHATEVER</a>._

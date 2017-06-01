@@ -24,8 +24,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" 
- graphic with the arrow pointing towards Customer" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" %} 
 
 Meeting customer needs can be done, no matter what agency you represent.
 

@@ -18,8 +18,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-yelp-Best-Public-Services-Government-in-Washington-DC-page.jpg" 
- page" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-yelp-Best-Public-Services-Government-in-Washington-DC-page.jpg" %}
 
 Adding customer satisfaction ratings and reviews to public services just got easier now that Yelp offers a terms of service for official government use.
 

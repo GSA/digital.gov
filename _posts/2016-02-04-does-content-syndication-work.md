@@ -26,8 +26,7 @@ NIH News in Health is a monthly newsletter that has recently been syndicated. Si
 Here is [an example of the newsletter](https://newsinhealth.nih.gov/issue/Nov2014/Feature1) on the NIH website.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/555-x-450-Preventing-Type-2-Diabetes-newsletter-National-Institutes-of-Health-website.jpg" 
- newsletter on the NIH site." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/555-x-450-Preventing-Type-2-Diabetes-newsletter-National-Institutes-of-Health-website.jpg" %}
 
 The same content displays on the [Topeka & Shawnee County Public Library website](http://www.tscpl.org).
 
@@ -39,8 +38,7 @@ The same content displays on the [Topeka & Shawnee County Public Library website
 Here is [another example on the NIH website](https://newsinhealth.nih.gov/issue/Nov2014/Feature1).
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-495-Focusing-on-Attention-Deficit-Hyperactivity-Disorder-ADHD-newsletter-National-Institutes-of-Health-website.jpg" 
- newsletter on the NIH site." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-495-Focusing-on-Attention-Deficit-Hyperactivity-Disorder-ADHD-newsletter-National-Institutes-of-Health-website.jpg" %}
 
 This issue of the newsletter is [seen here on a .org website](https://newsinhealth.nih.gov/issue/Nov2014/Feature1). The information is the same but the content is reaching the .org’s audience, expanding the reach of the newsletter.
 

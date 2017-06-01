@@ -38,7 +38,7 @@ Saturday, October 22, 2016, 10:00am – 5:00pm
 
 **Register**
   
-[Register and learn more about the event](https://www.eventbrite.com/e/gender-equality-wikipedia-edit-a-thon-at-the-national-archives-tickets-28252688552) or email <innovationhub@nara.gov> if you have questions.
+[Register and learn more about the event](https://www.eventbrite.com/e/gender-equality-wikipedia-edit-a-thon-at-the-national-archives-tickets-28252688552) or email <a href="mailto:innovationhub@nara.gov">innovationhub@nara.gov</a> if you have questions.
 
 **Who**
   

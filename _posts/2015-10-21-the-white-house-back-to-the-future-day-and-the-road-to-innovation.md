@@ -16,8 +16,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-300-wh\_backtothefutureday\_socialgraphic.jpg" 
- Day graphic" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-300-wh\_backtothefutureday\_socialgraphic.jpg" %}
 
 <p class="light">
   Well, it&#8217;s here: <strong>October 21, 2015</strong>. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the <em>Back to the Future</em> trilogy, we, on the other hand, are not quite there—yet! As the White House notes, we have come a long way in the past 30 years since the original <em>Back to the Future</em> came out in 1985, and <strong><a href="https://twitter.com/search?q=%23BackToTheFutureDay">#BackToTheFutureDay</a></strong> is a great opportunity to talk about where we&#8217;re going in the next 30.

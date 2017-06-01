@@ -22,7 +22,7 @@ tags:
 Every first week of every month, USAGov’s marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’s how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act as a reminder of what’s coming up that month that contributors need to be aware of. It also gives a heads up to our Analytics Team about what promotions could be the causes of increased website visits, email, and social media traffic.
 
 
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-210-USAgov-In-a-Marketing-Minute-graphic.jpg" alt=""In a Marketing Minute" graphic." %}
+{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-210-USAgov-In-a-Marketing-Minute-graphic.jpg" alt="In a Marketing Minute" %}
 
 In addition to sharing upcoming campaigns, we also highlight the top three best performing email and social media messages across our accounts. It’s a great way to showcase the work being done, but also denote what topics and messages are really resonating with our audiences.
 

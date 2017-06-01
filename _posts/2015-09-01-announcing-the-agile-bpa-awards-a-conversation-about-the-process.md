@@ -130,7 +130,7 @@ Based on what we’ve seen in the marketplace to date, agencies typically create
 
 **And what would the process be if I work at an agency and want to use the Agile BPA?**
 
-Right now, we’re managing this the same as other prospective 18F projects via our intake team. Agencies should email us at <inquiries18f@gsa.gov> with information about their problem or project. As we learn more about how to work with other agencies on the BPA, we will refine the process.
+Right now, we’re managing this the same as other prospective 18F projects via our intake team. Agencies should email us at <a href="mailto:inquiries18f@gsa.gov">inquiries18f@gsa.gov</a> with information about their problem or project. As we learn more about how to work with other agencies on the BPA, we will refine the process.
 
 **And what’s the process if I’m a vendor and want to get on this Agile BPA? What can I do?**
 

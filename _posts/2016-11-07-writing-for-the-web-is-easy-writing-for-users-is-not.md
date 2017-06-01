@@ -31,16 +31,14 @@ Fortunately, there are steps we can take to make sure the content we care about 
 ## Get a dedicated content strategist. Trust them.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/250-x-353-UK-Government-Digital-Service\_poster\_Content-is-User-Experience.jpg" 
- poster." %}Content on government websites doesn’t usually fail because it’s wrong, it fails because it’s not written for users. A content strategist will help projects develop a singular voice and maintain consistent style and tone.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/250-x-353-UK-Government-Digital-Service\_poster\_Content-is-User-Experience.jpg" %}Content on government websites doesn’t usually fail because it’s wrong, it fails because it’s not written for users. A content strategist will help projects develop a singular voice and maintain consistent style and tone.
 
 A content strategist will juggle the competing needs and desires of users. They’ll bring a fresh eye to frustrating jargon, technical terms, and acronyms while focusing on using familiar words — an important marker of plain language (and [plain language is required by law](http://www.plainlanguage.gov/plLaw/)). Reporters, teachers, and public speakers are all good examples of writers who use plain language to make their topics more appealing and approachable.
 
 Our colleagues at the Consumer Financial Protection Bureau have been leaders in plain language with their [public-facing content](http://www.consumerfinance.gov/). Their website covers incredibly complex topics — banks, credit unions, securities firms, payday lenders, mortgage-servicing operations, and foreclosure relief services. They use content strategy and user-centered design to make these intimidating subjects accessible to the general public.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-333-The-page-for-Owning-a-Home-under-Consumer-Tools-section-of-the-CFPB-website.jpg" 
- under the Consumer Tools section of the CFPB website." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-333-The-page-for-Owning-a-Home-under-Consumer-Tools-section-of-the-CFPB-website.jpg" %}
 
 ## Test content with real people
 

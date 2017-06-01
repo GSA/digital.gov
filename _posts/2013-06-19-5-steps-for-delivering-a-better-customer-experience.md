@@ -3,7 +3,7 @@
 layout: post
 date: 2013-06-19 8:50:08 -0400
 title: '5 Steps for Delivering a Better Customer Experience'
-summary: 'Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service. Those experiences drive high expectations for interacting with any organization, including government agencies.{% img=&quot;https\://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/customer-experience-model-image-250x171.jpg&quot; alt=&quot;customer experience model image&quot;'
+summary: 'Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service. Those experiences drive high expectations for interacting with any organization, including government agencies.'
 authors: martha-dorris
 categories:
   - Managing Digital

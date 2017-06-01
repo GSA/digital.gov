@@ -14,8 +14,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Story-word-in-wood-type-marekuliasz-iStock-Thinkstock-492624321.jpg" 
- in wooded type" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Story-word-in-wood-type-marekuliasz-iStock-Thinkstock-492624321.jpg" %} 
 
 Storytelling plays an important role in helping to establish the human connection that is often lost in today’s digital deluge of information, shares and tweets. A large amount of the content we consume today is derivative, second-hand, and generally passes through us like a breeze. But by using a method of sharing content that is as old as time, we can actually make a connection with our audience and evoke an emotional response.
 

@@ -13,8 +13,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-210-Content-Writing-Block-Vertical-Pens-ileezhun-iStock-Thinkstock-472384968.jpg" 
- over a block of random placeholder text with vertical pen nibs" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-210-Content-Writing-Block-Vertical-Pens-ileezhun-iStock-Thinkstock-472384968.jpg" %} 
 
 Throughout my five-plus months so far on this blog, I have focused a great deal on creating content, the various methods to improve your content, and what exactly content is. One thing that I may not have emphasized enough is the quality of the actual writing itself and how no content strategy on the planet will help you if the content is not well-written and with a clear knowledge of the subject matter. The saying “[fake it until you make it](http://www.copyblogger.com/dork-copy/)” does not apply to creating successful online content.
 

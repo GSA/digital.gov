@@ -38,7 +38,7 @@ The five winning teams that are competing for the People’s Choice Award are:
   * HyperLocal offered “Feed the People,” an app that connects food truck owners to customers using live tweets meshed with open data on city neighborhoods. This app has the potential to take on more daunting use cases such as disaster recovery or emergency efforts.
   * Purshables looked to grocery stores and offered a solution to the problem of how to sell food approaching its sell-by date to enrolled customers at a reduced price allowing the grocer to avoid having to dispose of the food at no cost.
 
-Join hundreds of federal managers across more than 70 government agencies to collaborate and share best practices on running challenge competitions by becoming a member of the Challenges and Prizes Community of Practice. Email <challenge@gsa.gov> to join.
+Join hundreds of federal managers across more than 70 government agencies to collaborate and share best practices on running challenge competitions by becoming a member of the Challenges and Prizes Community of Practice. Email <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> to join.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-425-Services-Mean-Success-for-Federal-Challenges-Kelly-Olson-ChallengeGov-Ian-Kalin-Commerce-Avi-Bender-Census.jpg" alt="Kelly Olson, Challenge.gov Director; Ian Kalin, Chief Data Officer, Department of Commerce; and Avi Bender, Chief Technology Officer, US Census Bureau, watch the demo of a winning submission for the Data Apps challenge." %}

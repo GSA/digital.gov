@@ -72,8 +72,7 @@ Given the unprecedented scale of the program, we knew that we’d need outside e
 ### 4. Make Data Accessible Inside and Outside the Government
 
 
-{% include image/full-width.html img="https://www.WHATEVER/files/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" 
- %}When DAP first came to life, users were only allowed to view their own agency’s website data. [Even that was ground-breaking as most had only seen the data for their own site and never with full access to reporting across the enterprise.] But, that was just a start.
+{% include image/full-width.html img="https://www.WHATEVER/files/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" %}When DAP first came to life, users were only allowed to view their own agency’s website data. [Even that was ground-breaking as most had only seen the data for their own site and never with full access to reporting across the enterprise.] But, that was just a start.
 
 Just shy of DAP’s second birthday, access to **all** DAP data government-wide was rolled out to every participating DAP agency user. That meant every DAP user had access not only to their specific agency’s data, but all of the participating agencies’ views, as well as the full government-wide rollup. In the [memo to agencies](https://www.WHATEVER/services/dap/guidance-for-dap-gov-wide-data/), then U.S. Federal Chief Information Officer Steven VanRoekel stated, “opening the DAP government-wide data will let participating agencies see other agency’s public-facing website analytics, gain valuable knowledge about shared customers, benchmark against similar agencies, and, most importantly, engage in collaboration and exchange lessons learned.”
 

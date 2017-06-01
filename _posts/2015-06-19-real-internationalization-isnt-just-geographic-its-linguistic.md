@@ -28,8 +28,7 @@ Evidence like this is the reason many government agencies have launched social m
 For years, content in English lived on the USA.gov social media channels, and content in Spanish lived on the GobiernoUSA.gov channels. But with experts saying that the [22.7 million Hispanic millennials in the United States](http://hispanic-marketing.com/hispanic-millennials-require-new-marketing-strategies/) are comfortable going back and forth between both languages, we’re running into a “Spanglish conundrum.”
 
 ## The “Spanglish Conundrum” 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-234-Do-you-speak-spanish-keport-iStock-Thinkstock-521977593.jpg" 
- in Spanish; "Habla Español?"" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-234-Do-you-speak-spanish-keport-iStock-Thinkstock-521977593.jpg" %} 
 
 If you or your parents were born in a Spanish-speaking country and then came to the United States, odds are you speak at least a little bit of “Spanglish.” You probably feel comfortable moving between both languages and may not even notice when a hybrid Spanish-English word or phrase slips into your conversation.
 

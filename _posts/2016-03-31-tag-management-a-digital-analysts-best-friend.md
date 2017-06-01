@@ -26,7 +26,7 @@ GTM gives you the power to add a multitude of tags, built-in code (like Crazy Eg
 
 ## What to Track
 
-Tags can be created for something simple, like recording pageviews, to something complex, like adding custom tracking on a tool within your site. Below are a couple of tags that my team uses that are the most helpful for us, and could be helpful for you. [Email us](mailto:_DL_CFPB%20Digitalanalytics%20<_DL_CFPBDigitalanalytics@cfpb.gov>?subject=GTM%20Blog%20-%20What%20to%20track) if you’d be interested in learning how to set these up!
+Tags can be created for something simple, like recording pageviews, to something complex, like adding custom tracking on a tool within your site. Below are a couple of tags that my team uses that are the most helpful for us, and could be helpful for you. [Email us](mailto:_DL_CFPB%20Digitalanalytics%20<a href="mailto:_DL_CFPBDigitalanalytics@cfpb.gov">_DL_CFPBDigitalanalytics@cfpb.gov</a>?subject=GTM%20Blog%20-%20What%20to%20track) if you’d be interested in learning how to set these up!
 
   * 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-775-Google-Tag-Manager-GTM-internal-link-tag-and-time-on-page-report.jpg" alt="A composite of 2 screen captures from Google Tag Manager: an example of an internal link tag at the top, and a report showing the amount of time spent on 9 events at the bottom." %}**Link clicks, downloads, button clicks, and form submits**: These are some simple things to track site-wide that will give you a lot of insight right off the bat. That means you need one tag to track all internal link clicks, and another tag to track all downloads. To the right is an example of how our internal link tag looks in the GTM user interface.
@@ -37,7 +37,7 @@ Tags can be created for something simple, like recording pageviews, to something
 
 ## The DataLayer!
 
-Say you’ve found something that you would love to track, but can’t, because there’s no built-in variable that lets you do so. Using the DataLayer can help with this issue, and can expand your tracking capabilities. If you’re interested in utilizing this, [reach out to our team](mailto:_DL_CFPB%20Digitalanalytics%20<_DL_CFPBDigitalanalytics@cfpb.gov>?subject=GTM%20Blog%20-%20The%20DataLayer) and we can show you how!
+Say you’ve found something that you would love to track, but can’t, because there’s no built-in variable that lets you do so. Using the DataLayer can help with this issue, and can expand your tracking capabilities. If you’re interested in utilizing this, [reach out to our team](mailto:_DL_CFPB%20Digitalanalytics%20<a href="mailto:_DL_CFPBDigitalanalytics@cfpb.gov">_DL_CFPBDigitalanalytics@cfpb.gov</a>?subject=GTM%20Blog%20-%20The%20DataLayer) and we can show you how!
 
 **_About the Digital Analytics Team_**
   

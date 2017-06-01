@@ -33,8 +33,7 @@ To segment the data specifically for mobile users, click on &#8220;+ Add Segment
 In the search bar, type in “mobile.”
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-113-DAP-Analyzing-Mobile-Traffic-Add-Segment-type-Mobile.jpg" 
- and "Mobile Traffic."" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-113-DAP-Analyzing-Mobile-Traffic-Add-Segment-type-Mobile.jpg" %}
 
 Select the segment that you want to add and click on the blue Apply button of that window pane. After applying, you can navigate all of the standard reports focusing specifically on mobile users.
 
@@ -80,8 +79,7 @@ You can add a filter for your website or page to each widget. Click on the writi
 Click on “Add a filter” and then “Add a dimension.”
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-91-DAP-Analyzing-Mobile-Traffic-add-filter.jpg" 
- button is outlined in red" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-91-DAP-Analyzing-Mobile-Traffic-add-filter.jpg" %}
 
 The dimension can be a hostname, a page or a subdirectory.
 

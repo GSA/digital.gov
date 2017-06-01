@@ -46,8 +46,7 @@ Next up was organizing the long list of funding opportunities. Staff removed all
 Each RFA was hyperlinked to a separate landing page summarizing the funding opportunity.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-201-IES-3.jpg" 
- for specific request for applications (Special Education Research 84.324A)" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-201-IES-3.jpg" %}
 
 ### Stage Two: Improving Requests for Applications
 

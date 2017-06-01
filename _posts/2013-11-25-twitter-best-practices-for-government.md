@@ -13,8 +13,7 @@ tags:
 
 <p dir="ltr" style="text-align: left;">
   <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/media.twitter.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/media.twitter.jpg" 
- overlaying a "Vote" button, "Sports" overlaying a basketball, "New" overlaying a map of the world, "music" overlaying a band playing at an outdoor concert, "non-profit" overlaying a portion of a sign that shows a portion of a donate now sign, "faith" overlaying an image of 6 candles burning, and "basics" overlaying an image of school supplies." %}</a>Last week, Twitter introduced <a href="https://media.twitter.com/">media.twitter.com</a> featuring best practices and success stories to help government  leverage the power of Twitter. Many best practices were covered  including:
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/media.twitter.jpg" %}</a>Last week, Twitter introduced <a href="https://media.twitter.com/">media.twitter.com</a> featuring best practices and success stories to help government  leverage the power of Twitter. Many best practices were covered  including:
 </p>
 
   * How to break the news with [Twitter Alerts](https://media.twitter.com/best-practice/twitter-alerts)

@@ -34,8 +34,7 @@ NPF intentionally designed the website to be shallow: the majority of content is
 A tagging feature was created so that metadata from NPS.gov is pulled over to the FindYourPark.com website, including information about [centennial events](http://findyourpark.com/find#centennial_events) and [maps for finding public lands](http://findyourpark.com/find).
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-300-NPS-Find-your-Park-map-474-locations-across-US-including-PR-and-Virgin-Islands.jpg" 
- map shows 474 locations across the United States including Puerto Rico and Virgin Islands" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-300-NPS-Find-your-Park-map-474-locations-across-US-including-PR-and-Virgin-Islands.jpg" %}
 
 ## Promoting #FindYourPark on Social Media
 

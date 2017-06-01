@@ -44,6 +44,6 @@ From now until the first formal version is released in early January, we ask par
 
 For more information on what [the U.S. Public Participation Playbook](http://www.whitehouse.gov/blog/2014/11/25/help-shape-public-participation) is, please take a look at <a href="https://www.WHATEVER/2014/12/08/2nd-u-s-public-participation-playbook-draft-responds-to-public-contributions/" target="_blank">our DigitalGov post on the second draft</a> that lays out how we’re building it to improve public participation with not just its content but the very process behind its design, and answers some common questions we received.
 
-Thank you to all who contributed in recent weeks, and to all who will contribute in the coming months as we build from this foundation we&#8217;ve built together. We invite you to comment via the <a href="https://mymadison.io/docs/us-public-participation-playbook-draft-v3" target="_blank">Madison platform</a>, hosted by the **OpenGov Foundation**, through email at <justin.herman@gsa.gov> or by scheduling a time for face-to-face discussion.
+Thank you to all who contributed in recent weeks, and to all who will contribute in the coming months as we build from this foundation we&#8217;ve built together. We invite you to comment via the <a href="https://mymadison.io/docs/us-public-participation-playbook-draft-v3" target="_blank">Madison platform</a>, hosted by the **OpenGov Foundation**, through email at <a href="mailto:justin.herman@gsa.gov">justin.herman@gsa.gov</a> or by scheduling a time for face-to-face discussion.
 
 &nbsp;

@@ -50,7 +50,7 @@ Although, the lab will help NCI create a central place for UX research inside th
 
 The lab will be having an Open House on September 11, from 11:30 am to 4 pm.
   
-The lab is located in rooms 2E-202 and 2E-206 on the National Cancer Institute’s Shady Grove campus, 9609 Medical Center Drive, Rockville, MD, 20850. Please email Silvia for details at <salazarsi@mail.nih.gov>.
+The lab is located in rooms 2E-202 and 2E-206 on the National Cancer Institute’s Shady Grove campus, 9609 Medical Center Drive, Rockville, MD, 20850. Please email Silvia for details at <a href="mailto:salazarsi@mail.nih.gov">salazarsi@mail.nih.gov</a>.
 
 _**Pooja Sawant** is in her second year at University of Maryland, College Park, earning an MS in Information Management. She just finished interning with the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/ "DigitalGov User Experience Program") at GSA this summer._
 

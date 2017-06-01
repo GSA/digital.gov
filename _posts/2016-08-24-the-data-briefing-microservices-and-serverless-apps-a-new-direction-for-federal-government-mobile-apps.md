@@ -19,8 +19,7 @@ tags:
 ---
 
 Continuing from last week’s column on [DevOps and containers](https://www.WHATEVER/2016/08/17/the-data-briefing-devops-and-containers-and-why-they-are-important-to-transforming-federal-government-it/), I will explain two other hot trends in IT — microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines ([PDF](http://csrc.nist.gov/publications/drafts/800-180/sp800-180_draft.pdf), 660 kb, 12 pages, February 2016). 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-324-Differences-between-System-Virtual-Machines-and-Application-Containers.jpg" 
- showing the differences between System Virtual Machines and Application Containers." %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-324-Differences-between-System-Virtual-Machines-and-Application-Containers.jpg" %} 
 
 I wrote about [microservices and containers](https://www.WHATEVER/2015/02/11/the-api-briefing-two-api-trends-to-watch-in-2015-microservices-and-containers/) in February 2015 as two API* trends to watch. Both containers and microservices have become widely adopted, although there are some who argue that containers will quickly give way to serverless applications. To understand the transition from containers to serverless apps, let me first explain microservices and how they work.
 

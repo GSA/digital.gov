@@ -21,8 +21,7 @@ tags:
 ---
 
 Hi there, DigitalGov! 
-{% include image/full-width.html img="https://media0.giphy.com/media/3o6Zt3PBAGPUvmvUJO/giphy.gif" 
- written on her hand." %} 
+{% include image/full-width.html img="https://media0.giphy.com/media/3o6Zt3PBAGPUvmvUJO/giphy.gif" %} 
 
 Have you looked in vain for quality animated GIFs from a reputable source? 
 {% include image/full-width.html img="https://media3.giphy.com/media/l0HlAgJTVaAPHEGdy/giphy.gif" alt="Animated gif of a woman searching in a library." %} 

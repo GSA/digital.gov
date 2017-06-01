@@ -30,7 +30,7 @@ Crowdfunding is accessible to anyone. Depending on the selected CFP (there are o
 **How does crowdfunding work?**
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-180-How-does-crowdfunding-work-arrow-graphic.jpg" alt=""How does crowdfunding work?" arrow graphic showing 5 phases: 1) develop a strategic plan, 2) select a crowdfunding platform, 3) train participants, 4) launch the project publicly, and 5) measure success." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-180-How-does-crowdfunding-work-arrow-graphic.jpg" alt="How does crowdfunding work?" %}
 
 **Best Practices in Crowdfunding**
 

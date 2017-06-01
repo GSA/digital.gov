@@ -12,8 +12,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-160-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" 
- graphic with the arrow pointing towards Customer" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-160-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" %} 
 
 Since April of 2011 when President Obama signed [Executive Order 13571](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser) mandating agencies improve the quality of service they give to the public, agencies have been working through strategies to best fulfill this task. We at GSA&#8217;s Office of Citizen Services and Innovative Technologies (OCSIT) were no exception. Back in September of 2013, [we wrote a blog](https://www.WHATEVER/2013/09/27/what-is-a-customer-centric-culture/) about how important it is for a Customer Experience (CX) Program to have shared principles and values, as well as understanding who our customers are and their expectations.
 

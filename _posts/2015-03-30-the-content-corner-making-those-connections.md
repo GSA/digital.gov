@@ -32,8 +32,7 @@ Along with audience determining your message, your message can help determine ho
 
 One great example of this that has gained popularity of late is the [infographic](https://www.WHATEVER/2014/03/14/customize-your-own-amazing-social-media-report-infographic/). It&#8217;s fast and can quickly provide a ton of useful information to a user. Add animation (when you need to) and you have an even more effective communication tool.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-325-quick-sprout.jpg" 
- for images: 1) Don't add an image just to have an image. 2) Don't use boring or irrelevant images 3) Avoid overused stock photos 4) Keep size in mind depending on how you use visual images. Click image for full infographic." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-325-quick-sprout.jpg" %}
  
 
 As opposed to a video, if you have a brief segment without audio that you need to share, then use the animated gif. 18F has several great examples of this from their [GitHub/Terminal tutorial](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).

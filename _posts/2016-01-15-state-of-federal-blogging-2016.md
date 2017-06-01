@@ -17,8 +17,7 @@ tags:
 ---
 
 How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the [White House](https://www.whitehouse.gov/blog), [NASA](http://blogs.nasa.gov/) and the [Department of the Interior](https://www.doi.gov/blog) run their blogs and share content. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Blog-Letterpress-Jason-Enterline-iStock-Thinkstock-470747892.jpg" 
- spelled out in letterpress." %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Blog-Letterpress-Jason-Enterline-iStock-Thinkstock-470747892.jpg" %} 
 
 ## White House: Blog Less, Empower More
 

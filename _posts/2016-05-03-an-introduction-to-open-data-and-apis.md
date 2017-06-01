@@ -34,8 +34,7 @@ In the DigitalGov University webinar, **An Introduction to Open Data and APIs**,
 ## Use Cases
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" 
- %}Mr. Mill illustrated the usefulness to government APIs with some of the most noticeable use cases, the federal budget and the We the People APIs. The federal budget was once an unwieldy and time consuming spreadsheet, which with the power of APIs was rendered into easily read and searched API data for use by the public, congressional groups and others. The Obama Administration introduced the White House petition system, where the [We the People API](https://petitions.whitehouse.gov/developers) allows a method for other websites to directly submit signatures. When using government APIs, go to [API.DATA.GOV](http://api.data.gov/) to download the single API key used for all participating government agencies.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" %}Mr. Mill illustrated the usefulness to government APIs with some of the most noticeable use cases, the federal budget and the We the People APIs. The federal budget was once an unwieldy and time consuming spreadsheet, which with the power of APIs was rendered into easily read and searched API data for use by the public, congressional groups and others. The Obama Administration introduced the White House petition system, where the [We the People API](https://petitions.whitehouse.gov/developers) allows a method for other websites to directly submit signatures. When using government APIs, go to [API.DATA.GOV](http://api.data.gov/) to download the single API key used for all participating government agencies.
 
 ## Getting Started
 

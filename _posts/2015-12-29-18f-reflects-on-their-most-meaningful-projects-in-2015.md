@@ -122,8 +122,7 @@ _We worked with the Federal Election Commission (FEC) to make campaign finance d
 > “I loved working on the team that helped make betaFEC. It was especially exciting to help our partners at the FEC find how they wanted to express their agency through a modernized web experience, and build an updated look and feel with them.”—**Jennifer Thibault**
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-350-Federal-Election-Commission-FEC-Campaign-Finance-Data-page.jpg" 
- page" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-350-Federal-Election-Commission-FEC-Campaign-Finance-Data-page.jpg" %}
 
 ### CALC
 

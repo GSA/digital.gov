@@ -86,7 +86,7 @@ We’re building an authentication platform to make online interactions with the
 
 The Technology Industry Day generated a heap of valuable feedback and potential opportunities for GSA and industry to work together to better serve the public. We’re going through our notes and following up with the participants now, and we plan to publicly share more thoughts and insights from the sessions soon.
 
-Until then, you can sign up the [18F Acquisitions email list](http://gsa.us9.list-manage2.com/subscribe?u=6f1977de9eff4c384dc8d6527&id=e7f757afe3) or the [general 18F newsletter](https://18f.gsa.gov/#newsletter) to stay up to date with all of our projects (or follow our work as it happens on [GitHub](https://github.com/18F)). If you’d like to start a conversation about working with 18F or have questions about our work, you can email <inquiries18f@gsa.gov>.
+Until then, you can sign up the [18F Acquisitions email list](http://gsa.us9.list-manage2.com/subscribe?u=6f1977de9eff4c384dc8d6527&id=e7f757afe3) or the [general 18F newsletter](https://18f.gsa.gov/#newsletter) to stay up to date with all of our projects (or follow our work as it happens on [GitHub](https://github.com/18F)). If you’d like to start a conversation about working with 18F or have questions about our work, you can email <a href="mailto:inquiries18f@gsa.gov">inquiries18f@gsa.gov</a>.
 
 Thanks to everyone who came to the event. Stay tuned for more focused events in the future.
 

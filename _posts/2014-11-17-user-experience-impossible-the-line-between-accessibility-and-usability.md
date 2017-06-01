@@ -35,8 +35,7 @@ According to the World Wide Web Consortium&#8217;s Web Accessibility Initiative 
 
 Accessibility is a benchmark of the quality of our users&#8217; experiences. The two are quite different by definition, but in practice, they&#8217;re still separate issues. Accessibility means that your audience can _get to_ the content and message you want them to receive. It&#8217;s more than just user experience. Without accessibility, the user experience—good or bad—_can&#8217;t even happen_. So, as the saying goes, &#8220;usability depends on accessibility.&#8221;
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-150-How-to-Use-Assistive-Technology-to-Comply-with-Section-508-with-subtitles-turned-on.jpg" 
- as seen on YouTube with the subtitles turned on." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-150-How-to-Use-Assistive-Technology-to-Comply-with-Section-508-with-subtitles-turned-on.jpg" %}
 Even people who don&#8217;t have disabilities can&#8217;t access digital media if there are barriers to content. What sort of barriers exist for people without disabilities? Here are two examples:
 
   * Our friend Bob&#8217;s brother, Todd, is waiting for his flight in Oakland, and he&#8217;s on his way to meet some new clients. He needs to research loans for this last minute meeting, and he&#8217;d like to watch a video on the Small Business Administration&#8217;s site or its YouTube channel. Unfortunately, it&#8217;s so noisy in the waiting area that he can&#8217;t hear the video, and he left his earbuds in his gym bag at home. How can he get the content from the video that he can&#8217;t hear?

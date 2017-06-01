@@ -51,8 +51,7 @@ From the iTunes description: “Ask Karen provides 24/7 assistance and tips on p
 Good UX design is essential to unlocking the value of federal government data. Understanding the neuroscience and communication theory behind how people process information will help the developers, agency communicators and data scientists best present and deliver vitally-needed data products and services to the American public.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-434-USDA-Ask-Karen-iPhone-app-support-and-food-allergies-screens.jpg" 
- iPhone app." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-434-USDA-Ask-Karen-iPhone-app-support-and-food-allergies-screens.jpg" %}
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 

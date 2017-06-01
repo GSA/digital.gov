@@ -37,8 +37,7 @@ Catania highlighted some top tips for improving FAQs:
   * Use language that non-experts will understand. Use plain language when drafting FAQs. Do not burden your reader with insider jargon or undefined acronyms.
   * Provide unique content with your FAQs. When a FAQ has the same content as other Web pages, it usually means that the FAQ content is redundant and can easily become outdated, especially when content to the website is updated but the FAQs are not.
   * Limit the volume of content. When there are too many questions, searching through them can overwhelm the reader. They may never find an answer to their question. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-450-Frequently-asked-questions-froxx-iStock-Thinkstock-149412960.jpg" 
- hallway" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-450-Frequently-asked-questions-froxx-iStock-Thinkstock-149412960.jpg" %} 
 
 ###### Designing and Editing FAQs {.post-title}
 

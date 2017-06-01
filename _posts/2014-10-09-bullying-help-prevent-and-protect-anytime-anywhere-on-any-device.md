@@ -16,8 +16,7 @@ tags:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-Stop-Bullying-2014-what-you-need-to-know-full-cropped-infographic.jpg" 
- Click for full image." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-Stop-Bullying-2014-what-you-need-to-know-full-cropped-infographic.jpg" %}
  
 
 I don&#8217;t remember being bullied as a kid, but my younger sister once was.

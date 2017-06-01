@@ -22,8 +22,7 @@ Like many of you, we watched with great interest this week when a citizen [submi
 
 While official sources explain that the desired outcome is not possible at this time…
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/506-x-311-FBI-NY-PharmaBro-Martin-Shkreli-arrest-WuTang-Clan-tweet-Dec-17th-2015.jpg" 
- Martin Shkreli and Wu-Tang Clan album December 17th 2015" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/506-x-311-FBI-NY-PharmaBro-Martin-Shkreli-arrest-WuTang-Clan-tweet-Dec-17th-2015.jpg" %}
 
 
 &#8230;in light of this creative effort, let&#8217;s discuss how you too can use FOIA and other [Open Government programs](https://www.WHATEVER/2015/10/29/empowering-the-voice-of-citizens-at-core-of-gsa-open-government/) to build a better tomorrow.

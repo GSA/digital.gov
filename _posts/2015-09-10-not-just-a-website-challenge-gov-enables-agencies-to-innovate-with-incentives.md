@@ -47,8 +47,7 @@ Harvard University acknowledged this when it awarded Challenge.gov the [Innovati
 “Instead of paying first and hoping a solution is delivered, GSA&#8217;s approach minimizes risk and encourages creativity by inducing dozens and sometimes hundreds of potential solutions and leaving the government agency free to pick the best before delivering a reward,” Goldsmith wrote. “It&#8217;s an approach that opens up space for individuals and smaller businesses to shine in a sector often crowded out by big companies.”
 
 ## Celebrating the past and Looking Forward 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-360-Award-Alexander-Vasilyev-iStock-Thinkstock-1042552011.jpg" 
- shaped like a gold star, against a red and gold hued background." %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-360-Award-Alexander-Vasilyev-iStock-Thinkstock-1042552011.jpg" %} 
 
 The October 8th event at GSA will highlight the critical role challenges and prizes have played in federal government innovation and honor those who have helped this community thrive and progress.
 

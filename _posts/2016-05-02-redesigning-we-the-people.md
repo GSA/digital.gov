@@ -27,8 +27,7 @@ In July 2015, [we announced a big change](https://medium.com/@Goldman44/how-we-r
 We committed to responding to you within a 60-day timeframe, whenever possible. We assembled a team of people dedicated to getting your policy questions and requests to the right people so you get the most informed response. (Often, that meant the heads of agencies or the foremost experts on a given issue.) We also answered a backlog of 20 petitions, resulting in 2.5 million people receiving a response from us within a single day.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-1019-We-the-People-infographic.jpg" 
- data, dated April 20, 2016." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-1019-We-the-People-infographic.jpg" %}
 
 But more importantly, we committed to continue listening.
 

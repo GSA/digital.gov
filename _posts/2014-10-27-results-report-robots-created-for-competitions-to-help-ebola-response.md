@@ -51,4 +51,4 @@ WPI&#8217;s Velin Dimitrov, a graduate student in robotics, is credited with lea
 
 Knowing that one level of innovation leads to another is inspiring for the people running and entering challenge competitions. As we look at solutions across government, we know that if we deconstruct the needs and capabilities, we can find ways to re-purpose and redirect the solutions to a variety of useful outcomes.
 
-See the full list of federal challenge and prize competitions at [Challenge.gov](https://www.challenge.gov/list/). And if you&#8217;re a challenge winner who would like to share your story of how it has impacted your life and community, email <challenge@gsa.gov>.
+See the full list of federal challenge and prize competitions at [Challenge.gov](https://www.challenge.gov/list/). And if you&#8217;re a challenge winner who would like to share your story of how it has impacted your life and community, email <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a>.

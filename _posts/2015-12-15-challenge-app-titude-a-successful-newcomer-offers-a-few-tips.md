@@ -18,8 +18,7 @@ tags:
 ---
 
 The [Reference Data Challenge](http://nistdata.devpost.com/), launched this summer, was a call for innovative approaches to a long-standing role of the National Institute of Standards and Technology ([NIST](http://www.nist.gov/)) to make “critically evaluated reference data available to scientists, engineers and the general public.” 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Robot-lamp-working-on-a-laptop-Grassetto-iStock-Thinkstock-451536897.jpg" 
- light bulb for a head working on a laptop" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Robot-lamp-working-on-a-laptop-Grassetto-iStock-Thinkstock-451536897.jpg" %} 
 
 This challenge—our first-ever app contest and second prize competition as an agency—had the dual aims of improving awareness about and usability of our data. We invited submissions of mobile apps that used at least one of six eligible NIST datasets. We made sure all of the data was available in machine readable format (JSON) on Data.gov and also directed participants to the existing NIST websites where we were already making the datasets accessible.
 

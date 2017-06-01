@@ -35,8 +35,7 @@ On reddit, the community sets the rules and runs the show. Taylor explained that
 
 The AMA format is a freeform, live question and answer session on the Internet. Taylor, who can assist agencies to set up and moderate an AMA says, “AMA is like playing roulette; not just the risks [of taking] open questions but it may not pull the interest you want.” Still, hosting an AMA may be worth putting yourself on the hot seat, because she said AMAs, “are a great way to get information out quickly,” and can attract high profile press. AMAs can scale up quickly. At the high end, [thisisbillgates](http://www.reddit.com/user/thisisbillgates)’ AMA drew nearly 20 thousand comments and five thousand up-votes.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-175-get-to-know-reddit-3.jpg" 
- (or A M A) on Reddit." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-175-get-to-know-reddit-3.jpg" %}
 
 
 ## More AMA tips
@@ -70,6 +69,6 @@ The U.S. represents the largest group of reddit users, but Canadians spend the m
 
 &nbsp;
 
-_Editor&#8217;s Note: For help scheduling and optimizing your AMA, contact <victoria@reddit.com>._
+_Editor&#8217;s Note: For help scheduling and optimizing your AMA, contact <a href="mailto:victoria@reddit.com">victoria@reddit.com</a>._
 
 _**Judith Snyderman** is a multimedia analyst for government agencies._

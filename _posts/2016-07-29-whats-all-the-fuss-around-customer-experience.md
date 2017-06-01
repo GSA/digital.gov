@@ -18,8 +18,7 @@ tags:
 ---
 
 Have you been hearing the terms &#8220;Customer Experience&#8221; or &#8220;CX&#8221; a lot lately? Maybe you’re wondering how they relate to customer service, or maybe you want to learn more about CX and how it can help your customers. Whether you directly interact with customers, support front line employees, or manage program operations, your work has an impact on your agency’s customers. And it’s very important that excellent customer service be at the forefront in the federal government because we impact so many lives. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" 
- graphic with the arrow pointing towards Customer" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" %} 
 
 GSA [launched the Customer Experience Community of Practice](https://www.WHATEVER/2015/07/31/new-kid-in-town-the-customer-experience-community/) (CX-COP) in April 2015. When it launched, the CX-COP consisted of 200 members, and it grew to 600 members within its first year. That’s 300% growth in one year!
 

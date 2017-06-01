@@ -31,8 +31,7 @@ tags:
 The U.S. General Services Administration (GSA) made history today by releasing the first ever iBook version of the [Federal Acquisition Regulation](http://www.gsa.gov/portal/content/101126) (FAR). And while a tome about the complex rules governing the federal government’s purchasing process may not sound like a bestseller, the FAR is essential reading not just for federal contracting officers and federal contractors, but owners of small (and large) businesses, too.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-340-iBooks-FAR\_AD\_848x440.jpg" 
- are above photos of the FAR in print as a thick book and on a tablet." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-340-iBooks-FAR\_AD\_848x440.jpg" %}
 
 “Basically, anyone who does or wants to conduct business with the government reads the FAR,” said Dan Briest, Program Manager of Acquisition.gov in GSA’s Office of Acquisition Policy. “We’ve had multiple requests for a downloadable version of the FAR because contracting exists regardless of whether there’s a strong wifi signal where you are.“
 

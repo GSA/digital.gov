@@ -52,8 +52,7 @@ Another option is the light weight Chrome Device Mode and Mobile Emulation tool 
 The following chart, from a [research study sponsored by Sauce Labs](http://saucelabs.com/resources/sauce_labs_testing_trends_2015.pdf) [PDF], shows the percentage of people using simulators and emulators and to what extent:
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" 
- Its three "slices" show that 29 percent use simulators or emulators only, 37 percent use real devices only, and 34 percent use a combination of real devices and simulators (the breakdown of that is: 12 percent mostly use real devices, 9 percent mostly use simulators or emulators, and 13 percent use emulators and real devices equally)." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" %}
 
 Is this surprising to you?  Which category do you fit into?
 

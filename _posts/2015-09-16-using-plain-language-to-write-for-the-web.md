@@ -14,8 +14,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Signpost-showing-simple-or-complicated-keport-iStock-Thinkstock-481691104.jpg" 
- and the other says, "complicated."" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Signpost-showing-simple-or-complicated-keport-iStock-Thinkstock-481691104.jpg" %} 
 
 Plain language will make you a better writer. For federal employees, it&#8217;s also the law.
 

@@ -53,8 +53,7 @@ According to a report run on Hashtags.org, use of the [#SuperBloodMoon hashtag](
 Microblog tumblr users also got in on the [#SuperBloodMoon](https://www.tumblr.com/search/%23SuperBloodMoon) hashtag action with tons of fun eclipse photos, videos, animated gifs, and memes.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-tumblr-Death-Star-Super-Blood-Moon-Meme.jpg" 
- Super Blood Moon meme from tumblr." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-tumblr-Death-Star-Super-Blood-Moon-Meme.jpg" %}
 
 **Analytics.USA.gov**
 

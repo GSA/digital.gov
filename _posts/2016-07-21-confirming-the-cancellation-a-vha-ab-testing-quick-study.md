@@ -154,8 +154,7 @@ Finally we observed the participants as they attempted to click the correct butt
   * Disliked the use of negative verbs in both button options (Moderate).
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-Figure10.jpg" 
- dialog." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-Figure10.jpg" %}
 
 ## Conclusion
 

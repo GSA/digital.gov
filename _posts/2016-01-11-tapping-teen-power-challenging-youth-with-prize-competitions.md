@@ -61,7 +61,6 @@ It’s just the kind of detail that can get students interested in STEM and perh
 That’s the hope for Generation Nano, CAC and several other challenges aimed at high school students.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-450-National-Science-Foundation-NSF-Generation-Nano-Small-Science-Superheroes-design-challenge-website.jpg" 
- design challenge website." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-450-National-Science-Foundation-NSF-Generation-Nano-Small-Science-Superheroes-design-challenge-website.jpg" %}
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!
