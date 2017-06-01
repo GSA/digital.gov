@@ -2,7 +2,7 @@
 
 _Made with love, learning, and all the hope in the world._
 
-This is a [Jekyll theme](https://jekyllrb.com/docs/themes/) for the DigitalGov.
+This is a [Jekyll theme](https://jekyllrb.com/docs/themes/) for DigitalGov.
 
 
 ---
