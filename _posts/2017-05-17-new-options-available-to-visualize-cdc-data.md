@@ -2,7 +2,7 @@
 
 layout: post
 date: 2017-05-17 12:00:18 -0400
-title: New Options Available to Visualize CDC Data
+title: 'New Options Available to Visualize CDC Data'
 summary: 'CDC&rsquo;s surveillance systems track HIV, AIDS, viral hepatitis, STDs, and TB. Getting this information to those who need it most in an accessible, usable, and meaningful format is a primary goal for CDC. The launch of Atlas in 2012 made this a reality with an online resource that gave users tools to create customized tables,'
 authors: aids-gov
 categories:
@@ -18,6 +18,7 @@ tags:
 CDC’s surveillance systems track HIV, AIDS, viral hepatitis, STDs, and TB. Getting this information to those who need it most in an accessible, usable, and meaningful format is a primary goal for CDC. The launch of Atlas in 2012 made this a reality with an online resource that gave users tools to create customized tables, maps, and other graphics with the most current CDC surveillance data.
 
 Now, **we have launched CDC’s [NCHHSTP AtlasPlus](https://www.cdc.gov/nchhstp/atlas/index.htm). This update has significant enhancements** that empower users to explore 2015 HIV, STD, and TB data at the national, state, or county level. They can easily access 2014 data for hepatitis as well. Disease rates can be analyzed by demographic variables, transmission categories, year, and trends over time. In this new version, users can create 2 side-by-side maps or charts, e.g., state-level maps can compare HIV diagnoses among White and African American MSM.
+
 
 {% include image/full-width.html img="https://www.WHATEVER/files/2017/05/600-x-301-Screencap-of-AIDSgov-CDC-NCHHSTP-AtlasPlus-app.jpg" alt="Screen capture of CDC’s NCHHSTP AtlasPlus shows the recent rise in various STDs in Indiana." %}
 
