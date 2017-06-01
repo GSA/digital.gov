@@ -33,8 +33,7 @@ The [mobile moments](https://solutions.forrester.com/mobile) concept has been po
 Mobile moments are your agency’s [chance to shine](https://econsultancy.com/blog/65041-making-the-most-of-mobile-moments-to-transform-the-customer-experience/). The key is getting to [know your user](https://www.WHATEVER/2015/05/15/government-services-through-a-life-events-approach/); analytics can [help you find the moment](https://www.thinkwithgoogle.com/research-studies/creating-moments-that-matter.html). However, Ask and her Forrester colleagues suggest plotting the customer journey very specifically. This includes knowing every detail about their context and needs. You should [chart the various scenarios that users may encounter](https://solutions.forrester.com/mobile/landing-61Q6-3212NK.html) when interacting with your office; below is an example chart that Ask created for an airline company.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-740-mobile\_moment\_timeline_\_american\_airlines_109381-4.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-740-mobile\_moment\_timeline_\_american\_airlines_109381-4.jpg" %}
 
 Once you find a mobile moment, you should build for mobile and not adapt existing processes. You should [think like a mobile designer](http://www.smashingmagazine.com/2015/04/10/thinking-like-an-app-designer/) and prototype for the mobile user. [USA.gov](https://www.WHATEVER/2014/05/22/how-to-make-a-mobile-paper-prototype/) and the [Department of Veterans Affairs](https://www.WHATEVER/2014/08/21/paper-prototyping-ptsd-coach/) both [paper prototyped](https://www.WHATEVER/2014/08/08/design-sketching-the-easiest-prototype-method-ever/) for their mobile users. There are also [digital tools](https://popapp.in/en/terms/government-users) that allow you to prototype for mobile.
 

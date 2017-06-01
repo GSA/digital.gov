@@ -77,8 +77,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   
   <div class="one-half">
     <a title="New Google Analytics for Government Training Manual" href="https://www.WHATEVER/2014/05/15/new-google-analytics-for-government-training-manual/">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/featured-301-x-212-Google-Analytics-for-Government-2nd-Edition-May-2014.jpg" 
-" %}</a>
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/featured-301-x-212-Google-Analytics-for-Government-2nd-Edition-May-2014.jpg" %}</a>
   </div>
 </blockquote>
 

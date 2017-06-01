@@ -24,8 +24,7 @@ _(We’ll use PDF as the example from now on, but everything said applies to all
 One reason might be that you’re sharing links [directly to your PDF](https://twitter.com/algoritmic/status/740180482005045249) through your communications channels, social media, email, or promotional partners. If that is the case, the direct link that you’re sharing is exactly where the problem lies. **Analytics tools can only record data for file downloads if a link to the file is clicked on a web page.**
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/250-x-205-view-page-soure.jpg" 
-" %}Why? Because a URL that opens a PDF document in your browser doesn’t have html behind it, and the DAP code (or any analytics tool’s code) exists only in the html. Web pages allow you to right click and choose an option to view the html page source code (give it a try!).
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/250-x-205-view-page-soure.jpg" %}Why? Because a URL that opens a PDF document in your browser doesn’t have html behind it, and the DAP code (or any analytics tool’s code) exists only in the html. Web pages allow you to right click and choose an option to view the html page source code (give it a try!).
 
 Right-clicking on a web page allows you to view the html page source code. However, you can’t do this with a PDF document. Try it yourself with [this sample PDF](https://www.irs.gov/pub/irs-pdf/f1040.pdf).
 

@@ -18,8 +18,7 @@ tags:
   - USCIS
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-human-word-cloud-kgtoh-481085576.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-human-word-cloud-kgtoh-481085576.jpg" %}
  
 
 In 2015, [DigitalGov Search](http://search.WHATEVER/) dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support [68 different languages](http://search.WHATEVER/manual/supported-languages.html). Government agencies across the United States publish content in a growing number of languages to do the business of the country. Language-specific websites and mobile apps include not just translated content, but also site navigation and other lexical elements.

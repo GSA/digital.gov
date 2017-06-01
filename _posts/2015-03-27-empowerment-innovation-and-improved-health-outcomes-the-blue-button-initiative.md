@@ -63,8 +63,7 @@ Developers in the federal space are also moving forward with Blue Button project
 ## Consumer Health Information Exchange via APIs
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-260-Blue-Button-Initiative-app-GenieMD-with-4.5-ratings-from-many-Apple-and-Android-users.jpg" 
-" %}Blue Button is supported by a portfolio of standards, including those developed by [Health Level Seven International](http://www.hl7.org/index.cfm) (HL7), a not-for-profit organization that develops standards for the exchange, integration, sharing, and retrieval of electronic health information. HL7’s Fast Healthcare Interoperability Resources (FHIR) create machine and human readable health standards that can be easily transported via secure Internet protocol over HTTPS (RESTful API).
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-260-Blue-Button-Initiative-app-GenieMD-with-4.5-ratings-from-many-Apple-and-Android-users.jpg" %}Blue Button is supported by a portfolio of standards, including those developed by [Health Level Seven International](http://www.hl7.org/index.cfm) (HL7), a not-for-profit organization that develops standards for the exchange, integration, sharing, and retrieval of electronic health information. HL7’s Fast Healthcare Interoperability Resources (FHIR) create machine and human readable health standards that can be easily transported via secure Internet protocol over HTTPS (RESTful API).
 
 Gajen Sunthara, Presidential Innovation Fellow at ONC, is building a public facing FHIR server within ONC’s Standards Implementation Testing Environment (SITE).
 

@@ -16,8 +16,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-282-cropped-abierto-we-are-open-Neon-sign-Gualberto-Becerra-iStock-Thinkstock-106361586.jpg" 
-" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-282-cropped-abierto-we-are-open-Neon-sign-Gualberto-Becerra-iStock-Thinkstock-106361586.jpg" %} 
 
 It’s a well-known fact that the Hispanic population is growing at a rapid pace, and among the areas seeing the most interest and growth is business.
 

@@ -19,8 +19,7 @@ tags:
 > _-Nicholas Skytland, NASA_
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-250-Hack-For-Change-2015-Sticker.jpg" 
-" %}The [National Day of Civic Hacking](http://hackforchange.org/about/) is a national community engagement event that will take place on June 6, 2015, in cities all around America. The initiative is a united effort to bring together a diverse group of concerned citizens to improve communities and the government which represents them.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-250-Hack-For-Change-2015-Sticker.jpg" %}The [National Day of Civic Hacking](http://hackforchange.org/about/) is a national community engagement event that will take place on June 6, 2015, in cities all around America. The initiative is a united effort to bring together a diverse group of concerned citizens to improve communities and the government which represents them.
 
 The event will connect software developers, entrepreneurs and concerned citizens from all over the nation so they can collaboratively create, build, and invent new solutions using publicly-released data, code and technology to solve challenges relevant to federal, state and local governments. The National Day of Civic Hacking provides citizens an opportunity to do what is most quintessentially American: roll up our sleeves, get involved and work together to improve our government.
 

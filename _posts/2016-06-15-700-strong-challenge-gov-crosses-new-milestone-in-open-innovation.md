@@ -22,8 +22,7 @@ tags:
 [Challenge.gov](https://www.challenge.gov/), the official website for crowdsourcing and prize competitions across government, celebrated its five-year anniversary in October 2015.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
 Now, not even one year later, the site has reached another milestone.
 

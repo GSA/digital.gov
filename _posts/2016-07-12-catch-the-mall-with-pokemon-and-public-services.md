@@ -56,7 +56,6 @@ Things are getting weird, though. Here are a few other approaches to the Pokémo
   * And let’s not forget the awareness training for security guards across the government who awoke one day to flocks of visitors approaching gates with their cameras ready to take photos &#8212; which is frowned upon.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/581-x-483-Joint-Base-Lewis-McChord-Pokemon-GO.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/581-x-483-Joint-Base-Lewis-McChord-Pokemon-GO.jpg" %}
 
 While there are of course considerations and guidelines that we’re working to understand, ultimately, this phenomenon provides a golden opportunity for government agencies around the country to engage meaningfully with our country’s tech-savvy youth (or young at heart), a demographic many of us have struggled to connect with. The audience is out there exploring our public lands, museums, sidewalks, neighborhoods, and parks. As some of these examples have shown, they are very receptive to collecting more than just a jigglypuff.

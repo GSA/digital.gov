@@ -17,8 +17,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" 
-" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" %} 
 
 Social media tools can amplify your agency’s message, but they are also a meeting space for two-way conversations. They can be a key tool to resolve user issues and deliver excellent customer service.
 

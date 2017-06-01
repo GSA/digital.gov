@@ -16,8 +16,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-235-Travel-mobile-apprication-nnnnae-iStock-Thinkstock-473901020-Converted.jpg" 
-" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-235-Travel-mobile-apprication-nnnnae-iStock-Thinkstock-473901020-Converted.jpg" %} 
 
 Take out your smartphone and count the number of apps that you have. How many of these apps do you use daily? What about the apps you use weekly? Do you have any apps that you installed but used only once? Any apps that you have never used?
 

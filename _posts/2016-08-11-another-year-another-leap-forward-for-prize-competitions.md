@@ -49,5 +49,4 @@ They’re also getting creative in how they structure and use these competitions
 For more specifics on the challenges run this year, be sure to check out the [entire report](https://www.whitehouse.gov/sites/default/files/fy2015_competes_prizes_report.pdf).
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}

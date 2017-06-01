@@ -18,8 +18,7 @@ tags:
   - YouTube
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-399-Smithsonian-National-Museum-of-American-History-NMAH-Glass-disc-recorded-in-November-1884.-It-features-a-voice-saying-barometer.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-399-Smithsonian-National-Museum-of-American-History-NMAH-Glass-disc-recorded-in-November-1884.-It-features-a-voice-saying-barometer.jpg" %}
 
 
 DC was the Silicon Valley of the 1880’s. And Alexander Graham Bell? He was more than just a telephone man. His Volta Laboratory was the premier 19th century innovation center.

@@ -14,8 +14,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
 Two powerhouses in the Challenge and Prize community came together at GSA for the [first in a seven-part learning series](https://www.WHATEVER/2015/07/14/challenge-gov-program-launches-new-training-opportunities/) recently. Chris Frangione, Vice President of Prize Development for the XPrize and Alexis Bonnell, Innovation Evangelist at USAID offered insights and background into what makes a great ideation competition, sharing case studies and the history of prizes during the webinar.
 

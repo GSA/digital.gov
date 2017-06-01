@@ -26,8 +26,7 @@ Upwards of 80 agencies have used this no cost platform since its debut, launchin
 ## Five Years of Innovation, Solutions, and Engagement
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
 Since its launch in 2010, Challenge.gov has accelerated the federal government’s mission to spur innovation, cost-effective solutions, and citizen engagement through competitions and challenges. Along with other White House initiatives, Challenge.gov has made it easier for federal agencies to launch and manage challenges.
 

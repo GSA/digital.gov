@@ -32,8 +32,7 @@ On Wednesday, December 10, the [Challenge and Prize Community of Practice](https
 This event brought together more than 70 practitioners in-person and online, and we’ll be sharing the clips from the livestream in the very near future. Now here’s a look at our other events.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
 ## The New Challenge.gov
 

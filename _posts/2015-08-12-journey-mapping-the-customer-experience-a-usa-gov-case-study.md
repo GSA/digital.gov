@@ -28,8 +28,7 @@ We have a lot of data that we regularly analyze, and it tells us a lot about our
 We used information in the [CX Journey Mapping Toolkit](http://designingcx.com/cx-journey-mapping-toolkit/) to plan the sessions and our approach. We invited subject matter experts, managers, and other stakeholders to participate in the mapping sessions and designated facilitators to lead the sessions and keep us on track.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" %}
 
 One of the most important preparation activities is creating the behavior line. This is the path your customer takes and the journey you’re going to map.
 

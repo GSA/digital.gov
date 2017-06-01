@@ -77,16 +77,14 @@ When the disaster strikes, it&#8217;s important for those involved in public saf
 Throughout September, more than 3,000 organizations—national, regional, and local governments, as well as private and public organizations—are supporting emergency preparedness efforts and encouraging Americans to take action. Each week they will focus messaging and products on several unique areas.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-439-Ten-ways-to-participate-NatlPrep\_22\_medium.jpg"
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-439-Ten-ways-to-participate-NatlPrep\_22\_medium.jpg" %}
 
 [This week’s theme on Ready.gov is to Honor 9/11](https://www.ready.gov/september) ([Patriot Day](https://en.wikipedia.org/wiki/Patriot_Day)) by getting involved in your community & planning with neighbors. Local agencies such as the City of Miami Government are using [private social networks such as Nextdoor](https://www.facebook.com/CityOfMiamiGov/videos/1050149401720256/), a neighborhood watch platform custom-built for each neighborhood that participates.
 
 Public safety agencies continue to work to better connect with the public they serve. For example, [check out this viral story](http://abc3340.com/news/local/mississippi-firefighter-plays-happy-feet-song-to-comfort-young-crash-victim) of a Mississippi firefighter who plays the movie “Happy Feet” on his phone to try and calm a terrified child who was in a violent car crash.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-642-FEMANPM2016\_logo\_vFinal_medium.jpg"
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-642-FEMANPM2016\_logo\_vFinal_medium.jpg" %}
 
 _“Don’t Wait, Communicate. Make Your Emergency Plan Today,” is the theme by FEMA with a continuing emphasis on preparedness for youth, older adults, and people with disabilities and others with access and functional needs._
 

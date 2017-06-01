@@ -40,7 +40,6 @@ On January 25, the megaphone rolled out in Texas, Georgia, Arkansas and Tennesse
 We noticed that the conversion rate was lower in the second set of states, and we&#8217;re still digging into that data to see if we can figure out why.
 
 This partnership is just one part of our year-long campaign, known as #VoteUSA, to help Americans actively take part in our democracy through voting. We&#8217;ll be sharing more from the campaign through out the year. If you&#8217;re working on anything related to voter education and empowerment for the upcoming elections, you can always feel free to [drop us a line](mailto:usapartnerships@gsa.gov). 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Your-vote-is-important-Chromatika-Multimedia-iStock-Thinkstock-155612592.jpg" 
-" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Your-vote-is-important-Chromatika-Multimedia-iStock-Thinkstock-155612592.jpg" %} 
 
 _This article [originally published](https://blog.usa.gov/preliminary-results-from-voter-registration-partnership-with-facebook) on the [USAgov blog](https://blog.usa.gov/), by Jessica Milcetich, a member of the USAGov Marketing and Outreach Team._

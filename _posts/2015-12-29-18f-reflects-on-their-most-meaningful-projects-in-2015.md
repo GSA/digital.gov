@@ -213,8 +213,7 @@ _The Federalist platform [provides an easy way](https://18f.gsa.gov/2015/09/15/f
 &nbsp;
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-292-18f-Federalist-beta-homepage-Dec-28th-2015.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-292-18f-Federalist-beta-homepage-Dec-28th-2015.jpg" %}
 
 ### SBIR-EZ
 

@@ -69,8 +69,7 @@ A competition like this both pushes the field forward with new concepts and insp
 ## Up Next
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
 On the heels of the DEBUT Challenge, NIH’s latest problem-solving opportunity encourages individuals and teams to design and produce a wearable device to monitor blood alcohol levels in real time. The [Wearable Biosensor Challenge](https://www.challenge.gov/challenge/a-wearable-alcohol-biosensor/), run by NIH’s National Institute of Alcohol Abuse and Alcoholism, is currently accepting submissions through December 1.
 

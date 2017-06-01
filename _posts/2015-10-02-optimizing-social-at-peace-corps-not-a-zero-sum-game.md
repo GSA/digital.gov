@@ -16,8 +16,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" 
-" %} 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" %} 
 
 At the Peace Corps, we continually try to find new ways to test, measure and optimize our marketing and communications initiatives. Recently, we embarked on a project to design a framework to test and optimize content on the social media platforms we use to engage our stakeholders. This process required us to reboot our expectations in terms of measurement and re-think our social goals, but in the end it has made our decision-making process much stronger.
 

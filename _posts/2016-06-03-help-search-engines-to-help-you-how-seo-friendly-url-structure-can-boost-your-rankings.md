@@ -71,8 +71,7 @@ How bad could their impact on your customers’ search results be? Consider thes
   
   <p>
     
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-381-invasives-cgi-bin.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-381-invasives-cgi-bin.jpg" %}
   </p>
   
   <p>
@@ -81,8 +80,7 @@ How bad could their impact on your customers’ search results be? Consider thes
   
   <p>
     
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-invasives.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-invasives.jpg" %}
   </p>
   
   <p>
@@ -95,8 +93,7 @@ How bad could their impact on your customers’ search results be? Consider thes
       
       <p>
         
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-525-pubs-other-invasives-forests.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-525-pubs-other-invasives-forests.jpg" %}
       </p>
       
       <p>
@@ -105,8 +102,7 @@ How bad could their impact on your customers’ search results be? Consider thes
       
       <p>
         
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-432-invasives-forests.jpg" 
-" %}</li> </ol> 
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-432-invasives-forests.jpg" %}</li> </ol> 
         
         <p>
           In both of these searches, the Nature Conservancy’s Fading Forests is the fifth result—but that is the only thing the top four pages of results have in common.

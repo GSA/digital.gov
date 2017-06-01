@@ -13,8 +13,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
 Seven new training modules aim to help [Federal Challenge and Prize Community](https://www.WHATEVER/communities/challenges-prizes-community/) members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with “Prize History, Prize Theory and What Makes a Good Prize.” Module one is designed to give challenge managers a foundation on prizes starting with their role in history and demonstrate well-known advancements that have resulted from prizes.
 

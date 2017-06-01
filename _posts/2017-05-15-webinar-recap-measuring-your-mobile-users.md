@@ -48,8 +48,7 @@ The webinar reviewed some important questions to ask as you’re considering wha
 DAP believes that the best way to think about mobile reporting is through a three-screen view of desktop, smartphone, and tablet traffic. The [webinar](https://www.youtube.com/watch?v=DgSfm1wZvvE) featured a demo using the mobile analytics data of the National Science Foundation (NSF) that went through mobile segments in basic and custom reports.
 
 
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/05/600-x-405-DAP-Measuring-Mobile-webinar-recap.png" 
- " %}
+{% include image/full-width.html img="https://www.WHATEVER/files/2017/05/600-x-405-DAP-Measuring-Mobile-webinar-recap.png" %}
 
 ## How to get help and sign up for DAP (free!)
 

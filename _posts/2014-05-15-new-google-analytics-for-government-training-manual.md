@@ -16,8 +16,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-176-Google-Analytics-for-Government-2nd-Edition-May-2014.jpg" 
-" %}Looking for a training manual on how to use Google Analytics for your agency? Here&#8217;s your answer. I released a second edition of my Google Analytics for Government training manual. [Download your copy today](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2ND_EDITION__GOOGLE_ANALYTICS_FOR_GOVERNMENT_TRAINING_MANUAL-4.pdf)**** (PDF, 4.94 MB, 65 pages, May 2014) and be sure to check out my other resources on [creating awesome Web analytics reports](https://www.WHATEVER/2014/03/04/creating-awesome-web-analytics-reports-and-presentations/).
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-176-Google-Analytics-for-Government-2nd-Edition-May-2014.jpg" %}Looking for a training manual on how to use Google Analytics for your agency? Here&#8217;s your answer. I released a second edition of my Google Analytics for Government training manual. [Download your copy today](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2ND_EDITION__GOOGLE_ANALYTICS_FOR_GOVERNMENT_TRAINING_MANUAL-4.pdf)**** (PDF, 4.94 MB, 65 pages, May 2014) and be sure to check out my other resources on [creating awesome Web analytics reports](https://www.WHATEVER/2014/03/04/creating-awesome-web-analytics-reports-and-presentations/).
 
 ### Excerpt from the _Google Analytics for Government, Second Edition_
 

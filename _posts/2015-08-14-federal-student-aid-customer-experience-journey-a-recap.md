@@ -17,8 +17,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-262-FSA-header.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-262-FSA-header.jpg" %}
 
 Customer Experience (CX) deserves a voice at an agency’s senior levels. Putting CX at the forefront of policy-making decisions will have the most positive impact for customers. Elevating CX is how the Department of Education’s Federal Student Aid (FSA) champions the 22 million applicants seeking $150 billion in education loans each year. Brenda Wensil, Chief Customer Experience Officer at FSA, shared her insights with DigitalGov University in a July 28, 2015, webinar about the establishment of the FSA CX Team.
 

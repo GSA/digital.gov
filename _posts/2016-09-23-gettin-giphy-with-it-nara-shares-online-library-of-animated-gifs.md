@@ -61,8 +61,7 @@ If you want to join the fun, take a look at [NARA&#8217;s Terms of Service Agree
 {% include image/full-width.html img="https://media1.giphy.com/media/l0HlHLCqPLdy4ZGmI/giphy.gif" alt="Animated gif of a man reading a letter." %} 
 
 And don’t forget to check us out regularly; there are more GIFs to come! 
-{% include image/full-width.html img="https://media3.giphy.com/media/l3vR2SwA3hfH4NtVC/giphy.gif" 
-" %} 
+{% include image/full-width.html img="https://media3.giphy.com/media/l3vR2SwA3hfH4NtVC/giphy.gif" %} 
 
 If creating animated GIFs are up your creative alley, check out the <a href="https://dp.la/info/gif-it-up/" target="_blank">Digital Public Library of America’s (DPLA) annual GIF IT UP challenge</a>! Submissions will be accepted starting October 1.
 

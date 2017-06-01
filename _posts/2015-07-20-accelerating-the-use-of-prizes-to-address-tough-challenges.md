@@ -13,8 +13,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
 Later this year, the Federal government will celebrate the fifth anniversary of [Challenge.gov](https://www.challenge.gov/), a one-stop shop that has prompted tens of thousands of individuals, including engaged citizens and entrepreneurs, to participate in more than 400 public-sector prize competitions with more than $72 million in prizes.
 

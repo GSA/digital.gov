@@ -17,8 +17,7 @@ tags:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" 
-" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
 [Challenge.gov](https://www.challenge.gov/list/) offers a number of services to help agencies create successful competitions. One challenge that recently wrapped up made use of the full range of these services to come up with some creative, useful apps that have nationwide implications.
 
