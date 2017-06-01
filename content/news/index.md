@@ -9,7 +9,7 @@ title: All posts
 <h3>{{ yearMonth.name }}</h3>
 <ul>
   {% for post in yearMonth.items %}
-    <li><a href="{{ post.url }}"><strong>{{ post.date | date: "%B %-d "}}:</strong> {{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date: "%B %-d "}}:</strong> {{ post.title }}</a></li>
   {% endfor %}
 </ul>
 {% endfor %}
