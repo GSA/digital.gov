@@ -1,0 +1,11 @@
+
+{% assign thisStyle = "manual" %}
+
+{% if include.img contains 'http' %}
+{% else %}
+{{ thisImage = include.img | prepend: '/' | replace: '//', '/' }}
+{% capture img-base-url %}{{ site.baseurl }}{{ thisImage }}{% endcapture %}
+{% endif %}
+
+
+<img src="{{ img-base-url }}" alt="{{ include.alt}}"{% if include.width %}  width="{{ include.width}}"{% endif %}{% if include.height %}  height="{{ include.width}}"{% endif %}/>
