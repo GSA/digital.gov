@@ -1,11 +1,20 @@
 
 {% assign thisStyle = "manual" %}
+{% assign thisImage = include.img %}
 
 {% if include.img contains 'http' %}
+{% elsif include.img contains 'assets/img' %}
+  {% assign thisImage = include.img | prepend: '/' | replace: '//', '/' %}
+  {% capture img-base-url %}
+  {{ site.baseurl }}{{ thisImage }}
+  {% endcapture %}
 {% else %}
-{{ thisImage = include.img | prepend: '/' | replace: '//', '/' }}
-{% capture img-base-url %}{{ site.baseurl }}{{ thisImage }}{% endcapture %}
+  {% assign thisImage = include.img | prepend: '/' | replace: '//', '/' %}
+  {% capture img-base-url %}
+  {{ site.baseurl }}/assets/img{{ thisImage }}
+  {% endcapture %}
 {% endif %}
 
+{% assign img-base-url = img-base-url | strip %}
 
 <img src="{{ img-base-url }}" alt="{{ include.alt}}"{% if include.width %}  width="{{ include.width}}"{% endif %}{% if include.height %}  height="{{ include.width}}"{% endif %}/>
