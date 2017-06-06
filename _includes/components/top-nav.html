@@ -1,8 +1,44 @@
+<div class="usa-nav-container">
+  <nav role="navigation" class="usa-nav">
+    <button class="usa-nav-close">
+      <img src="{{ site.baseurl }}/assets/img/close.svg" alt="close">
+    </button>
+    <ul class="usa-nav-primary usa-accordion">
+      <li>
+        <a class="usa-nav-link" href="{{ site.baseurl }}" accesskey="1" title="Home" aria-label="Home">
+          <span>Home</span>
+        </a>
+      </li>
+      <li>
+        <a class="usa-nav-link" href="#">
+          <span>Section title</span>
+        </a>
+      </li>
+      <li>
+        <a class="usa-nav-link" href="#">
+          <span>Section title</span>
+        </a>
+      </li>
+      <li>
+        <a class="usa-nav-link" href="#">
+          <span>Section title</span>
+        </a>
+      </li>
+      <li>
+        <a class="usa-nav-link" href="#">
+          <span>Section title</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
 <section id="top-bar">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
         <div class="box">
+          {% include components/site-nav.html %}
           {% for account in site.data.social %}
           <a class="btn-share btn-share-{{ account.shortcode }}" href="{{ account.link }}" title="Follow us on {{ account.name }}"><i class="fa fa-{{ account.shortcode }}"></i></a>
           {% endfor %}
