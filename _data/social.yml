@@ -1,0 +1,24 @@
+- name          : Facebook
+  username      :
+  link          : http://www.facebook.com/digitalgov
+  shortcode     : facebook
+
+- name          : Twitter
+  username      : digital_gov
+  link          : http://www.twitter.com/digital_gov
+  shortcode     : twitter
+
+- name          : YouTube
+  username      : howtogov
+  link          : http://www.youtube.com/user/howtogov
+  shortcode     : youtube
+
+- name          : Google Plus
+  username      :
+  link          : https://plus.google.com/109077476228639396954?rel=author
+  shortcode     : google-plus
+
+- name          : RSS
+  username      :
+  link          : https://www.digitalgov.gov/feed/
+  shortcode     : rss

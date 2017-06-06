@@ -10,32 +10,23 @@
 
     <!-- blocking scripts -->
 
-       <!-- script/picturefill -->
-       <script src="{{ site.baseurl }}/assets/js/picturefill.min.js" async></script>
+    <!-- script/picturefill -->
+    {% comment %}<script src="{{ site.baseurl }}/assets/js/picturefill.min.js" async></script>{% endcomment %}
 
-
-    <!-- Robot Flag -->
+    <!-- Robots Flag -->
     <meta name='robots' content='noindex,follow' />
-
   </head>
-
-  <!-- All good things start here -->
 
   <body class="{{ layout.class }} {{ page.class }}">
     <a class="usa-skipnav" href="#main-content">Skip to main content</a>
 
     {% include components/gov-banner.html %}
-    {% include components/top-bar.html %}
-
-
-    {% assign header = site.data.header %}
+    {% include components/top-nav.html %}
     {% include header.html %}
-
     {% include components/search-area.html %}
 
     {{ content }}
 
-    {% assign footer = site.data.footer %}
     {% include footer.html %}
     {% include components/scripts.html %}
   </body>

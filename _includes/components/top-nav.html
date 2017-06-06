@@ -1,0 +1,18 @@
+<section id="top-bar">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="box">
+          {% for account in site.data.social %}
+          <a class="btn-share btn-share-{{ account.shortcode }}" href="{{ account.link }}" title="Follow us on {{ account.name }}"><i class="fa fa-{{ account.shortcode }}"></i></a>
+          {% endfor %}
+          {% comment %}
+          <span class="separator"></span>
+          <a class="btn-share btn-share-question" href="#" title=""><i class="fa fa-question"></i></a>
+          <a class="btn-share btn-share-envelope-o" href="#" title=""><i class="fa fa-envelope-o"></i></a>
+          {% endcomment %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
