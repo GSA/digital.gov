@@ -1,82 +1,93 @@
-<button class="usa-menu-btn">Menu</button>
-<nav role="navigation" class="usa-nav">
-  <div class="usa-grid">
-    <div class="usa-nav-links">
-      <button class="usa-nav-close">
-        <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
-      </button>
+<div class="usa-nav-outer">
+  <div class="usa-nav-inner">
+    <div class="usa-navbar">
+      <button class="usa-menu-btn">Menu</button>
+      <div class="usa-logo" id="logo">
+        <em class="usa-logo-text">
+          <a href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}" title="Home">
+            <span>{{ header.title | default: site.title }}</span>
+          </a>
+        </em>
+      </div>
+    </div>
+    <nav role="navigation" class="usa-nav">
+      <div class="usa-nav-links">
+        <button class="usa-nav-close">
+          <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
+        </button>
 
-      {% assign _primary = header.primary.links %}
-      {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
-      {% if primary_links %}
+        {% assign _primary = header.primary.links %}
+        {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
+        {% if primary_links %}
 
-      <ul class="usa-nav-primary usa-accordion">
-        {% for _section in primary_links %}
-        <li>
-          {% if _section.links %}
-            {% assign section_links = site.data.navigation[_section.links] | default: _section.links %}
-            {% assign _section_id = _section.id %}
-            {% unless _section_id %}{% assign _section_id = 'nav-' | append: forloop.index %}{% endunless %}
-          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="{{ _section_id }}">
-            <span>{{ _section.text }}</span>
-          </button>
-          <ul id="{{ _section_id }}" class="usa-nav-submenu">
-            {% for _link in section_links %}
+        <ul class="usa-nav-primary usa-accordion">
+          {% for _section in primary_links %}
+          <li>
+            {% if _section.links %}
+              {% assign section_links = site.data.navigation[_section.links] | default: _section.links %}
+              {% assign _section_id = _section.id %}
+              {% unless _section_id %}{% assign _section_id = 'nav-' | append: forloop.index %}{% endunless %}
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="{{ _section_id }}">
+              <span>{{ _section.text }}</span>
+            </button>
+            <ul id="{{ _section_id }}" class="usa-nav-submenu">
+              {% for _link in section_links %}
+              <li>
+                <a href="{{ _link.href | relative_url }}">{{ _link.text }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+            {% else %}
+            <a class="usa-nav-link{% if _section.href == page.permalink %} usa-current{% endif %}" href="{{ _section.href | relative_url }}">
+              <span>{{ _section.text }}</span>
+            </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% assign _secondary = header.secondary %}
+        {% if _secondary %}
+        <div class="usa-nav-secondary">
+          {% if _secondary.search %}
+            <form action="{{ _secondary.search.action | relative_url }}" class="usa-search usa-search-small js-search-form">
+            <div role="search">
+              <label class="usa-sr-only" for="search-field-small">Search small</label>
+              <input id="search-field-small" type="search" name="{{ _secondary.search.query | default: 'search' }}">
+              <button type="submit">
+                <span class="usa-sr-only">Search</span>
+              </button>
+            </div>
+          </form>
+          {% endif %}
+          <ul class="usa-unstyled-list usa-nav-secondary-links">
+            {% if _secondary.search %}
+            <li class="js-search-button-container">
+              <button class="usa-header-search-button js-search-button">Search</button>
+            </li>
+            {% endif %}
+            {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
+            {% for _link in secondary_links %}
             <li>
               <a href="{{ _link.href | relative_url }}">{{ _link.text }}</a>
             </li>
             {% endfor %}
           </ul>
-          {% else %}
-          <a class="usa-nav-link{% if _section.href == page.permalink %} usa-current{% endif %}" href="{{ _section.href | relative_url }}">
-            <span>{{ _section.text }}</span>
-          </a>
-          {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-
-      {% assign _secondary = header.secondary %}
-      {% if _secondary %}
-      <div class="usa-nav-secondary">
-        {% if _secondary.search %}
-          <form action="{{ _secondary.search.action | relative_url }}" class="usa-search usa-search-small js-search-form">
-          <div role="search">
-            <label class="usa-sr-only" for="search-field-small">Search small</label>
-            <input id="search-field-small" type="search" name="{{ _secondary.search.query | default: 'search' }}">
-            <button type="submit">
-              <span class="usa-sr-only">Search</span>
-            </button>
-          </div>
-        </form>
+        </div>
         {% endif %}
-        <ul class="usa-unstyled-list usa-nav-secondary-links">
-          {% if _secondary.search %}
-          <li class="js-search-button-container">
-            <button class="usa-header-search-button js-search-button">Search</button>
-          </li>
-          {% endif %}
-          {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
-          {% for _link in secondary_links %}
-          <li>
-            <a href="{{ _link.href | relative_url }}">{{ _link.text }}</a>
-          </li>
-          {% endfor %}
-        </ul>
       </div>
-      {% endif %}
-    </div>
 
-    <div class="usa-nav-share">
-      {% for account in site.data.social %}
-      <a class="btn btn-share btn-share-{{ account.shortcode }}" href="{{ account.link }}" title="Follow us on {{ account.name }}"><i class="fa fa-{{ account.shortcode }}"></i></a>
-      {% endfor %}
-      {% comment %}
-      <span class="separator"></span>
-      <a class="btn-share btn-share-question" href="#" title=""><i class="fa fa-question"></i></a>
-      <a class="btn-share btn-share-envelope-o" href="#" title=""><i class="fa fa-envelope-o"></i></a>
-      {% endcomment %}
-    </div>
+      <div class="usa-nav-share">
+        {% for account in site.data.social %}
+        <a class="btn btn-share btn-share-{{ account.shortcode }}" href="{{ account.link }}" title="Follow us on {{ account.name }}"><i class="fa fa-{{ account.shortcode }}"></i></a>
+        {% endfor %}
+        {% comment %}
+        <span class="separator"></span>
+        <a class="btn-share btn-share-question" href="#" title=""><i class="fa fa-question"></i></a>
+        <a class="btn-share btn-share-envelope-o" href="#" title=""><i class="fa fa-envelope-o"></i></a>
+        {% endcomment %}
+      </div>
+    </nav>
   </div>
-</nav>
+</div>

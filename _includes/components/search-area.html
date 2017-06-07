@@ -1,10 +1,22 @@
-<section id="search-area">
-  <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get" class="usa-search usa-search-big">
-    <div role="search">
-      <input name="utf8" type="hidden" value="✓">
-      <input id="affiliate" name="affiliate" type="hidden" value="digitalgov">
-        <input autocomplete="on" class="usagov-search-autocomplete" id="search-field-big" name="query" type="search" placeholder="Find anything published on digital.gov">
-        <input name="commit" type="submit" value="Search">
+<section id="search-area" class="site-search">
+  <div class="usa-grid">
+    <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get" class="usa-search usa-search-big">
+      <div role="search">
+        <input name="utf8" type="hidden" value="✓">
+        <input id="affiliate" name="affiliate" type="hidden" value="digitalgov">
+          <input autocomplete="on" class="usagov-search-autocomplete" id="search-field-big" name="query" type="search" placeholder="Find anything published on digital.gov">
+          <input name="commit" type="submit" value="Search">
+      </div>
+    </form>
+
+    {% capture topiclist %}
+      {% for topic in site.data.popular-topics %}
+        <a class="popular-item" href="{{ site.baseurl }}{{ topic.link }}">{{ topic.name }}</a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    {% endcapture %}
+
+    <div class="popular">
+      <p class="popular-list"><span class="popular-title">Popular topics:</span> {{ topiclist | strip }}</div>
     </div>
-  </form>
+  </div>
 </section>

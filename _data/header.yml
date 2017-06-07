@@ -3,7 +3,7 @@
 # Uncomment this statement (by removing the leading '# ') to set the
 # header title differently from the site's title (as defined in
 # _config.yml).
-# title: Header title
+title: digital.gov
 
 primary:
   # this is a key into _data/navigation.yml

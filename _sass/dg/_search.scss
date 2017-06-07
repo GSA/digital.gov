@@ -1,0 +1,8 @@
+.site-search {
+  background-color: $color-gray-warm-light;
+  margin: 0;
+  padding: $grid * 2 $grid;
+  @include media($medium-screen){
+    padding: $grid * 4;
+  }
+}

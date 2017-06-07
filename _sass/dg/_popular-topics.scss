@@ -1,0 +1,20 @@
+.popular {
+  color: $color-primary;
+
+  .popular-list {
+    font-size: $small-font-size;
+    line-height: $lead-line-height;
+    margin-bottom: 0;
+    text-align: center;
+    @include media($medium-screen){
+      font-size: $base-font-size;
+    }
+  }
+
+  .popular-title {}
+
+  a.popular-item {
+    font-weight: 700;
+    color: $color-primary;
+  }
+}

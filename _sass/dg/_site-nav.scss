@@ -1,3 +1,48 @@
+@include media($nav-width){
+  .usa-nav-outer {
+    background-color: $color-primary;
+  }
+
+  .usa-nav-inner {
+    margin: 0 auto;
+    max-width: $site-max-width;
+    padding: 0 $grid * 4;
+    display: flex;
+  }
+
+  .usa-navbar {
+    flex: none;
+    padding: $grid * 3 0;
+    margin-left: 0;
+  }
+
+  .usa-logo a {
+    background-image: url('#{$dg-image-path}/dg-logo-small.png');
+    background-size: 24px auto;
+    background-position: 0 12px;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: block;
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.2;
+    padding: 5px $grid * 2 $grid * 1.5 $grid * 4;
+    margin-right: $grid * 2;
+    &:hover {
+      span {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+        padding-bottom: $grid;
+      }
+    }
+  }
+
+  .usa-nav {
+    flex: 1;
+    margin-right: -$grid * 2;
+  }
+}
+
+
 .nav-area{
   ul{
     padding:0;

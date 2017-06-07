@@ -1,0 +1,9 @@
+{% capture topiclist %}
+  {% for topic in site.data.popular-topics %}
+    <a class="popular-item" href="{{ site.baseurl }}{{ topic.link }}">{{ topic.name }}</a>{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+{% endcapture %}
+
+<div class="popular">
+  <p class="popullar-list"><span class="popular-title">Popular topics:</span> {{ topiclist | strip }}</div>
+</div>

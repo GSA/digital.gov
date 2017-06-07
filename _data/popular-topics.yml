@@ -1,0 +1,16 @@
+# These appear in popular topics underneath the search bar.
+
+- name          : APIs
+  link          : /category/code/api
+- name          : accessibility
+  link          : /category/ux/accessibility
+- name          : content management
+  link          : /category/ux/accessibility
+- name          : metrics
+  link          : /category/metrics
+- name          : mobile
+  link          : /category/mobile
+- name          : social media
+  link          : /category/socialmedia
+- name          : UX design
+  link          : /category/ux
