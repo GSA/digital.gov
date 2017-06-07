@@ -10,6 +10,8 @@
 #   links: primary
 #
 primary:
+  - text: Home
+    href: /
   - text: Communities
     href: /communities/
   - text: Resources

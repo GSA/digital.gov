@@ -1,0 +1,41 @@
+// USWDS overrides
+
+.usa-nav {
+  @include media($nav-width) {
+    background-color: $color-primary;
+    float: none;
+    margin: 0 auto;
+    padding: $grid * 3 0;
+  }
+}
+
+.usa-nav-primary {
+  padding-top: $grid * 3;
+  @include media($nav-width) {
+    & > li > a {
+      padding: $grid * 1.5 $grid * 2;
+      color: white;
+    }
+    a.usa-current {
+      padding-left: 1.4rem;
+      span {
+        border-bottom: 4px solid $color-secondary;
+      }
+    }
+    a.usa-current, a:hover {
+      color: white;
+      span {
+        border-bottom: 4px solid $color-secondary;
+      }
+    }
+    a:hover span {
+      border-color: white;
+    }
+  }
+}
+
+.usa-banner-inner {
+  @include media($nav-width) {
+    padding: $grid $site-margins;
+  }
+}

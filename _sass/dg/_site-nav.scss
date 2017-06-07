@@ -33,3 +33,31 @@
     }
   }
 }
+
+.usa-nav {
+  .btn-share {
+    background: $color-primary;
+    color: white;
+    display: inline-block;
+    padding: $grid * .5 $grid;
+    text-align: center;
+    width: $grid * 5;
+  }
+  .usa-grid {
+    padding: 0;
+    @include media($nav-width) {
+      padding: 0 $site-margins;
+    }
+  }
+}
+
+@include media($nav-width) {
+  .usa-nav-links {
+    float: left;
+    margin-left: -$grid * 1.5;
+  }
+  .usa-nav-share {
+    float: right;
+    padding-top: $grid;
+  }
+}
