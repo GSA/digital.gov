@@ -1,13 +1,28 @@
 .migration-box{
-  padding: 15px 20px;
-  border: 1px #efefef solid;
-  background-color: #f9f9f9;
-  font-size: 14px;
-  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-  p{
+  padding: $grid 0 $grid * 2;
+  font-size: $small-font-size;
+  text-align: center;
+  position: fixed;
+  width: 39px;
+  right: 0;
+  top: -8px;
+  z-index: 9999;
+  p {
     margin: 0;
+    color: #222;
+    display: inline;
   }
-  a{
+  a {
+    color: #222;
+    display: inline-block;
+    width: 39px;
+    height: 39px;
+    padding-top: 9px;
+    text-align: center;
     text-decoration: none;
+    background-color: #FFDC00;
+    &:hover {
+      background-color: #21EDC2;
+    }
   }
 }
