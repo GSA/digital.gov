@@ -15,8 +15,10 @@
       {% endfor %}
     {% endcapture %}
 
-    <div class="popular">
-      <p class="popular-list"><span class="popular-title">Popular topics:</span> {{ topiclist | strip }}</div>
-    </div>
+    {% if page.permalink == '/' %}
+      <div class="popular">
+        <p class="popular-list"><span class="popular-title">Popular topics:</span> {{ topiclist | strip }}</div>
+      </div>
+    {% endif %}
   </div>
 </section>
