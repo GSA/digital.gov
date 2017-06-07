@@ -1,6 +1,7 @@
 @include media($nav-width){
   .usa-nav-outer {
     background-color: $color-primary;
+    padding-top: $grid * 2;
   }
 
   .usa-nav-inner {

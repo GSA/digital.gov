@@ -82,3 +82,12 @@ header, section {
     height: $grid * 6;
   }
 }
+
+.usa-banner {
+  img {
+    display: none;
+  }
+  .usa-banner-header p {
+    font-weight: 600;
+  }
+}
