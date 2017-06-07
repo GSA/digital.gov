@@ -4,32 +4,22 @@
 
 <header>
   <div class="usa-grid">
-    <div class="row">
-      <div class="col-xs-12 col-sm-9">
-        <div class="box">
+    <h1>
+      <a href="{{ site.url }}{{ site.baseurl }}/index.html" title="DigitalGov" rel="home">
 
-          <h1>
-            <a href="{{ site.url }}{{ site.baseurl }}/index.html" title="DigitalGov" rel="home">
+        {% include image/full-width.html
+          img="DigitalGov_Horizontal.png"
+          alt="digital.gov"
+          caption=nil
+          credit=nil
+          title=nil
+          %}
 
-              {% include image/full-width.html
-                img="DigitalGov_Horizontal.png"
-                alt="digital.gov"
-                caption=nil
-                credit=nil
-                title=nil
-                %}
-
-            </a>
-          </h1>
-
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-3">
-        {% include components/migration-box.html %}
-      </div>
-
-    </div>
+      </a>
+    </h1>
+    {% include components/search-area.html %}
+    {% include components/migration-box.html %}
   </div>
 </header>
 
-<div class="usa-overlay"></div>
+<div class="usa-overlay hidden"></div>

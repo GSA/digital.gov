@@ -12,16 +12,14 @@
 primary:
   - text: Home
     href: /
+  - text: Events
+    href: /digitalgov-university/
   - text: Communities
     href: /communities/
   - text: Resources
     href: /resources/
-  - text: Events
-    href: /digitalgov-university/
   - text: Services
     href: /services/
-  - text: Style Guide
-    href: /style-guide/
   - text: About
     href: /about/
 

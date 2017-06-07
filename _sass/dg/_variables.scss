@@ -29,8 +29,8 @@ $font-sans: 'LatoWeb','Georgia',system,-apple-system,BlinkMacSystemFont,Roboto,"
 $font-serif: 'Georgia', serif;
 
 // Color
-$color-primary:              #006875;
-$color-primary-darker:       #205493;
+$color-primary:              #0C555D;
+$color-primary-darker:       #0A3434;
 $color-primary-darkest:      #112e51;
 
 $color-primary-alt:          #02bfe7;
@@ -109,11 +109,11 @@ $site-max-width:      1040px;
 $site-margins:        $grid * 4;
 $site-margins-mobile: $grid * 2;
 $article-max-width:   600px;
-$input-max-width:     $grid * 6;
+$input-max-width:     40em;
 $border-radius:       3px;
 $box-shadow:          0 0 2px $color-shadow;
 $focus-shadow:        0 0 3px $color-focus, 0 0 7px $color-focus;
-$nav-width:           951px;
+$nav-width:           844px;
 
 // 44 x 44 pixels hit target following Apple iOS Human Interface
 // Guidelines

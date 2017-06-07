@@ -1,5 +1,9 @@
 // USWDS overrides
 
+header, section {
+  padding: 0 $grid * 4;
+}
+
 .usa-nav {
   @include media($nav-width) {
     background-color: $color-primary;
@@ -37,5 +41,40 @@
 .usa-banner-inner {
   @include media($nav-width) {
     padding: $grid $site-margins;
+  }
+}
+
+.usa-search {
+  .usa-search-input, .usa-search [type=search] {
+    border-top-left-radius: $grid;
+    border-bottom-left-radius: $grid;
+  }
+  .usa-search-submit, .usa-search [type=submit] {
+
+  }
+}
+
+.usa-search [type=search] {
+  border-top-left-radius: $grid;
+  border-bottom-left-radius: $grid;
+}
+
+.usa-search [type=submit] {
+  background-color: $color-primary-darker;
+  padding-left: 44px;
+  @include media($medium-screen) {
+    background-position: 8px 12px;
+    background-image: url(#{$image-path}/search.svg);
+    padding-left: $grid * 2;
+    padding-bottomn: 2px;
+  }
+}
+
+.usa-search.usa-search-big .usa-search-submit,
+.usa-search.usa-search-big [type=submit],
+.usa-search.usa-search-big .usa-search-input,
+.usa-search.usa-search-big [type=search] {
+  @include media($medium-screen) {
+    height: $grid * 6;
   }
 }

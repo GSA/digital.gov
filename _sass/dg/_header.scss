@@ -19,3 +19,9 @@ header{
     display: none;
   }
 }
+
+#search-area {
+  @include media($medium-screen) {
+    padding-top: $grid * 6;
+  }
+}
