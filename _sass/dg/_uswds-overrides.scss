@@ -19,9 +19,12 @@ header, section {
     & > li > a {
       padding: $grid * 1.5 $grid * 2;
       color: white;
+      font-size: 1.7rem;
+      font-weight: 400;
     }
     a.usa-current {
       padding-left: 1.4rem;
+      font-weight: 800;
       span {
         border-bottom: 4px solid $color-secondary;
       }
