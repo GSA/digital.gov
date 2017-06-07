@@ -15,6 +15,14 @@ h6 {
   }
 }
 
+h1 {
+  @include media($medium-screen){
+    font-size: 7rem;
+    font-weight: 200;
+  }
+}
+
+
 a{
   color:#3B69FF;
 }
