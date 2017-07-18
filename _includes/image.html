@@ -1,0 +1,33 @@
+
+{% assign thisStyle = "manual" %}
+{% assign thisImage = include.img %}
+
+{% if include.img contains 'http' %}
+  {% assign img-url = thisImage %}
+{% elsif include.img contains 'assets/img/' %}
+  {% assign thisImage = include.img | prepend: '/' | replace: '//', '/' %}
+  {% capture img-url %}
+  {{ site.baseurl }}{{ thisImage }}
+  {% endcapture %}
+{% elsif include.img contains 'img/' %}
+  {% if include.img contains 'assets/' %}
+    {% assign thisImage = include.img | prepend: '/' | replace: '//', '/' %}
+    {% capture img-url %}
+    {{ site.baseurl }}{{ thisImage }}
+    {% endcapture %}
+  {% else %}
+    {% assign thisImage = include.img | prepend: '/assets/' | replace: '//', '/' %}
+    {% capture img-url %}
+    {{ site.baseurl }}{{ thisImage }}
+    {% endcapture %}
+  {% endif %}
+{% else %}
+  {% assign thisImage = include.img | prepend: '/' | replace: '//', '/' %}
+  {% capture img-url %}
+  {{ site.baseurl }}/assets/img{{ thisImage }}
+  {% endcapture %}
+{% endif %}
+
+{% assign img-url = img-url | strip %}
+
+<img src="{{ img-url }}" alt="{{ include.alt | default: 'image' }}"{% if include.width %} width="{{ include.width }}"{% endif %}{% if include.height %} height="{{ include.height }}"{% endif %}/>
