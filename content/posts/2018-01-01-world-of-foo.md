@@ -11,4 +11,4 @@ tag:
   - mobile
 ---
 
-Foo.
+{{< test-img img="fff" >}}

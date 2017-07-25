@@ -15,7 +15,7 @@ ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
 # uncomment the following for a dev mode that excludes posts before 2017
-#  - "content/posts/201[0-6]"
+  - "content/posts/201[0-6]"
 
 sitemap:
   changefreq            : "monthly"
@@ -30,7 +30,7 @@ params:
   youtube               : ""
   background_color_class: "bg-black"
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
-  cdnurl                : "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/"
+  cdnurl                : "https://dummyimage.com/"
   defaulturl            : "https://digital.gov"
 
 permalinks:

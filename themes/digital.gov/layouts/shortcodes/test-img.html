@@ -1,0 +1,30 @@
+<!-- image -->
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $uid := (.Get "img") }}
+{{ $img := index $.Site.Data.img $uid }}
+{{ $filename := printf "%s.%s" $uid $img.format }}
+{{ $src := printf "%s%s%s" $cdnurl $img.path $filename }}
+
+<p>uid: {{ $uid }}</p>
+<p>img: {{ $img }}</p>
+<p>filename: {{ $filename }}</p>
+<p>path: {{ $cdnurl }}{{ $img.path }}{{ $filename }}</p>
+<p>dimensions: {{ $img.width }}px × {{ $img.height }}px</p>
+
+<div {{ if or (.Get "align") (.Get "caption")}}class="{{ with .Get "caption" }}wp-caption{{ end }} {{ with .Get "align" }}align{{.}}{{ end }}"{{ end }}>
+  {{ if isset .Params "title" }}
+    <h6 class='figure-title'>{{ .Get "title" }}</h6>
+  {{ end }}
+  {{ with .Get "link"}}<a href="{{ . | absURL }}">{{ end }}
+  <img src="{{ if (findRE "^http" (.Get "img")) }}{{ .Get "img" }}{{ else }}{{ $src }}{{ end }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+  {{ if .Get "link"}}</a>{{ end }}
+  {{ with .Get "attr"}}
+    <div class="figure-credit">{{ .Get "attr" }}</div>
+  {{ end }}
+  {{ with .Get "caption" }}
+    <p class="wp-caption-text">
+      {{ . | markdownify }}
+    </p>
+  {{ end }}
+</div>
+<!-- image -->
