@@ -1,11 +1,13 @@
 var gulp          = require("gulp"),
     watch         = require('gulp-watch'),
     vinylPaths    = require('vinyl-paths'),
+    manifest      = require('gulp-manifest'),
     replace       = require("gulp-replace-name"),
     sass          = require("gulp-sass"),
     autoprefixer  = require("gulp-autoprefixer"),
     hash          = require("gulp-hash"),
     del           = require("del"),
+    fs            = require('fs'),
     concat        = require('gulp-concat'),
     cleanCSS      = require('gulp-clean-css'),
     combineMq     = require('gulp-combine-mq'),
@@ -24,7 +26,6 @@ var gulp          = require("gulp"),
     s3            = require('gulp-s3-upload')(s3config),
     cp            = require('child_process');
 
-
 gulp.task("file-tidy", function (done) {
   return gulp.src("content/images/_inbox/*.{png,jpg,jpeg}")
     .pipe(replace(/[ &$_#!?.]/g, '-'))            // special chars to dashes
@@ -38,15 +39,55 @@ gulp.task("file-tidy", function (done) {
       path.extname = changeCase.lowerCase(path.extname);
     }))
     // Updates the original in content/images/_working/
-    .pipe(gulp.dest("content/images/_working/originals/"))
-    .pipe(gulp.dest("content/images/_working/to-process/"))
+    // .pipe(gulp.dest("content/images/_working/originals/"))
+    // .pipe(gulp.dest("content/images/_working/to-process/"))
 });
 
-gulp.task("clean-inbox", ["file-tidy"], function (done) {
+
+const img_data = [{
+    "uid": "something",
+    "slug" : "the-data-in-the-box"
+}];
+
+function write_img_data(){
+  return streamArray(img_data)
+    .pipe(through.obj(function (image, enc, cb) {
+        const file = new File({
+          path: `${image.uid}.html`,
+          contents: new Buffer('{{slug}}'),
+          data: image,
+        });
+        this.push(file);
+        cb();
+    }))
+    .pipe(hb())
+    .pipe(gulp.dest('dist/products'));
+}
+
+gulp.task("manifest", ["file-tidy"], function (done) {
+  return gulp.src("content/images/_inbox/*.{png,jpg,jpeg}")
+    // .pipe(hash())
+    // .pipe(hash.manifest("./data/media.json"))
+    // .pipe(hash.manifest("./data/media.json"))
+    .pipe(manifest({
+      hash: true,
+      preferOnline: true,
+      network: ['*'],
+      filename: 'app.manifest',
+      exclude: 'app.manifest'
+    }))
+
+    fs.writeFile('data/media.json', 'Version: 1234567890', cb)
+    // .pipe(gulp.dest("./data/images"))
+});
+
+gulp.task("clean-inbox", ["manifest"], function (done) {
   return del(['content/images/_inbox/**', '!content/images/_inbox', '!content/images/_inbox/__add jpg and png files to this folder__']);
 });
 
-gulp.task("img-variants", ["clean-inbox"], function (done) {
+
+
+gulp.task("img-variants", ["manifest"], function (done) {
   return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg}")
     // Create responsive variants
     .pipe(responsive({
@@ -335,6 +376,7 @@ gulp.task("cleanup", ["done"], function (done) {
 gulp.task("process-img", ["cleanup"], function () {});
 
 
+
 // - - - - - - - - - - - - - - - - -
 gulp.task("watch", function () {
   gulp.watch("content/images/_inbox/*.{png,jpg,jpeg}", ["process-img"])
@@ -343,4 +385,5 @@ gulp.task("watch", function () {
 
 // - - - - - - - - - - - - - - - - -
 // Set watch as default task
-gulp.task("default", ["watch", "process-img"])
+// gulp.task("default", ["watch", "process-img"])
+gulp.task("default", ["manifest"])
