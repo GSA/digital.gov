@@ -7,20 +7,33 @@ Digital.gov uses images, and now there's a way to add them to posts and other si
 - Adding new images requires running some tools locally
 
 ### Dependencies
-- install xcode command line tools
-- install homebrew
-- install node
+- [get set up with github and ssh](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
+- [install xcode command line tools](http://railsapps.github.io/xcode-command-line-tools.html)
+- [install homebrew](https://treehouse.github.io/installation-guides/mac/homebrew)
+- [install node](https://treehouse.github.io/installation-guides/mac/node-mac.html)
 - clone repo
+  - from the local folder (`PATH/TO/FOLDER`) of your choice:
+  - digital.gov: `git clone git@github.com:GSA/digital.gov.git`
+  - digitalgov.gov: `git clone git@github.com:GSA/digitalgov.gov.git`
+  - this adds the project into `PATH/TO/FOLDER/PROJECT`
+  - from `PATH/TO/FOLDER`: `cd PROJECT`
 - install npm dependencies
+  - `npm install`
 - get S3 credentials
 
 ### Adding new images
-- check that you're in demo branch
+- you're in the project folder
+- check that you're in demo branch: `git branch`
 - add S3 credentials to `/.env` using template
-- checkout a new branch
+```
+AWS_SECRET=KEY
+AWS_ACCESSKEY=KEY
+```
+
+- checkout a new branch: use github desktop
 - in the repo directory, head for the `content/images` folder
 - add new image to `_inbox` folder
-- run gulp
+- run gulp: `gulp process-img`
 - watch the process in gulp
 - a `_working` folder will appear in the `images` folder, but don't edit it...
 - wait for the `uploaded` folder to appear with your images inside
