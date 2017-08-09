@@ -7,6 +7,11 @@ Digital.gov uses images, and now there's a way to add them to posts and other si
 - Adding new images requires running some tools locally
 
 ### Dependencies
+- Recommended but optional: [set up ZSH and oh-my-Zsh shell with Z](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)
+  - `agnoster` theme
+  - [Roboto Mono (patched for powerline) font](https://github.com/powerline/fonts/tree/master/RobotoMono)
+  - [iTerm2 terminal app](https://www.iterm2.com/)
+- Recommended but optional: [install 18F laptop script for mac](https://github.com/18F/laptop)
 - [get set up with github and ssh](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 - [install xcode command line tools](http://railsapps.github.io/xcode-command-line-tools.html)
 - [install homebrew](https://treehouse.github.io/installation-guides/mac/homebrew)
