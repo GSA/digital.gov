@@ -1,16 +1,17 @@
 {{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "home" }}
+  {{ $.Scratch.Set "bodyclasses" "home bg-cream flex f-row f-center" }}
   {{ $.Scratch.Set "headtitle" "Digital.gov / Building a modern digital government" }}
 {{ end }}
 
 {{ define "content" }}
 
-<div class="mt4">
-  <img class="block mx-auto" src="/img/dg-logo.svg"/>
+<div class="w100ct mtn5">
+  <div class="">
+    <img class="block mx-auto" src="/img/dg-logo.svg"/>
+  </div>
+
+  <p class="sans-s8 center pt2 fw700">Digital.gov</p>
+  <p class="sans-s8 center pt1 fw200 mt0">Building a modern digital government</p>
 </div>
-
-<p class="sans-s8 center pt2 fw700">digital.gov</p>
-<p class="sans-s8 center pt1 fw200 mt0">o hai</p>
-
 
 {{ end }}
