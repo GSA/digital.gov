@@ -7,6 +7,8 @@ var gulp = require('gulp'),
     autoprefixer = require('gulp-autoprefixer'),
 		rename = require('gulp-rename'),
     cleanCSS = require('gulp-clean-css'),
+    combineMq = require('gulp-combine-mq'),
+    strip = require('gulp-strip-css-comments'),
     uncss = require('gulp-uncss'),
     size = require('gulp-size');
 
@@ -23,7 +25,7 @@ const APP_SASS = 'src/sass';
 const UNITED_OVERRIDE = 'src/sass';
 const UNITED_DIST = 'submodules/united';
 const UNITED_FONTS_DIST = 'submodules/united/18franklin/fonts/webfonts';
-const UNITED_SASS_DIST = 'submodules/united/src';
+const UNITED_SASS_DIST = 'submodules/united/src/base';
 const UNITED_SASS_DIST_DIR = path.join(__dirname, ...UNITED_SASS_DIST.split('/'));
 const APP_SRC_DIR = path.join(__dirname, ...APP_SRC.split('/'));
 const APP_SASS_DIR = path.join(__dirname, ...APP_SASS.split('/'));
@@ -32,7 +34,7 @@ const UNITED_OVERRIDE_DIR = path.join(__dirname, ...UNITED_OVERRIDE.split('/'));
 // Build United
 
 gulp.task('build-united', function(done) {
-  return gulp.src(`${UNITED_SASS_DIST}/**/*.scss`)
+  return gulp.src(`${UNITED_SASS_DIST}/united.scss`)
     .pipe(sourcemaps.init())
     .pipe(sass({
         outputStyle: 'compact',
@@ -49,10 +51,8 @@ gulp.task('build-united', function(done) {
         cascade: false,
       })
     )
-    .pipe(cleanCSS({
-      compatibility: 'ie8',
-      level: 2,
-    }))
+    .pipe(strip())
+    .pipe(combineMq())
     .pipe(rename('united.css'))
     .pipe(gulp.dest('./static/css'))
     .pipe(size())
@@ -74,10 +74,12 @@ gulp.task('clean', function(done) {
   ]);
 });
 
+// Subset the united base to only the style required by the app/site
+
 gulp.task('subset-united', function() {
   return gulp.src('./static/css/united.css')
     .pipe(uncss({
-      html: ['build/**/*.html']
+      html: ['./public/index.html']
     }))
     .pipe(cleanCSS({ compatibility: 'ie8' }))
     .pipe(rename('united.app.css'))
