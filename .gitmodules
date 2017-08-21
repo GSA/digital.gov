@@ -5,9 +5,6 @@
 [submodule "gohugo-theme-ananke"]
   path = themes/gohugo-theme-ananke
   url = git@github.com:budparr/gohugo-theme-ananke.git
-[submodule "src/united"]
-	path = src/united
+[submodule "submodules/united"]
+	path = submodules/united
 	url = git@github.com:18F/united.git
-[submodule "src/18franklin"]
-	path = src/18franklin
-	url = https://github.com/18f/18franklin
