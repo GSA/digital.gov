@@ -7,6 +7,7 @@
     "build": "gulp",
     "united": "gulp build-united",
     "build-united": "gulp build-united",
+    "fonts": "gulp copy-united-fonts",
     "serve": "hugo serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
