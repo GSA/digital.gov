@@ -3,6 +3,7 @@ baseURL                 : "/"
 languageCode            : "en-us"
 theme                   : "digital.gov"
 themesDir               : "./themes"
+enableEmoji             : true
 
 MetaDataFormat          : "yaml"
 DefaultContentLanguage  : "en"
