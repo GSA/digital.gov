@@ -1,0 +1,41 @@
+{
+  "name": "digital.gov",
+  "version": "0.0.1",
+  "description": "The digital.gov website",
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp",
+    "united": "gulp build-united",
+    "build-united": "gulp build-united",
+    "fonts": "gulp copy-united-fonts",
+    "serve": "hugo serve",
+    "subset": "gulp subset-united",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "css-mqpacker": "^6.0.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "normalize.css": "^7.0.0",
+    "path": "^0.12.7",
+    "postcss-clean": "^1.0.3",
+    "postcss-discard-comments": "^2.0.4",
+    "postcss-uncss": "^0.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSA/digital.gov.git"
+  },
+  "author": "thisisdano",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/GSA/digital.gov/issues"
+  },
+  "homepage": "https://github.com/GSA/digital.gov#readme"
+}
