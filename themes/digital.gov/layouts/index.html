@@ -1,17 +1,17 @@
 {{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "home bg-cream flex f-row f-center" }}
+  {{ $.Scratch.Set "bodyclasses" "home flex f-row f-center" }}
   {{ $.Scratch.Set "headtitle" "Digital.gov / Building a modern digital government" }}
 {{ end }}
 
 {{ define "content" }}
 
-<div class="w100ct mtn6 md-mtn5 px2 center">
+<div class="w100ct mtn6 md-mtn8 px2 center">
   <div class="">
     <img class="block mx-auto" src="{{ "img/dg-logo.svg" | absURL }}"/>
   </div>
 
   <p class="sans-s8 pt2 fw700">Digital.gov</p>
-  <p class="sans-s8 pt1 fw200 mt0">We’re helping build a modern digital government.</p>
+  <p class="sans-s8 pt1 fw200 mt0 lh-title">We’re helping build a modern digital government.</p>
   <p class="sans-s5 pt4 mt0 lh-cap">This is all pretty new. {{ emojify ":tada:" }} Continue to <a class="ultramarine-50 fo-bg-gold ho-outline-05 ho-outline-gold" href="https://digitalgov.gov">digitalgov.gov</a>. </p>
 </div>
 
