@@ -18469,6 +18469,12 @@ template{ display:none; }
 
 .vi-transparent:visited{ color:transparent; }
 
+.pl-transparent::-webkit-input-placeholder{ color:transparent; }
+
+.pl-transparent:-ms-input-placeholder{ color:transparent; }
+
+.pl-transparent::placeholder{ color:transparent; }
+
 .blue{ color:#056dd4; }
 
 .ac-blue:active{ color:#056dd4; }
@@ -18478,6 +18484,12 @@ template{ display:none; }
 .ho-blue:hover{ color:#056dd4; }
 
 .vi-blue:visited{ color:#056dd4; }
+
+.pl-blue::-webkit-input-placeholder{ color:#056dd4; }
+
+.pl-blue:-ms-input-placeholder{ color:#056dd4; }
+
+.pl-blue::placeholder{ color:#056dd4; }
 
 .brightmint{ color:#00df99; }
 
@@ -18489,6 +18501,12 @@ template{ display:none; }
 
 .vi-brightmint:visited{ color:#00df99; }
 
+.pl-brightmint::-webkit-input-placeholder{ color:#00df99; }
+
+.pl-brightmint:-ms-input-placeholder{ color:#00df99; }
+
+.pl-brightmint::placeholder{ color:#00df99; }
+
 .cream{ color:#f5f5f3; }
 
 .ac-cream:active{ color:#f5f5f3; }
@@ -18498,6 +18516,12 @@ template{ display:none; }
 .ho-cream:hover{ color:#f5f5f3; }
 
 .vi-cream:visited{ color:#f5f5f3; }
+
+.pl-cream::-webkit-input-placeholder{ color:#f5f5f3; }
+
+.pl-cream:-ms-input-placeholder{ color:#f5f5f3; }
+
+.pl-cream::placeholder{ color:#f5f5f3; }
 
 .gold{ color:#f4b400; }
 
@@ -18509,6 +18533,12 @@ template{ display:none; }
 
 .vi-gold:visited{ color:#f4b400; }
 
+.pl-gold::-webkit-input-placeholder{ color:#f4b400; }
+
+.pl-gold:-ms-input-placeholder{ color:#f4b400; }
+
+.pl-gold::placeholder{ color:#f4b400; }
+
 .green{ color:#0baf00; }
 
 .ac-green:active{ color:#0baf00; }
@@ -18518,6 +18548,12 @@ template{ display:none; }
 .ho-green:hover{ color:#0baf00; }
 
 .vi-green:visited{ color:#0baf00; }
+
+.pl-green::-webkit-input-placeholder{ color:#0baf00; }
+
+.pl-green:-ms-input-placeholder{ color:#0baf00; }
+
+.pl-green::placeholder{ color:#0baf00; }
 
 .red{ color:#be4900; }
 
@@ -18529,6 +18565,12 @@ template{ display:none; }
 
 .vi-red:visited{ color:#be4900; }
 
+.pl-red::-webkit-input-placeholder{ color:#be4900; }
+
+.pl-red:-ms-input-placeholder{ color:#be4900; }
+
+.pl-red::placeholder{ color:#be4900; }
+
 .trueblack{ color:#000000; }
 
 .ac-trueblack:active{ color:#000000; }
@@ -18538,6 +18580,12 @@ template{ display:none; }
 .ho-trueblack:hover{ color:#000000; }
 
 .vi-trueblack:visited{ color:#000000; }
+
+.pl-trueblack::-webkit-input-placeholder{ color:#000000; }
+
+.pl-trueblack:-ms-input-placeholder{ color:#000000; }
+
+.pl-trueblack::placeholder{ color:#000000; }
 
 .textblack, [type=text], [type=password], [type=url], [type=email], [type=number], textarea, select{ color:#333333; }
 
@@ -18549,6 +18597,12 @@ template{ display:none; }
 
 .vi-textblack:visited{ color:#333333; }
 
+.pl-textblack::-webkit-input-placeholder{ color:#333333; }
+
+.pl-textblack:-ms-input-placeholder{ color:#333333; }
+
+.pl-textblack::placeholder{ color:#333333; }
+
 .darkgray{ color:#555555; }
 
 .ac-darkgray:active{ color:#555555; }
@@ -18558,6 +18612,12 @@ template{ display:none; }
 .ho-darkgray:hover{ color:#555555; }
 
 .vi-darkgray:visited{ color:#555555; }
+
+.pl-darkgray::-webkit-input-placeholder{ color:#555555; }
+
+.pl-darkgray:-ms-input-placeholder{ color:#555555; }
+
+.pl-darkgray::placeholder{ color:#555555; }
 
 .mediumgray{ color:#8e8e8e; }
 
@@ -18569,6 +18629,12 @@ template{ display:none; }
 
 .vi-mediumgray:visited{ color:#8e8e8e; }
 
+.pl-mediumgray::-webkit-input-placeholder{ color:#8e8e8e; }
+
+.pl-mediumgray:-ms-input-placeholder{ color:#8e8e8e; }
+
+.pl-mediumgray::placeholder{ color:#8e8e8e; }
+
 .mediumgray-trans{ color:rgba(0, 0, 0, 0.4); }
 
 .ac-mediumgray-trans:active{ color:rgba(0, 0, 0, 0.4); }
@@ -18578,6 +18644,12 @@ template{ display:none; }
 .ho-mediumgray-trans:hover{ color:rgba(0, 0, 0, 0.4); }
 
 .vi-mediumgray-trans:visited{ color:rgba(0, 0, 0, 0.4); }
+
+.pl-mediumgray-trans::-webkit-input-placeholder{ color:rgba(0, 0, 0, 0.4); }
+
+.pl-mediumgray-trans:-ms-input-placeholder{ color:rgba(0, 0, 0, 0.4); }
+
+.pl-mediumgray-trans::placeholder{ color:rgba(0, 0, 0, 0.4); }
 
 .lightgray{ color:#d3d3d3; }
 
@@ -18589,6 +18661,12 @@ template{ display:none; }
 
 .vi-lightgray:visited{ color:#d3d3d3; }
 
+.pl-lightgray::-webkit-input-placeholder{ color:#d3d3d3; }
+
+.pl-lightgray:-ms-input-placeholder{ color:#d3d3d3; }
+
+.pl-lightgray::placeholder{ color:#d3d3d3; }
+
 .lightestgray{ color:#f5f5f3; }
 
 .ac-lightestgray:active{ color:#f5f5f3; }
@@ -18598,6 +18676,12 @@ template{ display:none; }
 .ho-lightestgray:hover{ color:#f5f5f3; }
 
 .vi-lightestgray:visited{ color:#f5f5f3; }
+
+.pl-lightestgray::-webkit-input-placeholder{ color:#f5f5f3; }
+
+.pl-lightestgray:-ms-input-placeholder{ color:#f5f5f3; }
+
+.pl-lightestgray::placeholder{ color:#f5f5f3; }
 
 .white, button{ color:#ffffff; }
 
@@ -18609,6 +18693,12 @@ template{ display:none; }
 
 .vi-white:visited{ color:#ffffff; }
 
+.pl-white::-webkit-input-placeholder{ color:#ffffff; }
+
+.pl-white:-ms-input-placeholder{ color:#ffffff; }
+
+.pl-white::placeholder{ color:#ffffff; }
+
 .ultramarine-1{ color:#e7e9f7; }
 
 .ac-ultramarine-1:active{ color:#e7e9f7; }
@@ -18618,6 +18708,12 @@ template{ display:none; }
 .ho-ultramarine-1:hover{ color:#e7e9f7; }
 
 .vi-ultramarine-1:visited{ color:#e7e9f7; }
+
+.pl-ultramarine-1::-webkit-input-placeholder{ color:#e7e9f7; }
+
+.pl-ultramarine-1:-ms-input-placeholder{ color:#e7e9f7; }
+
+.pl-ultramarine-1::placeholder{ color:#e7e9f7; }
 
 .ultramarine-10{ color:#d1d7f4; }
 
@@ -18629,6 +18725,12 @@ template{ display:none; }
 
 .vi-ultramarine-10:visited{ color:#d1d7f4; }
 
+.pl-ultramarine-10::-webkit-input-placeholder{ color:#d1d7f4; }
+
+.pl-ultramarine-10:-ms-input-placeholder{ color:#d1d7f4; }
+
+.pl-ultramarine-10::placeholder{ color:#d1d7f4; }
+
 .ultramarine-20{ color:#b0bef3; }
 
 .ac-ultramarine-20:active{ color:#b0bef3; }
@@ -18638,6 +18740,12 @@ template{ display:none; }
 .ho-ultramarine-20:hover{ color:#b0bef3; }
 
 .vi-ultramarine-20:visited{ color:#b0bef3; }
+
+.pl-ultramarine-20::-webkit-input-placeholder{ color:#b0bef3; }
+
+.pl-ultramarine-20:-ms-input-placeholder{ color:#b0bef3; }
+
+.pl-ultramarine-20::placeholder{ color:#b0bef3; }
 
 .ultramarine-30{ color:#89a2f6; }
 
@@ -18649,6 +18757,12 @@ template{ display:none; }
 
 .vi-ultramarine-30:visited{ color:#89a2f6; }
 
+.pl-ultramarine-30::-webkit-input-placeholder{ color:#89a2f6; }
+
+.pl-ultramarine-30:-ms-input-placeholder{ color:#89a2f6; }
+
+.pl-ultramarine-30::placeholder{ color:#89a2f6; }
+
 .ultramarine-40{ color:#648fff; }
 
 .ac-ultramarine-40:active{ color:#648fff; }
@@ -18658,6 +18772,12 @@ template{ display:none; }
 .ho-ultramarine-40:hover{ color:#648fff; }
 
 .vi-ultramarine-40:visited{ color:#648fff; }
+
+.pl-ultramarine-40::-webkit-input-placeholder{ color:#648fff; }
+
+.pl-ultramarine-40:-ms-input-placeholder{ color:#648fff; }
+
+.pl-ultramarine-40::placeholder{ color:#648fff; }
 
 .ultramarine-50{ color:#2968d0; }
 
@@ -18669,6 +18789,12 @@ template{ display:none; }
 
 .vi-ultramarine-50:visited{ color:#2968d0; }
 
+.pl-ultramarine-50::-webkit-input-placeholder{ color:#2968d0; }
+
+.pl-ultramarine-50:-ms-input-placeholder{ color:#2968d0; }
+
+.pl-ultramarine-50::placeholder{ color:#2968d0; }
+
 .ultramarine-60{ color:#3151b7; }
 
 .ac-ultramarine-60:active{ color:#3151b7; }
@@ -18678,6 +18804,12 @@ template{ display:none; }
 .ho-ultramarine-60:hover{ color:#3151b7; }
 
 .vi-ultramarine-60:visited{ color:#3151b7; }
+
+.pl-ultramarine-60::-webkit-input-placeholder{ color:#3151b7; }
+
+.pl-ultramarine-60:-ms-input-placeholder{ color:#3151b7; }
+
+.pl-ultramarine-60::placeholder{ color:#3151b7; }
 
 .ultramarine-70{ color:#2e3f8f; }
 
@@ -18689,6 +18821,12 @@ template{ display:none; }
 
 .vi-ultramarine-70:visited{ color:#2e3f8f; }
 
+.pl-ultramarine-70::-webkit-input-placeholder{ color:#2e3f8f; }
+
+.pl-ultramarine-70:-ms-input-placeholder{ color:#2e3f8f; }
+
+.pl-ultramarine-70::placeholder{ color:#2e3f8f; }
+
 .ultramarine-80{ color:#252e6a; }
 
 .ac-ultramarine-80:active{ color:#252e6a; }
@@ -18698,6 +18836,12 @@ template{ display:none; }
 .ho-ultramarine-80:hover{ color:#252e6a; }
 
 .vi-ultramarine-80:visited{ color:#252e6a; }
+
+.pl-ultramarine-80::-webkit-input-placeholder{ color:#252e6a; }
+
+.pl-ultramarine-80:-ms-input-placeholder{ color:#252e6a; }
+
+.pl-ultramarine-80::placeholder{ color:#252e6a; }
 
 .ultramarine-90{ color:#20214f; }
 
@@ -18709,6 +18853,12 @@ template{ display:none; }
 
 .vi-ultramarine-90:visited{ color:#20214f; }
 
+.pl-ultramarine-90::-webkit-input-placeholder{ color:#20214f; }
+
+.pl-ultramarine-90:-ms-input-placeholder{ color:#20214f; }
+
+.pl-ultramarine-90::placeholder{ color:#20214f; }
+
 .blue-1{ color:#e1ebf7; }
 
 .ac-blue-1:active{ color:#e1ebf7; }
@@ -18718,6 +18868,12 @@ template{ display:none; }
 .ho-blue-1:hover{ color:#e1ebf7; }
 
 .vi-blue-1:visited{ color:#e1ebf7; }
+
+.pl-blue-1::-webkit-input-placeholder{ color:#e1ebf7; }
+
+.pl-blue-1:-ms-input-placeholder{ color:#e1ebf7; }
+
+.pl-blue-1::placeholder{ color:#e1ebf7; }
 
 .blue-10{ color:#c8daf4; }
 
@@ -18729,6 +18885,12 @@ template{ display:none; }
 
 .vi-blue-10:visited{ color:#c8daf4; }
 
+.pl-blue-10::-webkit-input-placeholder{ color:#c8daf4; }
+
+.pl-blue-10:-ms-input-placeholder{ color:#c8daf4; }
+
+.pl-blue-10::placeholder{ color:#c8daf4; }
+
 .blue-20{ color:#a8c0f3; }
 
 .ac-blue-20:active{ color:#a8c0f3; }
@@ -18738,6 +18900,12 @@ template{ display:none; }
 .ho-blue-20:hover{ color:#a8c0f3; }
 
 .vi-blue-20:visited{ color:#a8c0f3; }
+
+.pl-blue-20::-webkit-input-placeholder{ color:#a8c0f3; }
+
+.pl-blue-20:-ms-input-placeholder{ color:#a8c0f3; }
+
+.pl-blue-20::placeholder{ color:#a8c0f3; }
 
 .blue-30{ color:#79a6f6; }
 
@@ -18749,6 +18917,12 @@ template{ display:none; }
 
 .vi-blue-30:visited{ color:#79a6f6; }
 
+.pl-blue-30::-webkit-input-placeholder{ color:#79a6f6; }
+
+.pl-blue-30:-ms-input-placeholder{ color:#79a6f6; }
+
+.pl-blue-30::placeholder{ color:#79a6f6; }
+
 .blue-40{ color:#5392ff; }
 
 .ac-blue-40:active{ color:#5392ff; }
@@ -18758,6 +18932,12 @@ template{ display:none; }
 .ho-blue-40:hover{ color:#5392ff; }
 
 .vi-blue-40:visited{ color:#5392ff; }
+
+.pl-blue-40::-webkit-input-placeholder{ color:#5392ff; }
+
+.pl-blue-40:-ms-input-placeholder{ color:#5392ff; }
+
+.pl-blue-40::placeholder{ color:#5392ff; }
 
 .blue-50{ color:#2d74da; }
 
@@ -18769,6 +18949,12 @@ template{ display:none; }
 
 .vi-blue-50:visited{ color:#2d74da; }
 
+.pl-blue-50::-webkit-input-placeholder{ color:#2d74da; }
+
+.pl-blue-50:-ms-input-placeholder{ color:#2d74da; }
+
+.pl-blue-50::placeholder{ color:#2d74da; }
+
 .blue-60{ color:#1f57a4; }
 
 .ac-blue-60:active{ color:#1f57a4; }
@@ -18778,6 +18964,12 @@ template{ display:none; }
 .ho-blue-60:hover{ color:#1f57a4; }
 
 .vi-blue-60:visited{ color:#1f57a4; }
+
+.pl-blue-60::-webkit-input-placeholder{ color:#1f57a4; }
+
+.pl-blue-60:-ms-input-placeholder{ color:#1f57a4; }
+
+.pl-blue-60::placeholder{ color:#1f57a4; }
 
 .blue-70{ color:#25467a; }
 
@@ -18789,6 +18981,12 @@ template{ display:none; }
 
 .vi-blue-70:visited{ color:#25467a; }
 
+.pl-blue-70::-webkit-input-placeholder{ color:#25467a; }
+
+.pl-blue-70:-ms-input-placeholder{ color:#25467a; }
+
+.pl-blue-70::placeholder{ color:#25467a; }
+
 .blue-80{ color:#1d3458; }
 
 .ac-blue-80:active{ color:#1d3458; }
@@ -18798,6 +18996,12 @@ template{ display:none; }
 .ho-blue-80:hover{ color:#1d3458; }
 
 .vi-blue-80:visited{ color:#1d3458; }
+
+.pl-blue-80::-webkit-input-placeholder{ color:#1d3458; }
+
+.pl-blue-80:-ms-input-placeholder{ color:#1d3458; }
+
+.pl-blue-80::placeholder{ color:#1d3458; }
 
 .blue-90{ color:#19273c; }
 
@@ -18809,6 +19013,12 @@ template{ display:none; }
 
 .vi-blue-90:visited{ color:#19273c; }
 
+.pl-blue-90::-webkit-input-placeholder{ color:#19273c; }
+
+.pl-blue-90:-ms-input-placeholder{ color:#19273c; }
+
+.pl-blue-90::placeholder{ color:#19273c; }
+
 .cerulean-1{ color:#deedf7; }
 
 .ac-cerulean-1:active{ color:#deedf7; }
@@ -18818,6 +19028,12 @@ template{ display:none; }
 .ho-cerulean-1:hover{ color:#deedf7; }
 
 .vi-cerulean-1:visited{ color:#deedf7; }
+
+.pl-cerulean-1::-webkit-input-placeholder{ color:#deedf7; }
+
+.pl-cerulean-1:-ms-input-placeholder{ color:#deedf7; }
+
+.pl-cerulean-1::placeholder{ color:#deedf7; }
 
 .cerulean-10{ color:#c2dbf4; }
 
@@ -18829,6 +19045,12 @@ template{ display:none; }
 
 .vi-cerulean-10:visited{ color:#c2dbf4; }
 
+.pl-cerulean-10::-webkit-input-placeholder{ color:#c2dbf4; }
+
+.pl-cerulean-10:-ms-input-placeholder{ color:#c2dbf4; }
+
+.pl-cerulean-10::placeholder{ color:#c2dbf4; }
+
 .cerulean-20{ color:#95c4f3; }
 
 .ac-cerulean-20:active{ color:#95c4f3; }
@@ -18838,6 +19060,12 @@ template{ display:none; }
 .ho-cerulean-20:hover{ color:#95c4f3; }
 
 .vi-cerulean-20:visited{ color:#95c4f3; }
+
+.pl-cerulean-20::-webkit-input-placeholder{ color:#95c4f3; }
+
+.pl-cerulean-20:-ms-input-placeholder{ color:#95c4f3; }
+
+.pl-cerulean-20::placeholder{ color:#95c4f3; }
 
 .cerulean-30{ color:#56acf2; }
 
@@ -18849,6 +19077,12 @@ template{ display:none; }
 
 .vi-cerulean-30:visited{ color:#56acf2; }
 
+.pl-cerulean-30::-webkit-input-placeholder{ color:#56acf2; }
+
+.pl-cerulean-30:-ms-input-placeholder{ color:#56acf2; }
+
+.pl-cerulean-30::placeholder{ color:#56acf2; }
+
 .cerulean-40{ color:#009bef; }
 
 .ac-cerulean-40:active{ color:#009bef; }
@@ -18858,6 +19092,12 @@ template{ display:none; }
 .ho-cerulean-40:hover{ color:#009bef; }
 
 .vi-cerulean-40:visited{ color:#009bef; }
+
+.pl-cerulean-40::-webkit-input-placeholder{ color:#009bef; }
+
+.pl-cerulean-40:-ms-input-placeholder{ color:#009bef; }
+
+.pl-cerulean-40::placeholder{ color:#009bef; }
 
 .cerulean-50{ color:#047cc0; }
 
@@ -18869,6 +19109,12 @@ template{ display:none; }
 
 .vi-cerulean-50:visited{ color:#047cc0; }
 
+.pl-cerulean-50::-webkit-input-placeholder{ color:#047cc0; }
+
+.pl-cerulean-50:-ms-input-placeholder{ color:#047cc0; }
+
+.pl-cerulean-50::placeholder{ color:#047cc0; }
+
 .cerulean-60{ color:#175d8d; }
 
 .ac-cerulean-60:active{ color:#175d8d; }
@@ -18878,6 +19124,12 @@ template{ display:none; }
 .ho-cerulean-60:hover{ color:#175d8d; }
 
 .vi-cerulean-60:visited{ color:#175d8d; }
+
+.pl-cerulean-60::-webkit-input-placeholder{ color:#175d8d; }
+
+.pl-cerulean-60:-ms-input-placeholder{ color:#175d8d; }
+
+.pl-cerulean-60::placeholder{ color:#175d8d; }
 
 .cerulean-70{ color:#1c496d; }
 
@@ -18889,6 +19141,12 @@ template{ display:none; }
 
 .vi-cerulean-70:visited{ color:#1c496d; }
 
+.pl-cerulean-70::-webkit-input-placeholder{ color:#1c496d; }
+
+.pl-cerulean-70:-ms-input-placeholder{ color:#1c496d; }
+
+.pl-cerulean-70::placeholder{ color:#1c496d; }
+
 .cerulean-80{ color:#1d364d; }
 
 .ac-cerulean-80:active{ color:#1d364d; }
@@ -18898,6 +19156,12 @@ template{ display:none; }
 .ho-cerulean-80:hover{ color:#1d364d; }
 
 .vi-cerulean-80:visited{ color:#1d364d; }
+
+.pl-cerulean-80::-webkit-input-placeholder{ color:#1d364d; }
+
+.pl-cerulean-80:-ms-input-placeholder{ color:#1d364d; }
+
+.pl-cerulean-80::placeholder{ color:#1d364d; }
 
 .cerulean-90{ color:#1b2834; }
 
@@ -18909,6 +19173,12 @@ template{ display:none; }
 
 .vi-cerulean-90:visited{ color:#1b2834; }
 
+.pl-cerulean-90::-webkit-input-placeholder{ color:#1b2834; }
+
+.pl-cerulean-90:-ms-input-placeholder{ color:#1b2834; }
+
+.pl-cerulean-90::placeholder{ color:#1b2834; }
+
 .aqua-1{ color:#d1f0f7; }
 
 .ac-aqua-1:active{ color:#d1f0f7; }
@@ -18918,6 +19188,12 @@ template{ display:none; }
 .ho-aqua-1:hover{ color:#d1f0f7; }
 
 .vi-aqua-1:visited{ color:#d1f0f7; }
+
+.pl-aqua-1::-webkit-input-placeholder{ color:#d1f0f7; }
+
+.pl-aqua-1:-ms-input-placeholder{ color:#d1f0f7; }
+
+.pl-aqua-1::placeholder{ color:#d1f0f7; }
 
 .aqua-10{ color:#a0e3f0; }
 
@@ -18929,6 +19205,12 @@ template{ display:none; }
 
 .vi-aqua-10:visited{ color:#a0e3f0; }
 
+.pl-aqua-10::-webkit-input-placeholder{ color:#a0e3f0; }
+
+.pl-aqua-10:-ms-input-placeholder{ color:#a0e3f0; }
+
+.pl-aqua-10::placeholder{ color:#a0e3f0; }
+
 .aqua-20{ color:#71cddd; }
 
 .ac-aqua-20:active{ color:#71cddd; }
@@ -18938,6 +19220,12 @@ template{ display:none; }
 .ho-aqua-20:hover{ color:#71cddd; }
 
 .vi-aqua-20:visited{ color:#71cddd; }
+
+.pl-aqua-20::-webkit-input-placeholder{ color:#71cddd; }
+
+.pl-aqua-20:-ms-input-placeholder{ color:#71cddd; }
+
+.pl-aqua-20::placeholder{ color:#71cddd; }
 
 .aqua-30{ color:#00b6cb; }
 
@@ -18949,6 +19237,12 @@ template{ display:none; }
 
 .vi-aqua-30:visited{ color:#00b6cb; }
 
+.pl-aqua-30::-webkit-input-placeholder{ color:#00b6cb; }
+
+.pl-aqua-30:-ms-input-placeholder{ color:#00b6cb; }
+
+.pl-aqua-30::placeholder{ color:#00b6cb; }
+
 .aqua-40{ color:#12a3b4; }
 
 .ac-aqua-40:active{ color:#12a3b4; }
@@ -18958,6 +19252,12 @@ template{ display:none; }
 .ho-aqua-40:hover{ color:#12a3b4; }
 
 .vi-aqua-40:visited{ color:#12a3b4; }
+
+.pl-aqua-40::-webkit-input-placeholder{ color:#12a3b4; }
+
+.pl-aqua-40:-ms-input-placeholder{ color:#12a3b4; }
+
+.pl-aqua-40::placeholder{ color:#12a3b4; }
 
 .aqua-50{ color:#188291; }
 
@@ -18969,6 +19269,12 @@ template{ display:none; }
 
 .vi-aqua-50:visited{ color:#188291; }
 
+.pl-aqua-50::-webkit-input-placeholder{ color:#188291; }
+
+.pl-aqua-50:-ms-input-placeholder{ color:#188291; }
+
+.pl-aqua-50::placeholder{ color:#188291; }
+
 .aqua-60{ color:#17616b; }
 
 .ac-aqua-60:active{ color:#17616b; }
@@ -18978,6 +19284,12 @@ template{ display:none; }
 .ho-aqua-60:hover{ color:#17616b; }
 
 .vi-aqua-60:visited{ color:#17616b; }
+
+.pl-aqua-60::-webkit-input-placeholder{ color:#17616b; }
+
+.pl-aqua-60:-ms-input-placeholder{ color:#17616b; }
+
+.pl-aqua-60::placeholder{ color:#17616b; }
 
 .aqua-70{ color:#164d56; }
 
@@ -18989,6 +19301,12 @@ template{ display:none; }
 
 .vi-aqua-70:visited{ color:#164d56; }
 
+.pl-aqua-70::-webkit-input-placeholder{ color:#164d56; }
+
+.pl-aqua-70:-ms-input-placeholder{ color:#164d56; }
+
+.pl-aqua-70::placeholder{ color:#164d56; }
+
 .aqua-80{ color:#13393e; }
 
 .ac-aqua-80:active{ color:#13393e; }
@@ -18998,6 +19316,12 @@ template{ display:none; }
 .ho-aqua-80:hover{ color:#13393e; }
 
 .vi-aqua-80:visited{ color:#13393e; }
+
+.pl-aqua-80::-webkit-input-placeholder{ color:#13393e; }
+
+.pl-aqua-80:-ms-input-placeholder{ color:#13393e; }
+
+.pl-aqua-80::placeholder{ color:#13393e; }
 
 .aqua-90{ color:#122a2e; }
 
@@ -19009,6 +19333,12 @@ template{ display:none; }
 
 .vi-aqua-90:visited{ color:#122a2e; }
 
+.pl-aqua-90::-webkit-input-placeholder{ color:#122a2e; }
+
+.pl-aqua-90:-ms-input-placeholder{ color:#122a2e; }
+
+.pl-aqua-90::placeholder{ color:#122a2e; }
+
 .teal-1{ color:#c0f5e8; }
 
 .ac-teal-1:active{ color:#c0f5e8; }
@@ -19018,6 +19348,12 @@ template{ display:none; }
 .ho-teal-1:hover{ color:#c0f5e8; }
 
 .vi-teal-1:visited{ color:#c0f5e8; }
+
+.pl-teal-1::-webkit-input-placeholder{ color:#c0f5e8; }
+
+.pl-teal-1:-ms-input-placeholder{ color:#c0f5e8; }
+
+.pl-teal-1::placeholder{ color:#c0f5e8; }
 
 .teal-10{ color:#8ee9d4; }
 
@@ -19029,6 +19365,12 @@ template{ display:none; }
 
 .vi-teal-10:visited{ color:#8ee9d4; }
 
+.pl-teal-10::-webkit-input-placeholder{ color:#8ee9d4; }
+
+.pl-teal-10:-ms-input-placeholder{ color:#8ee9d4; }
+
+.pl-teal-10::placeholder{ color:#8ee9d4; }
+
 .teal-20{ color:#40d5bb; }
 
 .ac-teal-20:active{ color:#40d5bb; }
@@ -19038,6 +19380,12 @@ template{ display:none; }
 .ho-teal-20:hover{ color:#40d5bb; }
 
 .vi-teal-20:visited{ color:#40d5bb; }
+
+.pl-teal-20::-webkit-input-placeholder{ color:#40d5bb; }
+
+.pl-teal-20:-ms-input-placeholder{ color:#40d5bb; }
+
+.pl-teal-20::placeholder{ color:#40d5bb; }
 
 .teal-30{ color:#00baa1; }
 
@@ -19049,6 +19397,12 @@ template{ display:none; }
 
 .vi-teal-30:visited{ color:#00baa1; }
 
+.pl-teal-30::-webkit-input-placeholder{ color:#00baa1; }
+
+.pl-teal-30:-ms-input-placeholder{ color:#00baa1; }
+
+.pl-teal-30::placeholder{ color:#00baa1; }
+
 .teal-40{ color:#00a78f; }
 
 .ac-teal-40:active{ color:#00a78f; }
@@ -19058,6 +19412,12 @@ template{ display:none; }
 .ho-teal-40:hover{ color:#00a78f; }
 
 .vi-teal-40:visited{ color:#00a78f; }
+
+.pl-teal-40::-webkit-input-placeholder{ color:#00a78f; }
+
+.pl-teal-40:-ms-input-placeholder{ color:#00a78f; }
+
+.pl-teal-40::placeholder{ color:#00a78f; }
 
 .teal-50{ color:#008673; }
 
@@ -19069,6 +19429,12 @@ template{ display:none; }
 
 .vi-teal-50:visited{ color:#008673; }
 
+.pl-teal-50::-webkit-input-placeholder{ color:#008673; }
+
+.pl-teal-50:-ms-input-placeholder{ color:#008673; }
+
+.pl-teal-50::placeholder{ color:#008673; }
+
 .teal-60{ color:#006456; }
 
 .ac-teal-60:active{ color:#006456; }
@@ -19078,6 +19444,12 @@ template{ display:none; }
 .ho-teal-60:hover{ color:#006456; }
 
 .vi-teal-60:visited{ color:#006456; }
+
+.pl-teal-60::-webkit-input-placeholder{ color:#006456; }
+
+.pl-teal-60:-ms-input-placeholder{ color:#006456; }
+
+.pl-teal-60::placeholder{ color:#006456; }
 
 .teal-70{ color:#124f44; }
 
@@ -19089,6 +19461,12 @@ template{ display:none; }
 
 .vi-teal-70:visited{ color:#124f44; }
 
+.pl-teal-70::-webkit-input-placeholder{ color:#124f44; }
+
+.pl-teal-70:-ms-input-placeholder{ color:#124f44; }
+
+.pl-teal-70::placeholder{ color:#124f44; }
+
 .teal-80{ color:#133a32; }
 
 .ac-teal-80:active{ color:#133a32; }
@@ -19098,6 +19476,12 @@ template{ display:none; }
 .ho-teal-80:hover{ color:#133a32; }
 
 .vi-teal-80:visited{ color:#133a32; }
+
+.pl-teal-80::-webkit-input-placeholder{ color:#133a32; }
+
+.pl-teal-80:-ms-input-placeholder{ color:#133a32; }
+
+.pl-teal-80::placeholder{ color:#133a32; }
 
 .teal-90{ color:#122b26; }
 
@@ -19109,6 +19493,12 @@ template{ display:none; }
 
 .vi-teal-90:visited{ color:#122b26; }
 
+.pl-teal-90::-webkit-input-placeholder{ color:#122b26; }
+
+.pl-teal-90:-ms-input-placeholder{ color:#122b26; }
+
+.pl-teal-90::placeholder{ color:#122b26; }
+
 .green-1{ color:#cef3d1; }
 
 .ac-green-1:active{ color:#cef3d1; }
@@ -19118,6 +19508,12 @@ template{ display:none; }
 .ho-green-1:hover{ color:#cef3d1; }
 
 .vi-green-1:visited{ color:#cef3d1; }
+
+.pl-green-1::-webkit-input-placeholder{ color:#cef3d1; }
+
+.pl-green-1:-ms-input-placeholder{ color:#cef3d1; }
+
+.pl-green-1::placeholder{ color:#cef3d1; }
 
 .green-10{ color:#89eda0; }
 
@@ -19129,6 +19525,12 @@ template{ display:none; }
 
 .vi-green-10:visited{ color:#89eda0; }
 
+.pl-green-10::-webkit-input-placeholder{ color:#89eda0; }
+
+.pl-green-10:-ms-input-placeholder{ color:#89eda0; }
+
+.pl-green-10::placeholder{ color:#89eda0; }
+
 .green-20{ color:#57d785; }
 
 .ac-green-20:active{ color:#57d785; }
@@ -19138,6 +19540,12 @@ template{ display:none; }
 .ho-green-20:hover{ color:#57d785; }
 
 .vi-green-20:visited{ color:#57d785; }
+
+.pl-green-20::-webkit-input-placeholder{ color:#57d785; }
+
+.pl-green-20:-ms-input-placeholder{ color:#57d785; }
+
+.pl-green-20::placeholder{ color:#57d785; }
 
 .green-30{ color:#34bc6e; }
 
@@ -19149,6 +19557,12 @@ template{ display:none; }
 
 .vi-green-30:visited{ color:#34bc6e; }
 
+.pl-green-30::-webkit-input-placeholder{ color:#34bc6e; }
+
+.pl-green-30:-ms-input-placeholder{ color:#34bc6e; }
+
+.pl-green-30::placeholder{ color:#34bc6e; }
+
 .green-40{ color:#00aa5e; }
 
 .ac-green-40:active{ color:#00aa5e; }
@@ -19158,6 +19572,12 @@ template{ display:none; }
 .ho-green-40:hover{ color:#00aa5e; }
 
 .vi-green-40:visited{ color:#00aa5e; }
+
+.pl-green-40::-webkit-input-placeholder{ color:#00aa5e; }
+
+.pl-green-40:-ms-input-placeholder{ color:#00aa5e; }
+
+.pl-green-40::placeholder{ color:#00aa5e; }
 
 .green-50{ color:#00884b; }
 
@@ -19169,6 +19589,12 @@ template{ display:none; }
 
 .vi-green-50:visited{ color:#00884b; }
 
+.pl-green-50::-webkit-input-placeholder{ color:#00884b; }
+
+.pl-green-50:-ms-input-placeholder{ color:#00884b; }
+
+.pl-green-50::placeholder{ color:#00884b; }
+
 .green-60{ color:#116639; }
 
 .ac-green-60:active{ color:#116639; }
@@ -19178,6 +19604,12 @@ template{ display:none; }
 .ho-green-60:hover{ color:#116639; }
 
 .vi-green-60:visited{ color:#116639; }
+
+.pl-green-60::-webkit-input-placeholder{ color:#116639; }
+
+.pl-green-60:-ms-input-placeholder{ color:#116639; }
+
+.pl-green-60::placeholder{ color:#116639; }
 
 .green-70{ color:#12512e; }
 
@@ -19189,6 +19621,12 @@ template{ display:none; }
 
 .vi-green-70:visited{ color:#12512e; }
 
+.pl-green-70::-webkit-input-placeholder{ color:#12512e; }
+
+.pl-green-70:-ms-input-placeholder{ color:#12512e; }
+
+.pl-green-70::placeholder{ color:#12512e; }
+
 .green-80{ color:#123b22; }
 
 .ac-green-80:active{ color:#123b22; }
@@ -19198,6 +19636,12 @@ template{ display:none; }
 .ho-green-80:hover{ color:#123b22; }
 
 .vi-green-80:visited{ color:#123b22; }
+
+.pl-green-80::-webkit-input-placeholder{ color:#123b22; }
+
+.pl-green-80:-ms-input-placeholder{ color:#123b22; }
+
+.pl-green-80::placeholder{ color:#123b22; }
 
 .green-90{ color:#112c1b; }
 
@@ -19209,6 +19653,12 @@ template{ display:none; }
 
 .vi-green-90:visited{ color:#112c1b; }
 
+.pl-green-90::-webkit-input-placeholder{ color:#112c1b; }
+
+.pl-green-90:-ms-input-placeholder{ color:#112c1b; }
+
+.pl-green-90::placeholder{ color:#112c1b; }
+
 .lime-1{ color:#d7f4bd; }
 
 .ac-lime-1:active{ color:#d7f4bd; }
@@ -19218,6 +19668,12 @@ template{ display:none; }
 .ho-lime-1:hover{ color:#d7f4bd; }
 
 .vi-lime-1:visited{ color:#d7f4bd; }
+
+.pl-lime-1::-webkit-input-placeholder{ color:#d7f4bd; }
+
+.pl-lime-1:-ms-input-placeholder{ color:#d7f4bd; }
+
+.pl-lime-1::placeholder{ color:#d7f4bd; }
 
 .lime-10{ color:#b4e876; }
 
@@ -19229,6 +19685,12 @@ template{ display:none; }
 
 .vi-lime-10:visited{ color:#b4e876; }
 
+.pl-lime-10::-webkit-input-placeholder{ color:#b4e876; }
+
+.pl-lime-10:-ms-input-placeholder{ color:#b4e876; }
+
+.pl-lime-10::placeholder{ color:#b4e876; }
+
 .lime-20{ color:#95d13c; }
 
 .ac-lime-20:active{ color:#95d13c; }
@@ -19238,6 +19700,12 @@ template{ display:none; }
 .ho-lime-20:hover{ color:#95d13c; }
 
 .vi-lime-20:visited{ color:#95d13c; }
+
+.pl-lime-20::-webkit-input-placeholder{ color:#95d13c; }
+
+.pl-lime-20:-ms-input-placeholder{ color:#95d13c; }
+
+.pl-lime-20::placeholder{ color:#95d13c; }
 
 .lime-30{ color:#81b532; }
 
@@ -19249,6 +19717,12 @@ template{ display:none; }
 
 .vi-lime-30:visited{ color:#81b532; }
 
+.pl-lime-30::-webkit-input-placeholder{ color:#81b532; }
+
+.pl-lime-30:-ms-input-placeholder{ color:#81b532; }
+
+.pl-lime-30::placeholder{ color:#81b532; }
+
 .lime-40{ color:#73a22c; }
 
 .ac-lime-40:active{ color:#73a22c; }
@@ -19258,6 +19732,12 @@ template{ display:none; }
 .ho-lime-40:hover{ color:#73a22c; }
 
 .vi-lime-40:visited{ color:#73a22c; }
+
+.pl-lime-40::-webkit-input-placeholder{ color:#73a22c; }
+
+.pl-lime-40:-ms-input-placeholder{ color:#73a22c; }
+
+.pl-lime-40::placeholder{ color:#73a22c; }
 
 .lime-50{ color:#5b8121; }
 
@@ -19269,6 +19749,12 @@ template{ display:none; }
 
 .vi-lime-50:visited{ color:#5b8121; }
 
+.pl-lime-50::-webkit-input-placeholder{ color:#5b8121; }
+
+.pl-lime-50:-ms-input-placeholder{ color:#5b8121; }
+
+.pl-lime-50::placeholder{ color:#5b8121; }
+
 .lime-60{ color:#426200; }
 
 .ac-lime-60:active{ color:#426200; }
@@ -19278,6 +19764,12 @@ template{ display:none; }
 .ho-lime-60:hover{ color:#426200; }
 
 .vi-lime-60:visited{ color:#426200; }
+
+.pl-lime-60::-webkit-input-placeholder{ color:#426200; }
+
+.pl-lime-60:-ms-input-placeholder{ color:#426200; }
+
+.pl-lime-60::placeholder{ color:#426200; }
 
 .lime-70{ color:#374c1a; }
 
@@ -19289,6 +19781,12 @@ template{ display:none; }
 
 .vi-lime-70:visited{ color:#374c1a; }
 
+.pl-lime-70::-webkit-input-placeholder{ color:#374c1a; }
+
+.pl-lime-70:-ms-input-placeholder{ color:#374c1a; }
+
+.pl-lime-70::placeholder{ color:#374c1a; }
+
 .lime-80{ color:#283912; }
 
 .ac-lime-80:active{ color:#283912; }
@@ -19298,6 +19796,12 @@ template{ display:none; }
 .ho-lime-80:hover{ color:#283912; }
 
 .vi-lime-80:visited{ color:#283912; }
+
+.pl-lime-80::-webkit-input-placeholder{ color:#283912; }
+
+.pl-lime-80:-ms-input-placeholder{ color:#283912; }
+
+.pl-lime-80::placeholder{ color:#283912; }
 
 .lime-90{ color:#1f2a10; }
 
@@ -19309,6 +19813,12 @@ template{ display:none; }
 
 .vi-lime-90:visited{ color:#1f2a10; }
 
+.pl-lime-90::-webkit-input-placeholder{ color:#1f2a10; }
+
+.pl-lime-90:-ms-input-placeholder{ color:#1f2a10; }
+
+.pl-lime-90::placeholder{ color:#1f2a10; }
+
 .yellow-1{ color:#fbeaae; }
 
 .ac-yellow-1:active{ color:#fbeaae; }
@@ -19318,6 +19828,12 @@ template{ display:none; }
 .ho-yellow-1:hover{ color:#fbeaae; }
 
 .vi-yellow-1:visited{ color:#fbeaae; }
+
+.pl-yellow-1::-webkit-input-placeholder{ color:#fbeaae; }
+
+.pl-yellow-1:-ms-input-placeholder{ color:#fbeaae; }
+
+.pl-yellow-1::placeholder{ color:#fbeaae; }
 
 .yellow-10{ color:#fed500; }
 
@@ -19329,6 +19845,12 @@ template{ display:none; }
 
 .vi-yellow-10:visited{ color:#fed500; }
 
+.pl-yellow-10::-webkit-input-placeholder{ color:#fed500; }
+
+.pl-yellow-10:-ms-input-placeholder{ color:#fed500; }
+
+.pl-yellow-10::placeholder{ color:#fed500; }
+
 .yellow-20{ color:#e3bc13; }
 
 .ac-yellow-20:active{ color:#e3bc13; }
@@ -19338,6 +19860,12 @@ template{ display:none; }
 .ho-yellow-20:hover{ color:#e3bc13; }
 
 .vi-yellow-20:visited{ color:#e3bc13; }
+
+.pl-yellow-20::-webkit-input-placeholder{ color:#e3bc13; }
+
+.pl-yellow-20:-ms-input-placeholder{ color:#e3bc13; }
+
+.pl-yellow-20::placeholder{ color:#e3bc13; }
 
 .yellow-30{ color:#c6a21a; }
 
@@ -19349,6 +19877,12 @@ template{ display:none; }
 
 .vi-yellow-30:visited{ color:#c6a21a; }
 
+.pl-yellow-30::-webkit-input-placeholder{ color:#c6a21a; }
+
+.pl-yellow-30:-ms-input-placeholder{ color:#c6a21a; }
+
+.pl-yellow-30::placeholder{ color:#c6a21a; }
+
 .yellow-40{ color:#b3901f; }
 
 .ac-yellow-40:active{ color:#b3901f; }
@@ -19358,6 +19892,12 @@ template{ display:none; }
 .ho-yellow-40:hover{ color:#b3901f; }
 
 .vi-yellow-40:visited{ color:#b3901f; }
+
+.pl-yellow-40::-webkit-input-placeholder{ color:#b3901f; }
+
+.pl-yellow-40:-ms-input-placeholder{ color:#b3901f; }
+
+.pl-yellow-40::placeholder{ color:#b3901f; }
 
 .yellow-50{ color:#91721f; }
 
@@ -19369,6 +19909,12 @@ template{ display:none; }
 
 .vi-yellow-50:visited{ color:#91721f; }
 
+.pl-yellow-50::-webkit-input-placeholder{ color:#91721f; }
+
+.pl-yellow-50:-ms-input-placeholder{ color:#91721f; }
+
+.pl-yellow-50::placeholder{ color:#91721f; }
+
 .yellow-60{ color:#70541b; }
 
 .ac-yellow-60:active{ color:#70541b; }
@@ -19378,6 +19924,12 @@ template{ display:none; }
 .ho-yellow-60:hover{ color:#70541b; }
 
 .vi-yellow-60:visited{ color:#70541b; }
+
+.pl-yellow-60::-webkit-input-placeholder{ color:#70541b; }
+
+.pl-yellow-60:-ms-input-placeholder{ color:#70541b; }
+
+.pl-yellow-60::placeholder{ color:#70541b; }
 
 .yellow-70{ color:#5b421a; }
 
@@ -19389,6 +19941,12 @@ template{ display:none; }
 
 .vi-yellow-70:visited{ color:#5b421a; }
 
+.pl-yellow-70::-webkit-input-placeholder{ color:#5b421a; }
+
+.pl-yellow-70:-ms-input-placeholder{ color:#5b421a; }
+
+.pl-yellow-70::placeholder{ color:#5b421a; }
+
 .yellow-80{ color:#452f18; }
 
 .ac-yellow-80:active{ color:#452f18; }
@@ -19398,6 +19956,12 @@ template{ display:none; }
 .ho-yellow-80:hover{ color:#452f18; }
 
 .vi-yellow-80:visited{ color:#452f18; }
+
+.pl-yellow-80::-webkit-input-placeholder{ color:#452f18; }
+
+.pl-yellow-80:-ms-input-placeholder{ color:#452f18; }
+
+.pl-yellow-80::placeholder{ color:#452f18; }
 
 .yellow-90{ color:#372118; }
 
@@ -19409,6 +19973,12 @@ template{ display:none; }
 
 .vi-yellow-90:visited{ color:#372118; }
 
+.pl-yellow-90::-webkit-input-placeholder{ color:#372118; }
+
+.pl-yellow-90:-ms-input-placeholder{ color:#372118; }
+
+.pl-yellow-90::placeholder{ color:#372118; }
+
 .gold-1{ color:#f5e8db; }
 
 .ac-gold-1:active{ color:#f5e8db; }
@@ -19418,6 +19988,12 @@ template{ display:none; }
 .ho-gold-1:hover{ color:#f5e8db; }
 
 .vi-gold-1:visited{ color:#f5e8db; }
+
+.pl-gold-1::-webkit-input-placeholder{ color:#f5e8db; }
+
+.pl-gold-1:-ms-input-placeholder{ color:#f5e8db; }
+
+.pl-gold-1::placeholder{ color:#f5e8db; }
 
 .gold-10{ color:#ffd191; }
 
@@ -19429,6 +20005,12 @@ template{ display:none; }
 
 .vi-gold-10:visited{ color:#ffd191; }
 
+.pl-gold-10::-webkit-input-placeholder{ color:#ffd191; }
+
+.pl-gold-10:-ms-input-placeholder{ color:#ffd191; }
+
+.pl-gold-10::placeholder{ color:#ffd191; }
+
 .gold-20{ color:#ffb000; }
 
 .ac-gold-20:active{ color:#ffb000; }
@@ -19438,6 +20020,12 @@ template{ display:none; }
 .ho-gold-20:hover{ color:#ffb000; }
 
 .vi-gold-20:visited{ color:#ffb000; }
+
+.pl-gold-20::-webkit-input-placeholder{ color:#ffb000; }
+
+.pl-gold-20:-ms-input-placeholder{ color:#ffb000; }
+
+.pl-gold-20::placeholder{ color:#ffb000; }
 
 .gold-30{ color:#e39d14; }
 
@@ -19449,6 +20037,12 @@ template{ display:none; }
 
 .vi-gold-30:visited{ color:#e39d14; }
 
+.pl-gold-30::-webkit-input-placeholder{ color:#e39d14; }
+
+.pl-gold-30:-ms-input-placeholder{ color:#e39d14; }
+
+.pl-gold-30::placeholder{ color:#e39d14; }
+
 .gold-40{ color:#c4881c; }
 
 .ac-gold-40:active{ color:#c4881c; }
@@ -19458,6 +20052,12 @@ template{ display:none; }
 .ho-gold-40:hover{ color:#c4881c; }
 
 .vi-gold-40:visited{ color:#c4881c; }
+
+.pl-gold-40::-webkit-input-placeholder{ color:#c4881c; }
+
+.pl-gold-40:-ms-input-placeholder{ color:#c4881c; }
+
+.pl-gold-40::placeholder{ color:#c4881c; }
 
 .gold-50{ color:#9c6d1e; }
 
@@ -19469,6 +20069,12 @@ template{ display:none; }
 
 .vi-gold-50:visited{ color:#9c6d1e; }
 
+.pl-gold-50::-webkit-input-placeholder{ color:#9c6d1e; }
+
+.pl-gold-50:-ms-input-placeholder{ color:#9c6d1e; }
+
+.pl-gold-50::placeholder{ color:#9c6d1e; }
+
 .gold-60{ color:#74521b; }
 
 .ac-gold-60:active{ color:#74521b; }
@@ -19478,6 +20084,12 @@ template{ display:none; }
 .ho-gold-60:hover{ color:#74521b; }
 
 .vi-gold-60:visited{ color:#74521b; }
+
+.pl-gold-60::-webkit-input-placeholder{ color:#74521b; }
+
+.pl-gold-60:-ms-input-placeholder{ color:#74521b; }
+
+.pl-gold-60::placeholder{ color:#74521b; }
 
 .gold-70{ color:#5b421c; }
 
@@ -19489,6 +20101,12 @@ template{ display:none; }
 
 .vi-gold-70:visited{ color:#5b421c; }
 
+.pl-gold-70::-webkit-input-placeholder{ color:#5b421c; }
+
+.pl-gold-70:-ms-input-placeholder{ color:#5b421c; }
+
+.pl-gold-70::placeholder{ color:#5b421c; }
+
 .gold-80{ color:#42301b; }
 
 .ac-gold-80:active{ color:#42301b; }
@@ -19498,6 +20116,12 @@ template{ display:none; }
 .ho-gold-80:hover{ color:#42301b; }
 
 .vi-gold-80:visited{ color:#42301b; }
+
+.pl-gold-80::-webkit-input-placeholder{ color:#42301b; }
+
+.pl-gold-80:-ms-input-placeholder{ color:#42301b; }
+
+.pl-gold-80::placeholder{ color:#42301b; }
 
 .gold-90{ color:#2f261c; }
 
@@ -19509,6 +20133,12 @@ template{ display:none; }
 
 .vi-gold-90:visited{ color:#2f261c; }
 
+.pl-gold-90::-webkit-input-placeholder{ color:#2f261c; }
+
+.pl-gold-90:-ms-input-placeholder{ color:#2f261c; }
+
+.pl-gold-90::placeholder{ color:#2f261c; }
+
 .orange-1{ color:#f5e8de; }
 
 .ac-orange-1:active{ color:#f5e8de; }
@@ -19518,6 +20148,12 @@ template{ display:none; }
 .ho-orange-1:hover{ color:#f5e8de; }
 
 .vi-orange-1:visited{ color:#f5e8de; }
+
+.pl-orange-1::-webkit-input-placeholder{ color:#f5e8de; }
+
+.pl-orange-1:-ms-input-placeholder{ color:#f5e8de; }
+
+.pl-orange-1::placeholder{ color:#f5e8de; }
 
 .orange-10{ color:#fdcfad; }
 
@@ -19529,6 +20165,12 @@ template{ display:none; }
 
 .vi-orange-10:visited{ color:#fdcfad; }
 
+.pl-orange-10::-webkit-input-placeholder{ color:#fdcfad; }
+
+.pl-orange-10:-ms-input-placeholder{ color:#fdcfad; }
+
+.pl-orange-10::placeholder{ color:#fdcfad; }
+
 .orange-20{ color:#fcaf6d; }
 
 .ac-orange-20:active{ color:#fcaf6d; }
@@ -19538,6 +20180,12 @@ template{ display:none; }
 .ho-orange-20:hover{ color:#fcaf6d; }
 
 .vi-orange-20:visited{ color:#fcaf6d; }
+
+.pl-orange-20::-webkit-input-placeholder{ color:#fcaf6d; }
+
+.pl-orange-20:-ms-input-placeholder{ color:#fcaf6d; }
+
+.pl-orange-20::placeholder{ color:#fcaf6d; }
 
 .orange-30{ color:#fe8500; }
 
@@ -19549,6 +20197,12 @@ template{ display:none; }
 
 .vi-orange-30:visited{ color:#fe8500; }
 
+.pl-orange-30::-webkit-input-placeholder{ color:#fe8500; }
+
+.pl-orange-30:-ms-input-placeholder{ color:#fe8500; }
+
+.pl-orange-30::placeholder{ color:#fe8500; }
+
 .orange-40{ color:#db7c00; }
 
 .ac-orange-40:active{ color:#db7c00; }
@@ -19558,6 +20212,12 @@ template{ display:none; }
 .ho-orange-40:hover{ color:#db7c00; }
 
 .vi-orange-40:visited{ color:#db7c00; }
+
+.pl-orange-40::-webkit-input-placeholder{ color:#db7c00; }
+
+.pl-orange-40:-ms-input-placeholder{ color:#db7c00; }
+
+.pl-orange-40::placeholder{ color:#db7c00; }
 
 .orange-50{ color:#ad6418; }
 
@@ -19569,6 +20229,12 @@ template{ display:none; }
 
 .vi-orange-50:visited{ color:#ad6418; }
 
+.pl-orange-50::-webkit-input-placeholder{ color:#ad6418; }
+
+.pl-orange-50:-ms-input-placeholder{ color:#ad6418; }
+
+.pl-orange-50::placeholder{ color:#ad6418; }
+
 .orange-60{ color:#814b19; }
 
 .ac-orange-60:active{ color:#814b19; }
@@ -19578,6 +20244,12 @@ template{ display:none; }
 .ho-orange-60:hover{ color:#814b19; }
 
 .vi-orange-60:visited{ color:#814b19; }
+
+.pl-orange-60::-webkit-input-placeholder{ color:#814b19; }
+
+.pl-orange-60:-ms-input-placeholder{ color:#814b19; }
+
+.pl-orange-60::placeholder{ color:#814b19; }
 
 .orange-70{ color:#653d1b; }
 
@@ -19589,6 +20261,12 @@ template{ display:none; }
 
 .vi-orange-70:visited{ color:#653d1b; }
 
+.pl-orange-70::-webkit-input-placeholder{ color:#653d1b; }
+
+.pl-orange-70:-ms-input-placeholder{ color:#653d1b; }
+
+.pl-orange-70::placeholder{ color:#653d1b; }
+
 .orange-80{ color:#482e1a; }
 
 .ac-orange-80:active{ color:#482e1a; }
@@ -19598,6 +20276,12 @@ template{ display:none; }
 .ho-orange-80:hover{ color:#482e1a; }
 
 .vi-orange-80:visited{ color:#482e1a; }
+
+.pl-orange-80::-webkit-input-placeholder{ color:#482e1a; }
+
+.pl-orange-80:-ms-input-placeholder{ color:#482e1a; }
+
+.pl-orange-80::placeholder{ color:#482e1a; }
 
 .orange-90{ color:#33241c; }
 
@@ -19609,6 +20293,12 @@ template{ display:none; }
 
 .vi-orange-90:visited{ color:#33241c; }
 
+.pl-orange-90::-webkit-input-placeholder{ color:#33241c; }
+
+.pl-orange-90:-ms-input-placeholder{ color:#33241c; }
+
+.pl-orange-90::placeholder{ color:#33241c; }
+
 .peach-1{ color:#f7e7e2; }
 
 .ac-peach-1:active{ color:#f7e7e2; }
@@ -19618,6 +20308,12 @@ template{ display:none; }
 .ho-peach-1:hover{ color:#f7e7e2; }
 
 .vi-peach-1:visited{ color:#f7e7e2; }
+
+.pl-peach-1::-webkit-input-placeholder{ color:#f7e7e2; }
+
+.pl-peach-1:-ms-input-placeholder{ color:#f7e7e2; }
+
+.pl-peach-1::placeholder{ color:#f7e7e2; }
 
 .peach-10{ color:#f8d0c3; }
 
@@ -19629,6 +20325,12 @@ template{ display:none; }
 
 .vi-peach-10:visited{ color:#f8d0c3; }
 
+.pl-peach-10::-webkit-input-placeholder{ color:#f8d0c3; }
+
+.pl-peach-10:-ms-input-placeholder{ color:#f8d0c3; }
+
+.pl-peach-10::placeholder{ color:#f8d0c3; }
+
 .peach-20{ color:#faad96; }
 
 .ac-peach-20:active{ color:#faad96; }
@@ -19638,6 +20340,12 @@ template{ display:none; }
 .ho-peach-20:hover{ color:#faad96; }
 
 .vi-peach-20:visited{ color:#faad96; }
+
+.pl-peach-20::-webkit-input-placeholder{ color:#faad96; }
+
+.pl-peach-20:-ms-input-placeholder{ color:#faad96; }
+
+.pl-peach-20::placeholder{ color:#faad96; }
 
 .peach-30{ color:#fc835c; }
 
@@ -19649,6 +20357,12 @@ template{ display:none; }
 
 .vi-peach-30:visited{ color:#fc835c; }
 
+.pl-peach-30::-webkit-input-placeholder{ color:#fc835c; }
+
+.pl-peach-30:-ms-input-placeholder{ color:#fc835c; }
+
+.pl-peach-30::placeholder{ color:#fc835c; }
+
 .peach-40{ color:#fe6100; }
 
 .ac-peach-40:active{ color:#fe6100; }
@@ -19658,6 +20372,12 @@ template{ display:none; }
 .ho-peach-40:hover{ color:#fe6100; }
 
 .vi-peach-40:visited{ color:#fe6100; }
+
+.pl-peach-40::-webkit-input-placeholder{ color:#fe6100; }
+
+.pl-peach-40:-ms-input-placeholder{ color:#fe6100; }
+
+.pl-peach-40::placeholder{ color:#fe6100; }
 
 .peach-50{ color:#c45433; }
 
@@ -19669,6 +20389,12 @@ template{ display:none; }
 
 .vi-peach-50:visited{ color:#c45433; }
 
+.pl-peach-50::-webkit-input-placeholder{ color:#c45433; }
+
+.pl-peach-50:-ms-input-placeholder{ color:#c45433; }
+
+.pl-peach-50::placeholder{ color:#c45433; }
+
 .peach-60{ color:#993a1d; }
 
 .ac-peach-60:active{ color:#993a1d; }
@@ -19678,6 +20404,12 @@ template{ display:none; }
 .ho-peach-60:hover{ color:#993a1d; }
 
 .vi-peach-60:visited{ color:#993a1d; }
+
+.pl-peach-60::-webkit-input-placeholder{ color:#993a1d; }
+
+.pl-peach-60:-ms-input-placeholder{ color:#993a1d; }
+
+.pl-peach-60::placeholder{ color:#993a1d; }
 
 .peach-70{ color:#782f1c; }
 
@@ -19689,6 +20421,12 @@ template{ display:none; }
 
 .vi-peach-70:visited{ color:#782f1c; }
 
+.pl-peach-70::-webkit-input-placeholder{ color:#782f1c; }
+
+.pl-peach-70:-ms-input-placeholder{ color:#782f1c; }
+
+.pl-peach-70::placeholder{ color:#782f1c; }
+
 .peach-80{ color:#56251a; }
 
 .ac-peach-80:active{ color:#56251a; }
@@ -19698,6 +20436,12 @@ template{ display:none; }
 .ho-peach-80:hover{ color:#56251a; }
 
 .vi-peach-80:visited{ color:#56251a; }
+
+.pl-peach-80::-webkit-input-placeholder{ color:#56251a; }
+
+.pl-peach-80:-ms-input-placeholder{ color:#56251a; }
+
+.pl-peach-80::placeholder{ color:#56251a; }
 
 .peach-90{ color:#3a201b; }
 
@@ -19709,6 +20453,12 @@ template{ display:none; }
 
 .vi-peach-90:visited{ color:#3a201b; }
 
+.pl-peach-90::-webkit-input-placeholder{ color:#3a201b; }
+
+.pl-peach-90:-ms-input-placeholder{ color:#3a201b; }
+
+.pl-peach-90::placeholder{ color:#3a201b; }
+
 .red-1{ color:#f7e6e6; }
 
 .ac-red-1:active{ color:#f7e6e6; }
@@ -19718,6 +20468,12 @@ template{ display:none; }
 .ho-red-1:hover{ color:#f7e6e6; }
 
 .vi-red-1:visited{ color:#f7e6e6; }
+
+.pl-red-1::-webkit-input-placeholder{ color:#f7e6e6; }
+
+.pl-red-1:-ms-input-placeholder{ color:#f7e6e6; }
+
+.pl-red-1::placeholder{ color:#f7e6e6; }
 
 .red-10{ color:#fccec7; }
 
@@ -19729,6 +20485,12 @@ template{ display:none; }
 
 .vi-red-10:visited{ color:#fccec7; }
 
+.pl-red-10::-webkit-input-placeholder{ color:#fccec7; }
+
+.pl-red-10:-ms-input-placeholder{ color:#fccec7; }
+
+.pl-red-10::placeholder{ color:#fccec7; }
+
 .red-20{ color:#ffaa9d; }
 
 .ac-red-20:active{ color:#ffaa9d; }
@@ -19738,6 +20500,12 @@ template{ display:none; }
 .ho-red-20:hover{ color:#ffaa9d; }
 
 .vi-red-20:visited{ color:#ffaa9d; }
+
+.pl-red-20::-webkit-input-placeholder{ color:#ffaa9d; }
+
+.pl-red-20:-ms-input-placeholder{ color:#ffaa9d; }
+
+.pl-red-20::placeholder{ color:#ffaa9d; }
 
 .red-30{ color:#ff806c; }
 
@@ -19749,6 +20517,12 @@ template{ display:none; }
 
 .vi-red-30:visited{ color:#ff806c; }
 
+.pl-red-30::-webkit-input-placeholder{ color:#ff806c; }
+
+.pl-red-30:-ms-input-placeholder{ color:#ff806c; }
+
+.pl-red-30::placeholder{ color:#ff806c; }
+
 .red-40{ color:#ff5c49; }
 
 .ac-red-40:active{ color:#ff5c49; }
@@ -19758,6 +20532,12 @@ template{ display:none; }
 .ho-red-40:hover{ color:#ff5c49; }
 
 .vi-red-40:visited{ color:#ff5c49; }
+
+.pl-red-40::-webkit-input-placeholder{ color:#ff5c49; }
+
+.pl-red-40:-ms-input-placeholder{ color:#ff5c49; }
+
+.pl-red-40::placeholder{ color:#ff5c49; }
 
 .red-50{ color:#e62325; }
 
@@ -19769,6 +20549,12 @@ template{ display:none; }
 
 .vi-red-50:visited{ color:#e62325; }
 
+.pl-red-50::-webkit-input-placeholder{ color:#e62325; }
+
+.pl-red-50:-ms-input-placeholder{ color:#e62325; }
+
+.pl-red-50::placeholder{ color:#e62325; }
+
 .red-60{ color:#aa231f; }
 
 .ac-red-60:active{ color:#aa231f; }
@@ -19778,6 +20564,12 @@ template{ display:none; }
 .ho-red-60:hover{ color:#aa231f; }
 
 .vi-red-60:visited{ color:#aa231f; }
+
+.pl-red-60::-webkit-input-placeholder{ color:#aa231f; }
+
+.pl-red-60:-ms-input-placeholder{ color:#aa231f; }
+
+.pl-red-60::placeholder{ color:#aa231f; }
 
 .red-70{ color:#83231e; }
 
@@ -19789,6 +20581,12 @@ template{ display:none; }
 
 .vi-red-70:visited{ color:#83231e; }
 
+.pl-red-70::-webkit-input-placeholder{ color:#83231e; }
+
+.pl-red-70:-ms-input-placeholder{ color:#83231e; }
+
+.pl-red-70::placeholder{ color:#83231e; }
+
 .red-80{ color:#5c1f1b; }
 
 .ac-red-80:active{ color:#5c1f1b; }
@@ -19798,6 +20596,12 @@ template{ display:none; }
 .ho-red-80:hover{ color:#5c1f1b; }
 
 .vi-red-80:visited{ color:#5c1f1b; }
+
+.pl-red-80::-webkit-input-placeholder{ color:#5c1f1b; }
+
+.pl-red-80:-ms-input-placeholder{ color:#5c1f1b; }
+
+.pl-red-80::placeholder{ color:#5c1f1b; }
 
 .red-90{ color:#3e1d1b; }
 
@@ -19809,6 +20613,12 @@ template{ display:none; }
 
 .vi-red-90:visited{ color:#3e1d1b; }
 
+.pl-red-90::-webkit-input-placeholder{ color:#3e1d1b; }
+
+.pl-red-90:-ms-input-placeholder{ color:#3e1d1b; }
+
+.pl-red-90::placeholder{ color:#3e1d1b; }
+
 .magenta-1{ color:#f5e7eb; }
 
 .ac-magenta-1:active{ color:#f5e7eb; }
@@ -19818,6 +20628,12 @@ template{ display:none; }
 .ho-magenta-1:hover{ color:#f5e7eb; }
 
 .vi-magenta-1:visited{ color:#f5e7eb; }
+
+.pl-magenta-1::-webkit-input-placeholder{ color:#f5e7eb; }
+
+.pl-magenta-1:-ms-input-placeholder{ color:#f5e7eb; }
+
+.pl-magenta-1::placeholder{ color:#f5e7eb; }
 
 .magenta-10{ color:#f5cedb; }
 
@@ -19829,6 +20645,12 @@ template{ display:none; }
 
 .vi-magenta-10:visited{ color:#f5cedb; }
 
+.pl-magenta-10::-webkit-input-placeholder{ color:#f5cedb; }
+
+.pl-magenta-10:-ms-input-placeholder{ color:#f5cedb; }
+
+.pl-magenta-10::placeholder{ color:#f5cedb; }
+
 .magenta-20{ color:#f7aac3; }
 
 .ac-magenta-20:active{ color:#f7aac3; }
@@ -19838,6 +20660,12 @@ template{ display:none; }
 .ho-magenta-20:hover{ color:#f7aac3; }
 
 .vi-magenta-20:visited{ color:#f7aac3; }
+
+.pl-magenta-20::-webkit-input-placeholder{ color:#f7aac3; }
+
+.pl-magenta-20:-ms-input-placeholder{ color:#f7aac3; }
+
+.pl-magenta-20::placeholder{ color:#f7aac3; }
 
 .magenta-30{ color:#f87eac; }
 
@@ -19849,6 +20677,12 @@ template{ display:none; }
 
 .vi-magenta-30:visited{ color:#f87eac; }
 
+.pl-magenta-30::-webkit-input-placeholder{ color:#f87eac; }
+
+.pl-magenta-30:-ms-input-placeholder{ color:#f87eac; }
+
+.pl-magenta-30::placeholder{ color:#f87eac; }
+
 .magenta-40{ color:#ff509e; }
 
 .ac-magenta-40:active{ color:#ff509e; }
@@ -19858,6 +20692,12 @@ template{ display:none; }
 .ho-magenta-40:hover{ color:#ff509e; }
 
 .vi-magenta-40:visited{ color:#ff509e; }
+
+.pl-magenta-40::-webkit-input-placeholder{ color:#ff509e; }
+
+.pl-magenta-40:-ms-input-placeholder{ color:#ff509e; }
+
+.pl-magenta-40::placeholder{ color:#ff509e; }
 
 .magenta-50{ color:#dc267f; }
 
@@ -19869,6 +20709,12 @@ template{ display:none; }
 
 .vi-magenta-50:visited{ color:#dc267f; }
 
+.pl-magenta-50::-webkit-input-placeholder{ color:#dc267f; }
+
+.pl-magenta-50:-ms-input-placeholder{ color:#dc267f; }
+
+.pl-magenta-50::placeholder{ color:#dc267f; }
+
 .magenta-60{ color:#a91560; }
 
 .ac-magenta-60:active{ color:#a91560; }
@@ -19878,6 +20724,12 @@ template{ display:none; }
 .ho-magenta-60:hover{ color:#a91560; }
 
 .vi-magenta-60:visited{ color:#a91560; }
+
+.pl-magenta-60::-webkit-input-placeholder{ color:#a91560; }
+
+.pl-magenta-60:-ms-input-placeholder{ color:#a91560; }
+
+.pl-magenta-60::placeholder{ color:#a91560; }
 
 .magenta-70{ color:#831b4c; }
 
@@ -19889,6 +20741,12 @@ template{ display:none; }
 
 .vi-magenta-70:visited{ color:#831b4c; }
 
+.pl-magenta-70::-webkit-input-placeholder{ color:#831b4c; }
+
+.pl-magenta-70:-ms-input-placeholder{ color:#831b4c; }
+
+.pl-magenta-70::placeholder{ color:#831b4c; }
+
 .magenta-80{ color:#5d1a38; }
 
 .ac-magenta-80:active{ color:#5d1a38; }
@@ -19898,6 +20756,12 @@ template{ display:none; }
 .ho-magenta-80:hover{ color:#5d1a38; }
 
 .vi-magenta-80:visited{ color:#5d1a38; }
+
+.pl-magenta-80::-webkit-input-placeholder{ color:#5d1a38; }
+
+.pl-magenta-80:-ms-input-placeholder{ color:#5d1a38; }
+
+.pl-magenta-80::placeholder{ color:#5d1a38; }
 
 .magenta-90{ color:#401a29; }
 
@@ -19909,6 +20773,12 @@ template{ display:none; }
 
 .vi-magenta-90:visited{ color:#401a29; }
 
+.pl-magenta-90::-webkit-input-placeholder{ color:#401a29; }
+
+.pl-magenta-90:-ms-input-placeholder{ color:#401a29; }
+
+.pl-magenta-90::placeholder{ color:#401a29; }
+
 .purple-1{ color:#f7e4fb; }
 
 .ac-purple-1:active{ color:#f7e4fb; }
@@ -19918,6 +20788,12 @@ template{ display:none; }
 .ho-purple-1:hover{ color:#f7e4fb; }
 
 .vi-purple-1:visited{ color:#f7e4fb; }
+
+.pl-purple-1::-webkit-input-placeholder{ color:#f7e4fb; }
+
+.pl-purple-1:-ms-input-placeholder{ color:#f7e4fb; }
+
+.pl-purple-1::placeholder{ color:#f7e4fb; }
 
 .purple-10{ color:#efcef3; }
 
@@ -19929,6 +20805,12 @@ template{ display:none; }
 
 .vi-purple-10:visited{ color:#efcef3; }
 
+.pl-purple-10::-webkit-input-placeholder{ color:#efcef3; }
+
+.pl-purple-10:-ms-input-placeholder{ color:#efcef3; }
+
+.pl-purple-10::placeholder{ color:#efcef3; }
+
 .purple-20{ color:#e4adea; }
 
 .ac-purple-20:active{ color:#e4adea; }
@@ -19938,6 +20820,12 @@ template{ display:none; }
 .ho-purple-20:hover{ color:#e4adea; }
 
 .vi-purple-20:visited{ color:#e4adea; }
+
+.pl-purple-20::-webkit-input-placeholder{ color:#e4adea; }
+
+.pl-purple-20:-ms-input-placeholder{ color:#e4adea; }
+
+.pl-purple-20::placeholder{ color:#e4adea; }
 
 .purple-30{ color:#d68adf; }
 
@@ -19949,6 +20837,12 @@ template{ display:none; }
 
 .vi-purple-30:visited{ color:#d68adf; }
 
+.pl-purple-30::-webkit-input-placeholder{ color:#d68adf; }
+
+.pl-purple-30:-ms-input-placeholder{ color:#d68adf; }
+
+.pl-purple-30::placeholder{ color:#d68adf; }
+
 .purple-40{ color:#cb71d7; }
 
 .ac-purple-40:active{ color:#cb71d7; }
@@ -19958,6 +20852,12 @@ template{ display:none; }
 .ho-purple-40:hover{ color:#cb71d7; }
 
 .vi-purple-40:visited{ color:#cb71d7; }
+
+.pl-purple-40::-webkit-input-placeholder{ color:#cb71d7; }
+
+.pl-purple-40:-ms-input-placeholder{ color:#cb71d7; }
+
+.pl-purple-40::placeholder{ color:#cb71d7; }
 
 .purple-50{ color:#c22dd5; }
 
@@ -19969,6 +20869,12 @@ template{ display:none; }
 
 .vi-purple-50:visited{ color:#c22dd5; }
 
+.pl-purple-50::-webkit-input-placeholder{ color:#c22dd5; }
+
+.pl-purple-50:-ms-input-placeholder{ color:#c22dd5; }
+
+.pl-purple-50::placeholder{ color:#c22dd5; }
+
 .purple-60{ color:#9320a2; }
 
 .ac-purple-60:active{ color:#9320a2; }
@@ -19978,6 +20884,12 @@ template{ display:none; }
 .ho-purple-60:hover{ color:#9320a2; }
 
 .vi-purple-60:visited{ color:#9320a2; }
+
+.pl-purple-60::-webkit-input-placeholder{ color:#9320a2; }
+
+.pl-purple-60:-ms-input-placeholder{ color:#9320a2; }
+
+.pl-purple-60::placeholder{ color:#9320a2; }
 
 .purple-70{ color:#71237c; }
 
@@ -19989,6 +20901,12 @@ template{ display:none; }
 
 .vi-purple-70:visited{ color:#71237c; }
 
+.pl-purple-70::-webkit-input-placeholder{ color:#71237c; }
+
+.pl-purple-70:-ms-input-placeholder{ color:#71237c; }
+
+.pl-purple-70::placeholder{ color:#71237c; }
+
 .purple-80{ color:#501e58; }
 
 .ac-purple-80:active{ color:#501e58; }
@@ -19998,6 +20916,12 @@ template{ display:none; }
 .ho-purple-80:hover{ color:#501e58; }
 
 .vi-purple-80:visited{ color:#501e58; }
+
+.pl-purple-80::-webkit-input-placeholder{ color:#501e58; }
+
+.pl-purple-80:-ms-input-placeholder{ color:#501e58; }
+
+.pl-purple-80::placeholder{ color:#501e58; }
 
 .purple-90{ color:#3b1a40; }
 
@@ -20009,6 +20933,12 @@ template{ display:none; }
 
 .vi-purple-90:visited{ color:#3b1a40; }
 
+.pl-purple-90::-webkit-input-placeholder{ color:#3b1a40; }
+
+.pl-purple-90:-ms-input-placeholder{ color:#3b1a40; }
+
+.pl-purple-90::placeholder{ color:#3b1a40; }
+
 .violet-1{ color:#ece8f5; }
 
 .ac-violet-1:active{ color:#ece8f5; }
@@ -20018,6 +20948,12 @@ template{ display:none; }
 .ho-violet-1:hover{ color:#ece8f5; }
 
 .vi-violet-1:visited{ color:#ece8f5; }
+
+.pl-violet-1::-webkit-input-placeholder{ color:#ece8f5; }
+
+.pl-violet-1:-ms-input-placeholder{ color:#ece8f5; }
+
+.pl-violet-1::placeholder{ color:#ece8f5; }
 
 .violet-10{ color:#e2d2f4; }
 
@@ -20029,6 +20965,12 @@ template{ display:none; }
 
 .vi-violet-10:visited{ color:#e2d2f4; }
 
+.pl-violet-10::-webkit-input-placeholder{ color:#e2d2f4; }
+
+.pl-violet-10:-ms-input-placeholder{ color:#e2d2f4; }
+
+.pl-violet-10::placeholder{ color:#e2d2f4; }
+
 .violet-20{ color:#d2b5f0; }
 
 .ac-violet-20:active{ color:#d2b5f0; }
@@ -20038,6 +20980,12 @@ template{ display:none; }
 .ho-violet-20:hover{ color:#d2b5f0; }
 
 .vi-violet-20:visited{ color:#d2b5f0; }
+
+.pl-violet-20::-webkit-input-placeholder{ color:#d2b5f0; }
+
+.pl-violet-20:-ms-input-placeholder{ color:#d2b5f0; }
+
+.pl-violet-20::placeholder{ color:#d2b5f0; }
 
 .violet-30{ color:#bf93eb; }
 
@@ -20049,6 +20997,12 @@ template{ display:none; }
 
 .vi-violet-30:visited{ color:#bf93eb; }
 
+.pl-violet-30::-webkit-input-placeholder{ color:#bf93eb; }
+
+.pl-violet-30:-ms-input-placeholder{ color:#bf93eb; }
+
+.pl-violet-30::placeholder{ color:#bf93eb; }
+
 .violet-40{ color:#b07ce8; }
 
 .ac-violet-40:active{ color:#b07ce8; }
@@ -20058,6 +21012,12 @@ template{ display:none; }
 .ho-violet-40:hover{ color:#b07ce8; }
 
 .vi-violet-40:visited{ color:#b07ce8; }
+
+.pl-violet-40::-webkit-input-placeholder{ color:#b07ce8; }
+
+.pl-violet-40:-ms-input-placeholder{ color:#b07ce8; }
+
+.pl-violet-40::placeholder{ color:#b07ce8; }
 
 .violet-50{ color:#9753e1; }
 
@@ -20069,6 +21029,12 @@ template{ display:none; }
 
 .vi-violet-50:visited{ color:#9753e1; }
 
+.pl-violet-50::-webkit-input-placeholder{ color:#9753e1; }
+
+.pl-violet-50:-ms-input-placeholder{ color:#9753e1; }
+
+.pl-violet-50::placeholder{ color:#9753e1; }
+
 .violet-60{ color:#7732bb; }
 
 .ac-violet-60:active{ color:#7732bb; }
@@ -20078,6 +21044,12 @@ template{ display:none; }
 .ho-violet-60:hover{ color:#7732bb; }
 
 .vi-violet-60:visited{ color:#7732bb; }
+
+.pl-violet-60::-webkit-input-placeholder{ color:#7732bb; }
+
+.pl-violet-60:-ms-input-placeholder{ color:#7732bb; }
+
+.pl-violet-60::placeholder{ color:#7732bb; }
 
 .violet-70{ color:#602797; }
 
@@ -20089,6 +21061,12 @@ template{ display:none; }
 
 .vi-violet-70:visited{ color:#602797; }
 
+.pl-violet-70::-webkit-input-placeholder{ color:#602797; }
+
+.pl-violet-70:-ms-input-placeholder{ color:#602797; }
+
+.pl-violet-70::placeholder{ color:#602797; }
+
 .violet-80{ color:#44216a; }
 
 .ac-violet-80:active{ color:#44216a; }
@@ -20098,6 +21076,12 @@ template{ display:none; }
 .ho-violet-80:hover{ color:#44216a; }
 
 .vi-violet-80:visited{ color:#44216a; }
+
+.pl-violet-80::-webkit-input-placeholder{ color:#44216a; }
+
+.pl-violet-80:-ms-input-placeholder{ color:#44216a; }
+
+.pl-violet-80::placeholder{ color:#44216a; }
 
 .violet-90{ color:#321c4c; }
 
@@ -20109,6 +21093,12 @@ template{ display:none; }
 
 .vi-violet-90:visited{ color:#321c4c; }
 
+.pl-violet-90::-webkit-input-placeholder{ color:#321c4c; }
+
+.pl-violet-90:-ms-input-placeholder{ color:#321c4c; }
+
+.pl-violet-90::placeholder{ color:#321c4c; }
+
 .indigo-1{ color:#e9e8ff; }
 
 .ac-indigo-1:active{ color:#e9e8ff; }
@@ -20118,6 +21108,12 @@ template{ display:none; }
 .ho-indigo-1:hover{ color:#e9e8ff; }
 
 .vi-indigo-1:visited{ color:#e9e8ff; }
+
+.pl-indigo-1::-webkit-input-placeholder{ color:#e9e8ff; }
+
+.pl-indigo-1:-ms-input-placeholder{ color:#e9e8ff; }
+
+.pl-indigo-1::placeholder{ color:#e9e8ff; }
 
 .indigo-10{ color:#dcd4f7; }
 
@@ -20129,6 +21125,12 @@ template{ display:none; }
 
 .vi-indigo-10:visited{ color:#dcd4f7; }
 
+.pl-indigo-10::-webkit-input-placeholder{ color:#dcd4f7; }
+
+.pl-indigo-10:-ms-input-placeholder{ color:#dcd4f7; }
+
+.pl-indigo-10::placeholder{ color:#dcd4f7; }
+
 .indigo-20{ color:#c7b6f7; }
 
 .ac-indigo-20:active{ color:#c7b6f7; }
@@ -20138,6 +21140,12 @@ template{ display:none; }
 .ho-indigo-20:hover{ color:#c7b6f7; }
 
 .vi-indigo-20:visited{ color:#c7b6f7; }
+
+.pl-indigo-20::-webkit-input-placeholder{ color:#c7b6f7; }
+
+.pl-indigo-20:-ms-input-placeholder{ color:#c7b6f7; }
+
+.pl-indigo-20::placeholder{ color:#c7b6f7; }
 
 .indigo-30{ color:#ae97f4; }
 
@@ -20149,6 +21157,12 @@ template{ display:none; }
 
 .vi-indigo-30:visited{ color:#ae97f4; }
 
+.pl-indigo-30::-webkit-input-placeholder{ color:#ae97f4; }
+
+.pl-indigo-30:-ms-input-placeholder{ color:#ae97f4; }
+
+.pl-indigo-30::placeholder{ color:#ae97f4; }
+
 .indigo-40{ color:#9b82f3; }
 
 .ac-indigo-40:active{ color:#9b82f3; }
@@ -20158,6 +21172,12 @@ template{ display:none; }
 .ho-indigo-40:hover{ color:#9b82f3; }
 
 .vi-indigo-40:visited{ color:#9b82f3; }
+
+.pl-indigo-40::-webkit-input-placeholder{ color:#9b82f3; }
+
+.pl-indigo-40:-ms-input-placeholder{ color:#9b82f3; }
+
+.pl-indigo-40::placeholder{ color:#9b82f3; }
 
 .indigo-50{ color:#785ef0; }
 
@@ -20169,6 +21189,12 @@ template{ display:none; }
 
 .vi-indigo-50:visited{ color:#785ef0; }
 
+.pl-indigo-50::-webkit-input-placeholder{ color:#785ef0; }
+
+.pl-indigo-50:-ms-input-placeholder{ color:#785ef0; }
+
+.pl-indigo-50::placeholder{ color:#785ef0; }
+
 .indigo-60{ color:#5a3ec8; }
 
 .ac-indigo-60:active{ color:#5a3ec8; }
@@ -20178,6 +21204,12 @@ template{ display:none; }
 .ho-indigo-60:hover{ color:#5a3ec8; }
 
 .vi-indigo-60:visited{ color:#5a3ec8; }
+
+.pl-indigo-60::-webkit-input-placeholder{ color:#5a3ec8; }
+
+.pl-indigo-60:-ms-input-placeholder{ color:#5a3ec8; }
+
+.pl-indigo-60::placeholder{ color:#5a3ec8; }
 
 .indigo-70{ color:#473793; }
 
@@ -20189,6 +21221,12 @@ template{ display:none; }
 
 .vi-indigo-70:visited{ color:#473793; }
 
+.pl-indigo-70::-webkit-input-placeholder{ color:#473793; }
+
+.pl-indigo-70:-ms-input-placeholder{ color:#473793; }
+
+.pl-indigo-70::placeholder{ color:#473793; }
+
 .indigo-80{ color:#352969; }
 
 .ac-indigo-80:active{ color:#352969; }
@@ -20198,6 +21236,12 @@ template{ display:none; }
 .ho-indigo-80:hover{ color:#352969; }
 
 .vi-indigo-80:visited{ color:#352969; }
+
+.pl-indigo-80::-webkit-input-placeholder{ color:#352969; }
+
+.pl-indigo-80:-ms-input-placeholder{ color:#352969; }
+
+.pl-indigo-80::placeholder{ color:#352969; }
 
 .indigo-90{ color:#272149; }
 
@@ -20209,6 +21253,12 @@ template{ display:none; }
 
 .vi-indigo-90:visited{ color:#272149; }
 
+.pl-indigo-90::-webkit-input-placeholder{ color:#272149; }
+
+.pl-indigo-90:-ms-input-placeholder{ color:#272149; }
+
+.pl-indigo-90::placeholder{ color:#272149; }
+
 .gray-1{ color:#eaeaea; }
 
 .ac-gray-1:active{ color:#eaeaea; }
@@ -20218,6 +21268,12 @@ template{ display:none; }
 .ho-gray-1:hover{ color:#eaeaea; }
 
 .vi-gray-1:visited{ color:#eaeaea; }
+
+.pl-gray-1::-webkit-input-placeholder{ color:#eaeaea; }
+
+.pl-gray-1:-ms-input-placeholder{ color:#eaeaea; }
+
+.pl-gray-1::placeholder{ color:#eaeaea; }
 
 .gray-10{ color:#d8d8d8; }
 
@@ -20229,6 +21285,12 @@ template{ display:none; }
 
 .vi-gray-10:visited{ color:#d8d8d8; }
 
+.pl-gray-10::-webkit-input-placeholder{ color:#d8d8d8; }
+
+.pl-gray-10:-ms-input-placeholder{ color:#d8d8d8; }
+
+.pl-gray-10::placeholder{ color:#d8d8d8; }
+
 .gray-20{ color:#c0bfc0; }
 
 .ac-gray-20:active{ color:#c0bfc0; }
@@ -20238,6 +21300,12 @@ template{ display:none; }
 .ho-gray-20:hover{ color:#c0bfc0; }
 
 .vi-gray-20:visited{ color:#c0bfc0; }
+
+.pl-gray-20::-webkit-input-placeholder{ color:#c0bfc0; }
+
+.pl-gray-20:-ms-input-placeholder{ color:#c0bfc0; }
+
+.pl-gray-20::placeholder{ color:#c0bfc0; }
 
 .gray-30{ color:#a6a5a6; }
 
@@ -20249,6 +21317,12 @@ template{ display:none; }
 
 .vi-gray-30:visited{ color:#a6a5a6; }
 
+.pl-gray-30::-webkit-input-placeholder, [type=text]::-webkit-input-placeholder, [type=password]::-webkit-input-placeholder, [type=url]::-webkit-input-placeholder, [type=email]::-webkit-input-placeholder, [type=number]::-webkit-input-placeholder, textarea::-webkit-input-placeholder, select::-webkit-input-placeholder{ color:#a6a5a6; }
+
+.pl-gray-30:-ms-input-placeholder, [type=text]:-ms-input-placeholder, [type=password]:-ms-input-placeholder, [type=url]:-ms-input-placeholder, [type=email]:-ms-input-placeholder, [type=number]:-ms-input-placeholder, textarea:-ms-input-placeholder, select:-ms-input-placeholder{ color:#a6a5a6; }
+
+.pl-gray-30::placeholder, [type=text]::placeholder, [type=password]::placeholder, [type=url]::placeholder, [type=email]::placeholder, [type=number]::placeholder, textarea::placeholder, select::placeholder{ color:#a6a5a6; }
+
 .gray-40{ color:#949394; }
 
 .ac-gray-40:active{ color:#949394; }
@@ -20258,6 +21332,12 @@ template{ display:none; }
 .ho-gray-40:hover{ color:#949394; }
 
 .vi-gray-40:visited{ color:#949394; }
+
+.pl-gray-40::-webkit-input-placeholder{ color:#949394; }
+
+.pl-gray-40:-ms-input-placeholder{ color:#949394; }
+
+.pl-gray-40::placeholder{ color:#949394; }
 
 .gray-50{ color:#777677; }
 
@@ -20269,6 +21349,12 @@ template{ display:none; }
 
 .vi-gray-50:visited{ color:#777677; }
 
+.pl-gray-50::-webkit-input-placeholder{ color:#777677; }
+
+.pl-gray-50:-ms-input-placeholder{ color:#777677; }
+
+.pl-gray-50::placeholder{ color:#777677; }
+
 .gray-60{ color:#595859; }
 
 .ac-gray-60:active{ color:#595859; }
@@ -20278,6 +21364,12 @@ template{ display:none; }
 .ho-gray-60:hover{ color:#595859; }
 
 .vi-gray-60:visited{ color:#595859; }
+
+.pl-gray-60::-webkit-input-placeholder{ color:#595859; }
+
+.pl-gray-60:-ms-input-placeholder{ color:#595859; }
+
+.pl-gray-60::placeholder{ color:#595859; }
 
 .gray-70{ color:#464646; }
 
@@ -20289,6 +21381,12 @@ template{ display:none; }
 
 .vi-gray-70:visited{ color:#464646; }
 
+.pl-gray-70::-webkit-input-placeholder{ color:#464646; }
+
+.pl-gray-70:-ms-input-placeholder{ color:#464646; }
+
+.pl-gray-70::placeholder{ color:#464646; }
+
 .gray-80{ color:#343334; }
 
 .ac-gray-80:active{ color:#343334; }
@@ -20298,6 +21396,12 @@ template{ display:none; }
 .ho-gray-80:hover{ color:#343334; }
 
 .vi-gray-80:visited{ color:#343334; }
+
+.pl-gray-80::-webkit-input-placeholder{ color:#343334; }
+
+.pl-gray-80:-ms-input-placeholder{ color:#343334; }
+
+.pl-gray-80::placeholder{ color:#343334; }
 
 .gray-90{ color:#272727; }
 
@@ -20309,6 +21413,12 @@ template{ display:none; }
 
 .vi-gray-90:visited{ color:#272727; }
 
+.pl-gray-90::-webkit-input-placeholder{ color:#272727; }
+
+.pl-gray-90:-ms-input-placeholder{ color:#272727; }
+
+.pl-gray-90::placeholder{ color:#272727; }
+
 .cool-gray-1{ color:#e3ecec; }
 
 .ac-cool-gray-1:active{ color:#e3ecec; }
@@ -20318,6 +21428,12 @@ template{ display:none; }
 .ho-cool-gray-1:hover{ color:#e3ecec; }
 
 .vi-cool-gray-1:visited{ color:#e3ecec; }
+
+.pl-cool-gray-1::-webkit-input-placeholder{ color:#e3ecec; }
+
+.pl-cool-gray-1:-ms-input-placeholder{ color:#e3ecec; }
+
+.pl-cool-gray-1::placeholder{ color:#e3ecec; }
 
 .cool-gray-10{ color:#d0dada; }
 
@@ -20329,6 +21445,12 @@ template{ display:none; }
 
 .vi-cool-gray-10:visited{ color:#d0dada; }
 
+.pl-cool-gray-10::-webkit-input-placeholder{ color:#d0dada; }
+
+.pl-cool-gray-10:-ms-input-placeholder{ color:#d0dada; }
+
+.pl-cool-gray-10::placeholder{ color:#d0dada; }
+
 .cool-gray-20{ color:#b8c1c1; }
 
 .ac-cool-gray-20:active{ color:#b8c1c1; }
@@ -20338,6 +21460,12 @@ template{ display:none; }
 .ho-cool-gray-20:hover{ color:#b8c1c1; }
 
 .vi-cool-gray-20:visited{ color:#b8c1c1; }
+
+.pl-cool-gray-20::-webkit-input-placeholder{ color:#b8c1c1; }
+
+.pl-cool-gray-20:-ms-input-placeholder{ color:#b8c1c1; }
+
+.pl-cool-gray-20::placeholder{ color:#b8c1c1; }
 
 .cool-gray-30{ color:#9fa7a7; }
 
@@ -20349,6 +21477,12 @@ template{ display:none; }
 
 .vi-cool-gray-30:visited{ color:#9fa7a7; }
 
+.pl-cool-gray-30::-webkit-input-placeholder{ color:#9fa7a7; }
+
+.pl-cool-gray-30:-ms-input-placeholder{ color:#9fa7a7; }
+
+.pl-cool-gray-30::placeholder{ color:#9fa7a7; }
+
 .cool-gray-40{ color:#8c9696; }
 
 .ac-cool-gray-40:active{ color:#8c9696; }
@@ -20358,6 +21492,12 @@ template{ display:none; }
 .ho-cool-gray-40:hover{ color:#8c9696; }
 
 .vi-cool-gray-40:visited{ color:#8c9696; }
+
+.pl-cool-gray-40::-webkit-input-placeholder{ color:#8c9696; }
+
+.pl-cool-gray-40:-ms-input-placeholder{ color:#8c9696; }
+
+.pl-cool-gray-40::placeholder{ color:#8c9696; }
 
 .cool-gray-50{ color:#6f7878; }
 
@@ -20369,6 +21509,12 @@ template{ display:none; }
 
 .vi-cool-gray-50:visited{ color:#6f7878; }
 
+.pl-cool-gray-50::-webkit-input-placeholder{ color:#6f7878; }
+
+.pl-cool-gray-50:-ms-input-placeholder{ color:#6f7878; }
+
+.pl-cool-gray-50::placeholder{ color:#6f7878; }
+
 .cool-gray-60{ color:#535a5a; }
 
 .ac-cool-gray-60:active{ color:#535a5a; }
@@ -20378,6 +21524,12 @@ template{ display:none; }
 .ho-cool-gray-60:hover{ color:#535a5a; }
 
 .vi-cool-gray-60:visited{ color:#535a5a; }
+
+.pl-cool-gray-60::-webkit-input-placeholder{ color:#535a5a; }
+
+.pl-cool-gray-60:-ms-input-placeholder{ color:#535a5a; }
+
+.pl-cool-gray-60::placeholder{ color:#535a5a; }
 
 .cool-gray-70{ color:#424747; }
 
@@ -20389,6 +21541,12 @@ template{ display:none; }
 
 .vi-cool-gray-70:visited{ color:#424747; }
 
+.pl-cool-gray-70::-webkit-input-placeholder{ color:#424747; }
+
+.pl-cool-gray-70:-ms-input-placeholder{ color:#424747; }
+
+.pl-cool-gray-70::placeholder{ color:#424747; }
+
 .cool-gray-80{ color:#343334; }
 
 .ac-cool-gray-80:active{ color:#343334; }
@@ -20398,6 +21556,12 @@ template{ display:none; }
 .ho-cool-gray-80:hover{ color:#343334; }
 
 .vi-cool-gray-80:visited{ color:#343334; }
+
+.pl-cool-gray-80::-webkit-input-placeholder{ color:#343334; }
+
+.pl-cool-gray-80:-ms-input-placeholder{ color:#343334; }
+
+.pl-cool-gray-80::placeholder{ color:#343334; }
 
 .cool-gray-90{ color:#272727; }
 
@@ -20409,6 +21573,12 @@ template{ display:none; }
 
 .vi-cool-gray-90:visited{ color:#272727; }
 
+.pl-cool-gray-90::-webkit-input-placeholder{ color:#272727; }
+
+.pl-cool-gray-90:-ms-input-placeholder{ color:#272727; }
+
+.pl-cool-gray-90::placeholder{ color:#272727; }
+
 .warm-gray-1{ color:#efe9e9; }
 
 .ac-warm-gray-1:active{ color:#efe9e9; }
@@ -20418,6 +21588,12 @@ template{ display:none; }
 .ho-warm-gray-1:hover{ color:#efe9e9; }
 
 .vi-warm-gray-1:visited{ color:#efe9e9; }
+
+.pl-warm-gray-1::-webkit-input-placeholder{ color:#efe9e9; }
+
+.pl-warm-gray-1:-ms-input-placeholder{ color:#efe9e9; }
+
+.pl-warm-gray-1::placeholder{ color:#efe9e9; }
 
 .warm-gray-10{ color:#e2d5d5; }
 
@@ -20429,6 +21605,12 @@ template{ display:none; }
 
 .vi-warm-gray-10:visited{ color:#e2d5d5; }
 
+.pl-warm-gray-10::-webkit-input-placeholder{ color:#e2d5d5; }
+
+.pl-warm-gray-10:-ms-input-placeholder{ color:#e2d5d5; }
+
+.pl-warm-gray-10::placeholder{ color:#e2d5d5; }
+
 .warm-gray-20{ color:#ccbcbc; }
 
 .ac-warm-gray-20:active{ color:#ccbcbc; }
@@ -20438,6 +21620,12 @@ template{ display:none; }
 .ho-warm-gray-20:hover{ color:#ccbcbc; }
 
 .vi-warm-gray-20:visited{ color:#ccbcbc; }
+
+.pl-warm-gray-20::-webkit-input-placeholder{ color:#ccbcbc; }
+
+.pl-warm-gray-20:-ms-input-placeholder{ color:#ccbcbc; }
+
+.pl-warm-gray-20::placeholder{ color:#ccbcbc; }
 
 .warm-gray-30{ color:#b4a1a1; }
 
@@ -20449,6 +21637,12 @@ template{ display:none; }
 
 .vi-warm-gray-30:visited{ color:#b4a1a1; }
 
+.pl-warm-gray-30::-webkit-input-placeholder{ color:#b4a1a1; }
+
+.pl-warm-gray-30:-ms-input-placeholder{ color:#b4a1a1; }
+
+.pl-warm-gray-30::placeholder{ color:#b4a1a1; }
+
 .warm-gray-40{ color:#9e9191; }
 
 .ac-warm-gray-40:active{ color:#9e9191; }
@@ -20458,6 +21652,12 @@ template{ display:none; }
 .ho-warm-gray-40:hover{ color:#9e9191; }
 
 .vi-warm-gray-40:visited{ color:#9e9191; }
+
+.pl-warm-gray-40::-webkit-input-placeholder{ color:#9e9191; }
+
+.pl-warm-gray-40:-ms-input-placeholder{ color:#9e9191; }
+
+.pl-warm-gray-40::placeholder{ color:#9e9191; }
 
 .warm-gray-50{ color:#7d7373; }
 
@@ -20469,6 +21669,12 @@ template{ display:none; }
 
 .vi-warm-gray-50:visited{ color:#7d7373; }
 
+.pl-warm-gray-50::-webkit-input-placeholder{ color:#7d7373; }
+
+.pl-warm-gray-50:-ms-input-placeholder{ color:#7d7373; }
+
+.pl-warm-gray-50::placeholder{ color:#7d7373; }
+
 .warm-gray-60{ color:#5f5757; }
 
 .ac-warm-gray-60:active{ color:#5f5757; }
@@ -20478,6 +21684,12 @@ template{ display:none; }
 .ho-warm-gray-60:hover{ color:#5f5757; }
 
 .vi-warm-gray-60:visited{ color:#5f5757; }
+
+.pl-warm-gray-60::-webkit-input-placeholder{ color:#5f5757; }
+
+.pl-warm-gray-60:-ms-input-placeholder{ color:#5f5757; }
+
+.pl-warm-gray-60::placeholder{ color:#5f5757; }
 
 .warm-gray-70{ color:#4b4545; }
 
@@ -20489,6 +21701,12 @@ template{ display:none; }
 
 .vi-warm-gray-70:visited{ color:#4b4545; }
 
+.pl-warm-gray-70::-webkit-input-placeholder{ color:#4b4545; }
+
+.pl-warm-gray-70:-ms-input-placeholder{ color:#4b4545; }
+
+.pl-warm-gray-70::placeholder{ color:#4b4545; }
+
 .warm-gray-80{ color:#373232; }
 
 .ac-warm-gray-80:active{ color:#373232; }
@@ -20498,6 +21716,12 @@ template{ display:none; }
 .ho-warm-gray-80:hover{ color:#373232; }
 
 .vi-warm-gray-80:visited{ color:#373232; }
+
+.pl-warm-gray-80::-webkit-input-placeholder{ color:#373232; }
+
+.pl-warm-gray-80:-ms-input-placeholder{ color:#373232; }
+
+.pl-warm-gray-80::placeholder{ color:#373232; }
 
 .warm-gray-90{ color:#2a2626; }
 
@@ -20509,6 +21733,12 @@ template{ display:none; }
 
 .vi-warm-gray-90:visited{ color:#2a2626; }
 
+.pl-warm-gray-90::-webkit-input-placeholder{ color:#2a2626; }
+
+.pl-warm-gray-90:-ms-input-placeholder{ color:#2a2626; }
+
+.pl-warm-gray-90::placeholder{ color:#2a2626; }
+
 .neutral-white-1{ color:#fcfcfc; }
 
 .ac-neutral-white-1:active{ color:#fcfcfc; }
@@ -20518,6 +21748,12 @@ template{ display:none; }
 .ho-neutral-white-1:hover{ color:#fcfcfc; }
 
 .vi-neutral-white-1:visited{ color:#fcfcfc; }
+
+.pl-neutral-white-1::-webkit-input-placeholder{ color:#fcfcfc; }
+
+.pl-neutral-white-1:-ms-input-placeholder{ color:#fcfcfc; }
+
+.pl-neutral-white-1::placeholder{ color:#fcfcfc; }
 
 .neutral-white-2{ color:#f9f9f9; }
 
@@ -20529,6 +21765,12 @@ template{ display:none; }
 
 .vi-neutral-white-2:visited{ color:#f9f9f9; }
 
+.pl-neutral-white-2::-webkit-input-placeholder{ color:#f9f9f9; }
+
+.pl-neutral-white-2:-ms-input-placeholder{ color:#f9f9f9; }
+
+.pl-neutral-white-2::placeholder{ color:#f9f9f9; }
+
 .neutral-white-3{ color:#f6f6f6; }
 
 .ac-neutral-white-3:active{ color:#f6f6f6; }
@@ -20538,6 +21780,12 @@ template{ display:none; }
 .ho-neutral-white-3:hover{ color:#f6f6f6; }
 
 .vi-neutral-white-3:visited{ color:#f6f6f6; }
+
+.pl-neutral-white-3::-webkit-input-placeholder{ color:#f6f6f6; }
+
+.pl-neutral-white-3:-ms-input-placeholder{ color:#f6f6f6; }
+
+.pl-neutral-white-3::placeholder{ color:#f6f6f6; }
 
 .neutral-white-4{ color:#f3f3f3; }
 
@@ -20549,6 +21797,12 @@ template{ display:none; }
 
 .vi-neutral-white-4:visited{ color:#f3f3f3; }
 
+.pl-neutral-white-4::-webkit-input-placeholder{ color:#f3f3f3; }
+
+.pl-neutral-white-4:-ms-input-placeholder{ color:#f3f3f3; }
+
+.pl-neutral-white-4::placeholder{ color:#f3f3f3; }
+
 .cool-white-1{ color:#fbfcfc; }
 
 .ac-cool-white-1:active{ color:#fbfcfc; }
@@ -20558,6 +21812,12 @@ template{ display:none; }
 .ho-cool-white-1:hover{ color:#fbfcfc; }
 
 .vi-cool-white-1:visited{ color:#fbfcfc; }
+
+.pl-cool-white-1::-webkit-input-placeholder{ color:#fbfcfc; }
+
+.pl-cool-white-1:-ms-input-placeholder{ color:#fbfcfc; }
+
+.pl-cool-white-1::placeholder{ color:#fbfcfc; }
 
 .cool-white-2{ color:#f8fafa; }
 
@@ -20569,6 +21829,12 @@ template{ display:none; }
 
 .vi-cool-white-2:visited{ color:#f8fafa; }
 
+.pl-cool-white-2::-webkit-input-placeholder{ color:#f8fafa; }
+
+.pl-cool-white-2:-ms-input-placeholder{ color:#f8fafa; }
+
+.pl-cool-white-2::placeholder{ color:#f8fafa; }
+
 .cool-white-3{ color:#f4f7f7; }
 
 .ac-cool-white-3:active{ color:#f4f7f7; }
@@ -20578,6 +21844,12 @@ template{ display:none; }
 .ho-cool-white-3:hover{ color:#f4f7f7; }
 
 .vi-cool-white-3:visited{ color:#f4f7f7; }
+
+.pl-cool-white-3::-webkit-input-placeholder{ color:#f4f7f7; }
+
+.pl-cool-white-3:-ms-input-placeholder{ color:#f4f7f7; }
+
+.pl-cool-white-3::placeholder{ color:#f4f7f7; }
 
 .cool-white-4{ color:#f0f4f4; }
 
@@ -20589,6 +21861,12 @@ template{ display:none; }
 
 .vi-cool-white-4:visited{ color:#f0f4f4; }
 
+.pl-cool-white-4::-webkit-input-placeholder{ color:#f0f4f4; }
+
+.pl-cool-white-4:-ms-input-placeholder{ color:#f0f4f4; }
+
+.pl-cool-white-4::placeholder{ color:#f0f4f4; }
+
 .warm-white-1{ color:#fdfcfc; }
 
 .ac-warm-white-1:active{ color:#fdfcfc; }
@@ -20598,6 +21876,12 @@ template{ display:none; }
 .ho-warm-white-1:hover{ color:#fdfcfc; }
 
 .vi-warm-white-1:visited{ color:#fdfcfc; }
+
+.pl-warm-white-1::-webkit-input-placeholder{ color:#fdfcfc; }
+
+.pl-warm-white-1:-ms-input-placeholder{ color:#fdfcfc; }
+
+.pl-warm-white-1::placeholder{ color:#fdfcfc; }
 
 .warm-white-2{ color:#fbf8f8; }
 
@@ -20609,6 +21893,12 @@ template{ display:none; }
 
 .vi-warm-white-2:visited{ color:#fbf8f8; }
 
+.pl-warm-white-2::-webkit-input-placeholder{ color:#fbf8f8; }
+
+.pl-warm-white-2:-ms-input-placeholder{ color:#fbf8f8; }
+
+.pl-warm-white-2::placeholder{ color:#fbf8f8; }
+
 .warm-white-3{ color:#f9f6f6; }
 
 .ac-warm-white-3:active{ color:#f9f6f6; }
@@ -20618,6 +21908,12 @@ template{ display:none; }
 .ho-warm-white-3:hover{ color:#f9f6f6; }
 
 .vi-warm-white-3:visited{ color:#f9f6f6; }
+
+.pl-warm-white-3::-webkit-input-placeholder{ color:#f9f6f6; }
+
+.pl-warm-white-3:-ms-input-placeholder{ color:#f9f6f6; }
+
+.pl-warm-white-3::placeholder{ color:#f9f6f6; }
 
 .warm-white-4{ color:#f6f3f3; }
 
@@ -20629,6 +21925,12 @@ template{ display:none; }
 
 .vi-warm-white-4:visited{ color:#f6f3f3; }
 
+.pl-warm-white-4::-webkit-input-placeholder{ color:#f6f3f3; }
+
+.pl-warm-white-4:-ms-input-placeholder{ color:#f6f3f3; }
+
+.pl-warm-white-4::placeholder{ color:#f6f3f3; }
+
 .black-100{ color:#000; }
 
 .ac-black-100:active{ color:#000; }
@@ -20639,6 +21941,12 @@ template{ display:none; }
 
 .vi-black-100:visited{ color:#000; }
 
+.pl-black-100::-webkit-input-placeholder{ color:#000; }
+
+.pl-black-100:-ms-input-placeholder{ color:#000; }
+
+.pl-black-100::placeholder{ color:#000; }
+
 .white-0{ color:#fff; }
 
 .ac-white-0:active{ color:#fff; }
@@ -20648,6 +21956,12 @@ template{ display:none; }
 .ho-white-0:hover{ color:#fff; }
 
 .vi-white-0:visited{ color:#fff; }
+
+.pl-white-0::-webkit-input-placeholder{ color:#fff; }
+
+.pl-white-0:-ms-input-placeholder{ color:#fff; }
+
+.pl-white-0::placeholder{ color:#fff; }
 
 .col{ -webkit-box-orient:vertical; -webkit-box-direction:normal; -ms-flex-direction:column; flex-direction:column; display:-webkit-box; display:-ms-flexbox; display:flex; }
 
@@ -20751,9 +22065,27 @@ template{ display:none; }
 
 .mono{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; }
 
+.pl-mono::-webkit-input-placeholder{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; }
+
+.pl-mono:-ms-input-placeholder{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; }
+
+.pl-mono::placeholder{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; }
+
 .sans{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
+.pl-sans::-webkit-input-placeholder{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+
+.pl-sans:-ms-input-placeholder{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+
+.pl-sans::placeholder{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+
 .serif{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; }
+
+.pl-serif::-webkit-input-placeholder{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; }
+
+.pl-serif:-ms-input-placeholder{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; }
+
+.pl-serif::placeholder{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; }
 
 .mono-s1{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:0.65789rem; }
 
@@ -20765,6 +22097,12 @@ template{ display:none; }
 
 .vi-mono-s1:visited{ font-size:0.65789rem; }
 
+.pl-mono-s1::-webkit-input-placeholder{ font-size:0.65789rem; }
+
+.pl-mono-s1:-ms-input-placeholder{ font-size:0.65789rem; }
+
+.pl-mono-s1::placeholder{ font-size:0.65789rem; }
+
 .mono-s2{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:0.74013rem; }
 
 .ac-mono-s2:active{ font-size:0.74013rem; }
@@ -20774,6 +22112,12 @@ template{ display:none; }
 .ho-mono-s2:hover{ font-size:0.74013rem; }
 
 .vi-mono-s2:visited{ font-size:0.74013rem; }
+
+.pl-mono-s2::-webkit-input-placeholder{ font-size:0.74013rem; }
+
+.pl-mono-s2:-ms-input-placeholder{ font-size:0.74013rem; }
+
+.pl-mono-s2::placeholder{ font-size:0.74013rem; }
 
 .mono-s3{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:0.82237rem; }
 
@@ -20785,6 +22129,12 @@ template{ display:none; }
 
 .vi-mono-s3:visited{ font-size:0.82237rem; }
 
+.pl-mono-s3::-webkit-input-placeholder{ font-size:0.82237rem; }
+
+.pl-mono-s3:-ms-input-placeholder{ font-size:0.82237rem; }
+
+.pl-mono-s3::placeholder{ font-size:0.82237rem; }
+
 .mono-s4{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:0.90461rem; }
 
 .ac-mono-s4:active{ font-size:0.90461rem; }
@@ -20794,6 +22144,12 @@ template{ display:none; }
 .ho-mono-s4:hover{ font-size:0.90461rem; }
 
 .vi-mono-s4:visited{ font-size:0.90461rem; }
+
+.pl-mono-s4::-webkit-input-placeholder{ font-size:0.90461rem; }
+
+.pl-mono-s4:-ms-input-placeholder{ font-size:0.90461rem; }
+
+.pl-mono-s4::placeholder{ font-size:0.90461rem; }
 
 .mono-s5{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:0.98684rem; }
 
@@ -20805,6 +22161,12 @@ template{ display:none; }
 
 .vi-mono-s5:visited{ font-size:0.98684rem; }
 
+.pl-mono-s5::-webkit-input-placeholder{ font-size:0.98684rem; }
+
+.pl-mono-s5:-ms-input-placeholder{ font-size:0.98684rem; }
+
+.pl-mono-s5::placeholder{ font-size:0.98684rem; }
+
 .mono-s6{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:1.15132rem; }
 
 .ac-mono-s6:active{ font-size:1.15132rem; }
@@ -20814,6 +22176,12 @@ template{ display:none; }
 .ho-mono-s6:hover{ font-size:1.15132rem; }
 
 .vi-mono-s6:visited{ font-size:1.15132rem; }
+
+.pl-mono-s6::-webkit-input-placeholder{ font-size:1.15132rem; }
+
+.pl-mono-s6:-ms-input-placeholder{ font-size:1.15132rem; }
+
+.pl-mono-s6::placeholder{ font-size:1.15132rem; }
 
 .mono-s7{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:1.31579rem; }
 
@@ -20825,6 +22193,12 @@ template{ display:none; }
 
 .vi-mono-s7:visited{ font-size:1.31579rem; }
 
+.pl-mono-s7::-webkit-input-placeholder{ font-size:1.31579rem; }
+
+.pl-mono-s7:-ms-input-placeholder{ font-size:1.31579rem; }
+
+.pl-mono-s7::placeholder{ font-size:1.31579rem; }
+
 .mono-s8{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:1.48026rem; }
 
 .ac-mono-s8:active{ font-size:1.48026rem; }
@@ -20834,6 +22208,12 @@ template{ display:none; }
 .ho-mono-s8:hover{ font-size:1.48026rem; }
 
 .vi-mono-s8:visited{ font-size:1.48026rem; }
+
+.pl-mono-s8::-webkit-input-placeholder{ font-size:1.48026rem; }
+
+.pl-mono-s8:-ms-input-placeholder{ font-size:1.48026rem; }
+
+.pl-mono-s8::placeholder{ font-size:1.48026rem; }
 
 .mono-s9{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:2.46711rem; }
 
@@ -20845,6 +22225,12 @@ template{ display:none; }
 
 .vi-mono-s9:visited{ font-size:2.46711rem; }
 
+.pl-mono-s9::-webkit-input-placeholder{ font-size:2.46711rem; }
+
+.pl-mono-s9:-ms-input-placeholder{ font-size:2.46711rem; }
+
+.pl-mono-s9::placeholder{ font-size:2.46711rem; }
+
 .mono-s10{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:4.27632rem; }
 
 .ac-mono-s10:active{ font-size:4.27632rem; }
@@ -20854,6 +22240,12 @@ template{ display:none; }
 .ho-mono-s10:hover{ font-size:4.27632rem; }
 
 .vi-mono-s10:visited{ font-size:4.27632rem; }
+
+.pl-mono-s10::-webkit-input-placeholder{ font-size:4.27632rem; }
+
+.pl-mono-s10:-ms-input-placeholder{ font-size:4.27632rem; }
+
+.pl-mono-s10::placeholder{ font-size:4.27632rem; }
 
 .mono-s11{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:7.40132rem; }
 
@@ -20865,6 +22257,12 @@ template{ display:none; }
 
 .vi-mono-s11:visited{ font-size:7.40132rem; }
 
+.pl-mono-s11::-webkit-input-placeholder{ font-size:7.40132rem; }
+
+.pl-mono-s11:-ms-input-placeholder{ font-size:7.40132rem; }
+
+.pl-mono-s11::placeholder{ font-size:7.40132rem; }
+
 .mono-s12{ font-family:"Roboto Mono", "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace; font-size:9.86842rem; }
 
 .ac-mono-s12:active{ font-size:9.86842rem; }
@@ -20874,6 +22272,12 @@ template{ display:none; }
 .ho-mono-s12:hover{ font-size:9.86842rem; }
 
 .vi-mono-s12:visited{ font-size:9.86842rem; }
+
+.pl-mono-s12::-webkit-input-placeholder{ font-size:9.86842rem; }
+
+.pl-mono-s12:-ms-input-placeholder{ font-size:9.86842rem; }
+
+.pl-mono-s12::placeholder{ font-size:9.86842rem; }
 
 .sans-s1{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:0.67385rem; }
 
@@ -20885,6 +22289,12 @@ template{ display:none; }
 
 .vi-sans-s1:visited{ font-size:0.67385rem; }
 
+.pl-sans-s1::-webkit-input-placeholder{ font-size:0.67385rem; }
+
+.pl-sans-s1:-ms-input-placeholder{ font-size:0.67385rem; }
+
+.pl-sans-s1::placeholder{ font-size:0.67385rem; }
+
 .sans-s2{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:0.75809rem; }
 
 .ac-sans-s2:active{ font-size:0.75809rem; }
@@ -20894,6 +22304,12 @@ template{ display:none; }
 .ho-sans-s2:hover{ font-size:0.75809rem; }
 
 .vi-sans-s2:visited{ font-size:0.75809rem; }
+
+.pl-sans-s2::-webkit-input-placeholder{ font-size:0.75809rem; }
+
+.pl-sans-s2:-ms-input-placeholder{ font-size:0.75809rem; }
+
+.pl-sans-s2::placeholder{ font-size:0.75809rem; }
 
 .sans-s3{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:0.84232rem; }
 
@@ -20905,6 +22321,12 @@ template{ display:none; }
 
 .vi-sans-s3:visited{ font-size:0.84232rem; }
 
+.pl-sans-s3::-webkit-input-placeholder{ font-size:0.84232rem; }
+
+.pl-sans-s3:-ms-input-placeholder{ font-size:0.84232rem; }
+
+.pl-sans-s3::placeholder{ font-size:0.84232rem; }
+
 .sans-s4, button, legend{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:0.92655rem; }
 
 .ac-sans-s4:active{ font-size:0.92655rem; }
@@ -20914,6 +22336,12 @@ template{ display:none; }
 .ho-sans-s4:hover{ font-size:0.92655rem; }
 
 .vi-sans-s4:visited{ font-size:0.92655rem; }
+
+.pl-sans-s4::-webkit-input-placeholder{ font-size:0.92655rem; }
+
+.pl-sans-s4:-ms-input-placeholder{ font-size:0.92655rem; }
+
+.pl-sans-s4::placeholder{ font-size:0.92655rem; }
 
 .sans-s5, body, input, select, option, textarea, [type=text], [type=password], [type=url], [type=email], [type=number]{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:1.01078rem; }
 
@@ -20925,6 +22353,12 @@ template{ display:none; }
 
 .vi-sans-s5:visited{ font-size:1.01078rem; }
 
+.pl-sans-s5::-webkit-input-placeholder, [type=text]::-webkit-input-placeholder, [type=password]::-webkit-input-placeholder, [type=url]::-webkit-input-placeholder, [type=email]::-webkit-input-placeholder, [type=number]::-webkit-input-placeholder, textarea::-webkit-input-placeholder, select::-webkit-input-placeholder{ font-size:1.01078rem; }
+
+.pl-sans-s5:-ms-input-placeholder, [type=text]:-ms-input-placeholder, [type=password]:-ms-input-placeholder, [type=url]:-ms-input-placeholder, [type=email]:-ms-input-placeholder, [type=number]:-ms-input-placeholder, textarea:-ms-input-placeholder, select:-ms-input-placeholder{ font-size:1.01078rem; }
+
+.pl-sans-s5::placeholder, [type=text]::placeholder, [type=password]::placeholder, [type=url]::placeholder, [type=email]::placeholder, [type=number]::placeholder, textarea::placeholder, select::placeholder{ font-size:1.01078rem; }
+
 .sans-s6{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:1.17925rem; }
 
 .ac-sans-s6:active{ font-size:1.17925rem; }
@@ -20934,6 +22368,12 @@ template{ display:none; }
 .ho-sans-s6:hover{ font-size:1.17925rem; }
 
 .vi-sans-s6:visited{ font-size:1.17925rem; }
+
+.pl-sans-s6::-webkit-input-placeholder{ font-size:1.17925rem; }
+
+.pl-sans-s6:-ms-input-placeholder{ font-size:1.17925rem; }
+
+.pl-sans-s6::placeholder{ font-size:1.17925rem; }
 
 .sans-s7{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:1.34771rem; }
 
@@ -20945,6 +22385,12 @@ template{ display:none; }
 
 .vi-sans-s7:visited{ font-size:1.34771rem; }
 
+.pl-sans-s7::-webkit-input-placeholder{ font-size:1.34771rem; }
+
+.pl-sans-s7:-ms-input-placeholder{ font-size:1.34771rem; }
+
+.pl-sans-s7::placeholder{ font-size:1.34771rem; }
+
 .sans-s8{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:1.51617rem; }
 
 .ac-sans-s8:active{ font-size:1.51617rem; }
@@ -20954,6 +22400,12 @@ template{ display:none; }
 .ho-sans-s8:hover{ font-size:1.51617rem; }
 
 .vi-sans-s8:visited{ font-size:1.51617rem; }
+
+.pl-sans-s8::-webkit-input-placeholder{ font-size:1.51617rem; }
+
+.pl-sans-s8:-ms-input-placeholder{ font-size:1.51617rem; }
+
+.pl-sans-s8::placeholder{ font-size:1.51617rem; }
 
 .sans-s9, h1, h2{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:2.52695rem; }
 
@@ -20965,6 +22417,12 @@ template{ display:none; }
 
 .vi-sans-s9:visited{ font-size:2.52695rem; }
 
+.pl-sans-s9::-webkit-input-placeholder{ font-size:2.52695rem; }
+
+.pl-sans-s9:-ms-input-placeholder{ font-size:2.52695rem; }
+
+.pl-sans-s9::placeholder{ font-size:2.52695rem; }
+
 .sans-s10{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:4.38005rem; }
 
 .ac-sans-s10:active{ font-size:4.38005rem; }
@@ -20974,6 +22432,12 @@ template{ display:none; }
 .ho-sans-s10:hover{ font-size:4.38005rem; }
 
 .vi-sans-s10:visited{ font-size:4.38005rem; }
+
+.pl-sans-s10::-webkit-input-placeholder{ font-size:4.38005rem; }
+
+.pl-sans-s10:-ms-input-placeholder{ font-size:4.38005rem; }
+
+.pl-sans-s10::placeholder{ font-size:4.38005rem; }
 
 .sans-s11{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:7.58086rem; }
 
@@ -20985,6 +22449,12 @@ template{ display:none; }
 
 .vi-sans-s11:visited{ font-size:7.58086rem; }
 
+.pl-sans-s11::-webkit-input-placeholder{ font-size:7.58086rem; }
+
+.pl-sans-s11:-ms-input-placeholder{ font-size:7.58086rem; }
+
+.pl-sans-s11::placeholder{ font-size:7.58086rem; }
+
 .sans-s12{ font-family:"18Franklin-webfont", system, -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-size:10.10782rem; }
 
 .ac-sans-s12:active{ font-size:10.10782rem; }
@@ -20994,6 +22464,12 @@ template{ display:none; }
 .ho-sans-s12:hover{ font-size:10.10782rem; }
 
 .vi-sans-s12:visited{ font-size:10.10782rem; }
+
+.pl-sans-s12::-webkit-input-placeholder{ font-size:10.10782rem; }
+
+.pl-sans-s12:-ms-input-placeholder{ font-size:10.10782rem; }
+
+.pl-sans-s12::placeholder{ font-size:10.10782rem; }
 
 .serif-s1{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:0.72254rem; }
 
@@ -21005,6 +22481,12 @@ template{ display:none; }
 
 .vi-serif-s1:visited{ font-size:0.72254rem; }
 
+.pl-serif-s1::-webkit-input-placeholder{ font-size:0.72254rem; }
+
+.pl-serif-s1:-ms-input-placeholder{ font-size:0.72254rem; }
+
+.pl-serif-s1::placeholder{ font-size:0.72254rem; }
+
 .serif-s2{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:0.81286rem; }
 
 .ac-serif-s2:active{ font-size:0.81286rem; }
@@ -21014,6 +22496,12 @@ template{ display:none; }
 .ho-serif-s2:hover{ font-size:0.81286rem; }
 
 .vi-serif-s2:visited{ font-size:0.81286rem; }
+
+.pl-serif-s2::-webkit-input-placeholder{ font-size:0.81286rem; }
+
+.pl-serif-s2:-ms-input-placeholder{ font-size:0.81286rem; }
+
+.pl-serif-s2::placeholder{ font-size:0.81286rem; }
 
 .serif-s3{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:0.90318rem; }
 
@@ -21025,6 +22513,12 @@ template{ display:none; }
 
 .vi-serif-s3:visited{ font-size:0.90318rem; }
 
+.pl-serif-s3::-webkit-input-placeholder{ font-size:0.90318rem; }
+
+.pl-serif-s3:-ms-input-placeholder{ font-size:0.90318rem; }
+
+.pl-serif-s3::placeholder{ font-size:0.90318rem; }
+
 .serif-s4{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:0.9935rem; }
 
 .ac-serif-s4:active{ font-size:0.9935rem; }
@@ -21034,6 +22528,12 @@ template{ display:none; }
 .ho-serif-s4:hover{ font-size:0.9935rem; }
 
 .vi-serif-s4:visited{ font-size:0.9935rem; }
+
+.pl-serif-s4::-webkit-input-placeholder{ font-size:0.9935rem; }
+
+.pl-serif-s4:-ms-input-placeholder{ font-size:0.9935rem; }
+
+.pl-serif-s4::placeholder{ font-size:0.9935rem; }
 
 .serif-s5{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:1.08382rem; }
 
@@ -21045,6 +22545,12 @@ template{ display:none; }
 
 .vi-serif-s5:visited{ font-size:1.08382rem; }
 
+.pl-serif-s5::-webkit-input-placeholder{ font-size:1.08382rem; }
+
+.pl-serif-s5:-ms-input-placeholder{ font-size:1.08382rem; }
+
+.pl-serif-s5::placeholder{ font-size:1.08382rem; }
+
 .serif-s6{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:1.26445rem; }
 
 .ac-serif-s6:active{ font-size:1.26445rem; }
@@ -21054,6 +22560,12 @@ template{ display:none; }
 .ho-serif-s6:hover{ font-size:1.26445rem; }
 
 .vi-serif-s6:visited{ font-size:1.26445rem; }
+
+.pl-serif-s6::-webkit-input-placeholder{ font-size:1.26445rem; }
+
+.pl-serif-s6:-ms-input-placeholder{ font-size:1.26445rem; }
+
+.pl-serif-s6::placeholder{ font-size:1.26445rem; }
 
 .serif-s7{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:1.44509rem; }
 
@@ -21065,6 +22577,12 @@ template{ display:none; }
 
 .vi-serif-s7:visited{ font-size:1.44509rem; }
 
+.pl-serif-s7::-webkit-input-placeholder{ font-size:1.44509rem; }
+
+.pl-serif-s7:-ms-input-placeholder{ font-size:1.44509rem; }
+
+.pl-serif-s7::placeholder{ font-size:1.44509rem; }
+
 .serif-s8{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:1.62572rem; }
 
 .ac-serif-s8:active{ font-size:1.62572rem; }
@@ -21074,6 +22592,12 @@ template{ display:none; }
 .ho-serif-s8:hover{ font-size:1.62572rem; }
 
 .vi-serif-s8:visited{ font-size:1.62572rem; }
+
+.pl-serif-s8::-webkit-input-placeholder{ font-size:1.62572rem; }
+
+.pl-serif-s8:-ms-input-placeholder{ font-size:1.62572rem; }
+
+.pl-serif-s8::placeholder{ font-size:1.62572rem; }
 
 .serif-s9{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:2.70954rem; }
 
@@ -21085,6 +22609,12 @@ template{ display:none; }
 
 .vi-serif-s9:visited{ font-size:2.70954rem; }
 
+.pl-serif-s9::-webkit-input-placeholder{ font-size:2.70954rem; }
+
+.pl-serif-s9:-ms-input-placeholder{ font-size:2.70954rem; }
+
+.pl-serif-s9::placeholder{ font-size:2.70954rem; }
+
 .serif-s10{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:4.69653rem; }
 
 .ac-serif-s10:active{ font-size:4.69653rem; }
@@ -21094,6 +22624,12 @@ template{ display:none; }
 .ho-serif-s10:hover{ font-size:4.69653rem; }
 
 .vi-serif-s10:visited{ font-size:4.69653rem; }
+
+.pl-serif-s10::-webkit-input-placeholder{ font-size:4.69653rem; }
+
+.pl-serif-s10:-ms-input-placeholder{ font-size:4.69653rem; }
+
+.pl-serif-s10::placeholder{ font-size:4.69653rem; }
 
 .serif-s11{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:8.12861rem; }
 
@@ -21105,6 +22641,12 @@ template{ display:none; }
 
 .vi-serif-s11:visited{ font-size:8.12861rem; }
 
+.pl-serif-s11::-webkit-input-placeholder{ font-size:8.12861rem; }
+
+.pl-serif-s11:-ms-input-placeholder{ font-size:8.12861rem; }
+
+.pl-serif-s11::placeholder{ font-size:8.12861rem; }
+
 .serif-s12{ font-family:"Georgia", "Cambria", "Times New Roman", "Times", serif; font-size:10.83815rem; }
 
 .ac-serif-s12:active{ font-size:10.83815rem; }
@@ -21114,6 +22656,12 @@ template{ display:none; }
 .ho-serif-s12:hover{ font-size:10.83815rem; }
 
 .vi-serif-s12:visited{ font-size:10.83815rem; }
+
+.pl-serif-s12::-webkit-input-placeholder{ font-size:10.83815rem; }
+
+.pl-serif-s12:-ms-input-placeholder{ font-size:10.83815rem; }
+
+.pl-serif-s12::placeholder{ font-size:10.83815rem; }
 
 .italic{ font-style:italic; }
 
@@ -21135,6 +22683,12 @@ template{ display:none; }
 
 .vi-fw100:visited{ font-weight:100; }
 
+.pl-fw100::-webkit-input-placeholder{ font-weight:100; }
+
+.pl-fw100:-ms-input-placeholder{ font-weight:100; }
+
+.pl-fw100::placeholder{ font-weight:100; }
+
 .fw200{ font-weight:200; }
 
 .ac-fw200:active{ font-weight:200; }
@@ -21144,6 +22698,12 @@ template{ display:none; }
 .ho-fw200:hover{ font-weight:200; }
 
 .vi-fw200:visited{ font-weight:200; }
+
+.pl-fw200::-webkit-input-placeholder{ font-weight:200; }
+
+.pl-fw200:-ms-input-placeholder{ font-weight:200; }
+
+.pl-fw200::placeholder{ font-weight:200; }
 
 .fw300, h2{ font-weight:300; }
 
@@ -21155,6 +22715,12 @@ template{ display:none; }
 
 .vi-fw300:visited{ font-weight:300; }
 
+.pl-fw300::-webkit-input-placeholder, [type=text]::-webkit-input-placeholder, [type=password]::-webkit-input-placeholder, [type=url]::-webkit-input-placeholder, [type=email]::-webkit-input-placeholder, [type=number]::-webkit-input-placeholder, textarea::-webkit-input-placeholder, select::-webkit-input-placeholder{ font-weight:300; }
+
+.pl-fw300:-ms-input-placeholder, [type=text]:-ms-input-placeholder, [type=password]:-ms-input-placeholder, [type=url]:-ms-input-placeholder, [type=email]:-ms-input-placeholder, [type=number]:-ms-input-placeholder, textarea:-ms-input-placeholder, select:-ms-input-placeholder{ font-weight:300; }
+
+.pl-fw300::placeholder, [type=text]::placeholder, [type=password]::placeholder, [type=url]::placeholder, [type=email]::placeholder, [type=number]::placeholder, textarea::placeholder, select::placeholder{ font-weight:300; }
+
 .fw400, button{ font-weight:400; }
 
 .ac-fw400:active{ font-weight:400; }
@@ -21164,6 +22730,12 @@ template{ display:none; }
 .ho-fw400:hover{ font-weight:400; }
 
 .vi-fw400:visited{ font-weight:400; }
+
+.pl-fw400::-webkit-input-placeholder{ font-weight:400; }
+
+.pl-fw400:-ms-input-placeholder{ font-weight:400; }
+
+.pl-fw400::placeholder{ font-weight:400; }
 
 .fw500{ font-weight:500; }
 
@@ -21175,6 +22747,12 @@ template{ display:none; }
 
 .vi-fw500:visited{ font-weight:500; }
 
+.pl-fw500::-webkit-input-placeholder{ font-weight:500; }
+
+.pl-fw500:-ms-input-placeholder{ font-weight:500; }
+
+.pl-fw500::placeholder{ font-weight:500; }
+
 .fw600{ font-weight:600; }
 
 .ac-fw600:active{ font-weight:600; }
@@ -21184,6 +22762,12 @@ template{ display:none; }
 .ho-fw600:hover{ font-weight:600; }
 
 .vi-fw600:visited{ font-weight:600; }
+
+.pl-fw600::-webkit-input-placeholder{ font-weight:600; }
+
+.pl-fw600:-ms-input-placeholder{ font-weight:600; }
+
+.pl-fw600::placeholder{ font-weight:600; }
 
 .fw700, h1, legend{ font-weight:700; }
 
@@ -21195,6 +22779,12 @@ template{ display:none; }
 
 .vi-fw700:visited{ font-weight:700; }
 
+.pl-fw700::-webkit-input-placeholder{ font-weight:700; }
+
+.pl-fw700:-ms-input-placeholder{ font-weight:700; }
+
+.pl-fw700::placeholder{ font-weight:700; }
+
 .fw800{ font-weight:800; }
 
 .ac-fw800:active{ font-weight:800; }
@@ -21205,6 +22795,12 @@ template{ display:none; }
 
 .vi-fw800:visited{ font-weight:800; }
 
+.pl-fw800::-webkit-input-placeholder{ font-weight:800; }
+
+.pl-fw800:-ms-input-placeholder{ font-weight:800; }
+
+.pl-fw800::placeholder{ font-weight:800; }
+
 .fw900{ font-weight:900; }
 
 .ac-fw900:active{ font-weight:900; }
@@ -21214,6 +22810,12 @@ template{ display:none; }
 .ho-fw900:hover{ font-weight:900; }
 
 .vi-fw900:visited{ font-weight:900; }
+
+.pl-fw900::-webkit-input-placeholder{ font-weight:900; }
+
+.pl-fw900:-ms-input-placeholder{ font-weight:900; }
+
+.pl-fw900::placeholder{ font-weight:900; }
 
 .h10ct{ height:10%; }
 
@@ -21329,13 +22931,43 @@ template{ display:none; }
 
 .lh-single{ line-height:1; }
 
+.pl-lh-single::-webkit-input-placeholder{ line-height:1; }
+
+.pl-lh-single:-ms-input-placeholder{ line-height:1; }
+
+.pl-lh-single::placeholder{ line-height:1; }
+
 .lh-hed, h1, h2, h3, h4, h5, h6{ line-height:1.1; }
+
+.pl-lh-hed::-webkit-input-placeholder{ line-height:1.1; }
+
+.pl-lh-hed:-ms-input-placeholder{ line-height:1.1; }
+
+.pl-lh-hed::placeholder{ line-height:1.1; }
 
 .lh-cap, [type=text], [type=password], [type=url], [type=email], [type=number], textarea, select{ line-height:1.3; }
 
+.pl-lh-cap::-webkit-input-placeholder{ line-height:1.3; }
+
+.pl-lh-cap:-ms-input-placeholder{ line-height:1.3; }
+
+.pl-lh-cap::placeholder{ line-height:1.3; }
+
 .lh-body{ line-height:1.618; }
 
+.pl-lh-body::-webkit-input-placeholder{ line-height:1.618; }
+
+.pl-lh-body:-ms-input-placeholder{ line-height:1.618; }
+
+.pl-lh-body::placeholder{ line-height:1.618; }
+
 .lh-display{ line-height:1.75; }
+
+.pl-lh-display::-webkit-input-placeholder{ line-height:1.75; }
+
+.pl-lh-display:-ms-input-placeholder{ line-height:1.75; }
+
+.pl-lh-display::placeholder{ line-height:1.75; }
 
 .ll-narrow{ max-width:17em; }
 
