@@ -4,12 +4,13 @@ var gulp = require('gulp'),
     del = require('del'),
     sass = require('gulp-sass'),
     sourcemaps = require('gulp-sourcemaps'),
-    autoprefixer = require('gulp-autoprefixer'),
+    autoprefixer = require('autoprefixer'),
 		rename = require('gulp-rename'),
-    cleanCSS = require('gulp-clean-css'),
-    combineMq = require('gulp-combine-mq'),
-    strip = require('gulp-strip-css-comments'),
-    uncss = require('gulp-uncss'),
+    cleancss = require('postcss-clean'),
+    mqpacker = require('css-mqpacker'),
+    comments = require('postcss-discard-comments'),
+    uncss = require('postcss-uncss'),
+    postcss = require('gulp-postcss'),
     size = require('gulp-size');
 
 var supportedBrowsers = [
@@ -34,6 +35,11 @@ const UNITED_OVERRIDE_DIR = path.join(__dirname, ...UNITED_OVERRIDE.split('/'));
 // Build United
 
 gulp.task('build-united', function(done) {
+  var processors = [
+      autoprefixer,
+      comments,
+      mqpacker
+  ];
   return gulp.src(`${UNITED_SASS_DIST}/united.scss`)
     .pipe(sourcemaps.init())
     .pipe(sass({
@@ -45,14 +51,7 @@ gulp.task('build-united', function(done) {
           UNITED_OVERRIDE_DIR,
         ]
   }).on('error', sass.logError))
-  	.pipe(
-      autoprefixer({
-        browsers: supportedBrowsers,
-        cascade: false,
-      })
-    )
-    .pipe(strip())
-    .pipe(combineMq())
+    .pipe(postcss(processors))
     .pipe(rename('united.css'))
     .pipe(gulp.dest('./static/css'))
     .pipe(size())
@@ -77,11 +76,14 @@ gulp.task('clean', function(done) {
 // Subset the united base to only the style required by the app/site
 
 gulp.task('subset-united', function() {
+  var processors = [
+      uncss({
+            html: ['./public/index.html']
+        }),
+      cleancss
+  ];
   return gulp.src('./static/css/united.css')
-    .pipe(uncss({
-      html: ['./public/index.html']
-    }))
-    .pipe(cleanCSS({ compatibility: 'ie8' }))
+    .pipe(postcss(processors))
     .pipe(rename('united.app.css'))
     .pipe(gulp.dest('./static/css'))
     .pipe(size())
