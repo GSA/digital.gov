@@ -78,7 +78,7 @@ gulp.task('clean', function(done) {
 gulp.task('subset-united', function() {
   var processors = [
       uncss({
-            html: ['./public/index.html']
+            html: ['./public/**/*.html']
         }),
       cleancss
   ];
