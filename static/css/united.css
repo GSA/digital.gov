@@ -17603,11 +17603,11 @@ template{ display:none; }
 
 .vi-b-white-0:visited{ border-color:#fff; }
 
-.rd0, [type=text], [type=password], [type=url], [type=email], [type=number], textarea, select{ border-radius:0; }
+.br0, [type=text], [type=password], [type=url], [type=email], [type=number], textarea, select{ border-radius:0; }
 
-.rd-pill{ border-radius:10em; }
+.br-pill{ border-radius:10em; }
 
-.rd-rounded, .tk, [type=text], [type=password], [type=url], [type=email], [type=number], textarea, select, button{ border-radius:2px; }
+.br-rounded, .tk, [type=text], [type=password], [type=url], [type=email], [type=number], textarea, select, button{ border-radius:2px; }
 
 .bt-dashed{ border-top-style:dashed; }
 
@@ -18389,7 +18389,7 @@ template{ display:none; }
 
 .vi-bt0:visited{ border-top-width:0; }
 
-.br0{ border-left-width:0; }
+.br0, [type=text], [type=password], [type=url], [type=email], [type=number], textarea, select{ border-left-width:0; }
 
 .ac-br0:active{ border-left-width:0; }
 

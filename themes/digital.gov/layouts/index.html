@@ -5,14 +5,15 @@
 
 {{ define "content" }}
 
-<div class="w100ct mtn6 md-mtn8 px2 center">
+<div class="w100ct mtn6 md-mtn8 px105 center">
   <div class="">
-    <img class="block mx-auto" src="{{ "img/dg-logo.svg" | absURL }}"/>
+    <img class="w8 block mx-auto" src="{{ "img/dg-logo.svg" | absURL }}"/>
   </div>
 
   <h1 class="sans-s9 pt2 fw700">Digital.gov</h1>
   <p class="sans-s8 pt1 fw200 mt0 lh-title">We’re helping build a modern government.</p>
-  <p class="sans-s5 pt4 mt0 lh-cap">This is all pretty new. {{ emojify ":tada:" }} Continue to <a class="ultramarine-50 fo-bg-gold ho-outline-05 ho-outline-gold" href="https://digitalgov.gov" alt="digitalgov.gov">digitalgov.gov</a>. </p>
+  <p class="sans-s9 pt2 mt0 lh-cap">{{ emojify ":tada:" }}</p>
+  <a class="plain mt2 td-none ho-bg-indigo-60 fo-bg-indigo-60 ac-bg-gold-20 inline-block p2 br-pill bg-indigo-50 white" href="https://digitalgov.gov" alt="digitalgov.gov">Continue to digitalgov.gov</a>
 </div>
 
 {{ end }}
