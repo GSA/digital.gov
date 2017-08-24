@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noindex">
 
 {{/* Set render type as Edge for IE */}}
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <meta name="description" content="{{ .Summary | default "We're helping build a modern government." }}">
+
+<title>{{ $.Scratch.Get "headtitle" | default $.Site.Title }}</title>
 
 {{/* what's this?
 <head profile="http://gmpg.org/xfn/11">
@@ -15,14 +18,13 @@
   <!-- ============== -->
   <!-- Redirecting the site to digitalgov.gov -->
   {{/*
-  <!-- <meta http-equiv="refresh" content="1; url=https://www.digitalgov.gov"> -->
+  <meta http-equiv="refresh" content="1; url=https://www.digitalgov.gov">
   <script type="text/javascript">
-    // window.location.href = "https://www.digitalgov.gov"
+    window.location.href = "https://www.digitalgov.gov"
   </script>
   */}}
   <!-- ============== -->
 
-  <title>{{ $.Scratch.Get "headtitle" | default $.Site.Title }}</title>
 
   {{/* TODO: need separate analytics */}}
   {{/*
