@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+{{/* Set render type as Edge for IE */}}
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="description" content="{{ .Summary | default "We're helping build a modern government." }}">
+
+{{/* what's this?
 <head profile="http://gmpg.org/xfn/11">
+*/}}
 
   <!-- ============== -->
   <!-- Redirecting the site to digitalgov.gov -->
@@ -13,11 +22,7 @@
   */}}
   <!-- ============== -->
 
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-
-  <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title) }}</title>
+  <title>{{ $.Scratch.Get "headtitle" | default $.Site.Title }}</title>
 
   {{/* TODO: need separate analytics */}}
   {{/*
@@ -101,6 +106,5 @@
   <link rel="shortcut icon" href='{{ "img/icons/favicon.ico" | absURL }}'>
   <meta name="msapplication-config" content='{{ "img/icons/browserconfig.xml" | absURL }}'>
   <meta name="theme-color" content="#ffffff">
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
 
 </head>
