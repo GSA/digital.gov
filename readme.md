@@ -1,8 +1,6 @@
 # Digital.gov
 
-Hello.
-
-Welcome to our repository.
-
+Deprecated
+This project repo is no longer being maintained.
 ---
 
